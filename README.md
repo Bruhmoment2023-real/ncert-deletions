@@ -26,6 +26,7 @@ In June 2022 NCERT published lists of content it had "rationalised" (dropped) fr
 - Python 3.12.10 (Windows). Install: `python -m venv venv`, then `venv\Scripts\python -m pip install -r requirements.txt` (`requirements.txt` is the pip freeze of the original environment; spaCy and OCR packages are only needed for entity counts and OCR).
 - OCR (only for the seven books whose 2022-23 scan has no text layer): Tesseract 5.5 with `eng` and `hin` tessdata_fast; see `docs/RUN-ORDER-full-corpus.md` for the exact set-up.
 - Run order, with every command, is in `docs/RUN-ORDER-full-corpus.md` (56-book run) and `docs/RUN-ORDER-pilot.md` (pilot). In short: `code/acquire.py` (download the books, see below) -> `fetch_alt.py` / `ocr_pdf.py` -> `make_pairs.py` -> `run_corpus.py` -> `qa_pairs.py` -> `compare_official2.py` -> `crosscheck.py`, `classify_rules.py`, sensitivity runs -> `aggregate*.py`. Tests: `python -m pytest code/tests -q`.
+- Chapter-threshold sensitivity (paper section 2.3; needs only the repo): `python -I code/threshold_sensitivity.py` reads `results/chapter_summary.csv` and writes `results/threshold_sensitivity.csv` (words removed, share and dropped English chapters at 20/25/30/35/40%).
 - The scripts expect the original working layout (`data/books/<edition>/<book>/*.pdf`, `data/official/` booklets) and some hard-coded D:/E: scratch paths; adjust the paths at the top of each script.
 
 ## How to obtain the textbooks and official booklets (not included)
