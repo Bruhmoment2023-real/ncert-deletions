@@ -1,0 +1,6 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,lhhs101,0,lhhs101,lhhs101,1.0,0,12340,0,0.0,0,12340,0,345,0,0,0
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,lhhs102,0,lhhs102,lhhs102,1.0,0,11562,0,0.0,0,11562,0,318,0,0,0
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,lhhs103,0,lhhs103,lhhs103,0.9995,0,13321,0,0.0,6,13315,0,270,0,1,0
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,lhhs104,0,lhhs104,lhhs104,0.9995,0,11954,0,0.0,6,11948,0,315,0,1,0
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,lhhs1ps,1,lhhs1ps,lhhs1ps,0.9697,0,4259,76,0.0178,0,4590,422,108,4,0,5

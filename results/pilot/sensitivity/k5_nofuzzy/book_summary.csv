@@ -1,0 +1,12 @@
+﻿book,title,old_edition,new_edition,old_chapters,new_chapters,chapters_dropped,old_words,new_words,removed_words,share_removed,removed_words_in_dropped_chapters,removed_words_in_surviving_chapters,added_words,moved_words
+lehs1,Themes in Indian History Part I,old,rat2023,4,4,0,35580,35580,0,0.0,0,0,0,0
+lehs2,Themes in Indian History Part II,old,rat2023,5,4,1,47144,36865,10163,0.2156,10163,0,79,728
+lehs3,Themes in Indian History Part III,old,rat2023,6,4,2,62600,42592,19876,0.3175,19592,284,175,326
+leps1,Contemporary World Politics,old,rat2023,9,7,2,51915,39821,12047,0.2321,11875,172,555,597
+leps2,Politics in India since Independence,old2122,rat2023,9,8,1,61962,48016,14192,0.229,7045,7147,662,304
+lehs1,Themes in Indian History Part I,rat2023,latest,4,4,0,35580,36347,282,0.0079,0,282,739,5
+lehs2,Themes in Indian History Part II,rat2023,latest,4,4,0,36865,36865,0,0.0,0,0,0,0
+lehs3,Themes in Indian History Part III,rat2023,latest,4,4,0,42592,42840,4,0.0001,0,4,216,0
+leps1,Contemporary World Politics,rat2023,latest,7,7,0,39821,39817,157,0.0039,0,157,153,0
+leps2,Politics in India since Independence,rat2023,latest,8,8,0,48016,48036,1350,0.0281,0,1350,1423,41
+leps2,Politics in India since Independence,old,old2122,9,9,0,62072,61962,125,0.002,0,125,17,0

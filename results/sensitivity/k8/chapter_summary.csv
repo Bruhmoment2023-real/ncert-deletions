@@ -1,0 +1,577 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+fess1,Our Pasts I,old,rat2023,fees101,0,fess101,fess101,0.8867,0,2277,236,0.1036,0,2050,9,175,4,0,17
+fess1,Our Pasts I,old,rat2023,fess1010,0,fess109,fess109,0.8536,0,2699,309,0.1145,0,2362,21,187,12,0,14
+fess1,Our Pasts I,old,rat2023,fess1011,0,fess110,fess110,0.8992,0,3155,233,0.0739,0,2921,36,252,13,0,18
+fess1,Our Pasts I,old,rat2023,fess102,0,fess102,fess102,0.8577,0,2993,331,0.1106,0,2606,26,221,12,0,21
+fess1,Our Pasts I,old,rat2023,fess103,0,fess103,fess103,0.4825,0,5165,634,0.1227,1931,2543,19,232,13,125,84
+fess1,Our Pasts I,old,rat2023,fess104,0,fess104,fess104,0.8926,0,2700,217,0.0804,0,2467,21,211,7,0,16
+fess1,Our Pasts I,old,rat2023,fess105,0,fess105,fess105,0.671,0,2681,803,0.2995,0,1884,29,160,8,0,67
+fess1,Our Pasts I,old,rat2023,fess106,0,fess106,fess106,0.8851,0,2671,225,0.0842,0,2865,55,224,9,0,16
+fess1,Our Pasts I,old,rat2023,fess107,0,fess107,fess107,0.8825,0,2639,222,0.0841,0,2419,28,210,11,0,12
+fess1,Our Pasts I,old,rat2023,fess108,0,fess108,fess108,0.6277,0,3137,1061,0.3382,0,2950,149,176,17,0,85
+fess1,Our Pasts I,old,rat2023,fess109,0,,fess108,0.2677,1,3149,1950,0.6192,1199,0,0,0,2,72,176
+fess1,Our Pasts I,old,rat2023,fess1ps,1,fess1ps,fess1ps,0.9262,0,2696,92,0.0341,0,2928,322,225,4,0,14
+fess2,The Earth: Our Habitat,old,rat2023,fess201,0,fess201,fess201,0.9996,0,2802,0,0.0,0,2801,0,293,0,0,0
+fess2,The Earth: Our Habitat,old,rat2023,fess202,0,fess202,fess202,0.9996,0,2339,0,0.0,0,2338,0,185,0,0,0
+fess2,The Earth: Our Habitat,old,rat2023,fess203,0,fess203,fess203,0.9994,0,1554,0,0.0,0,1553,0,138,0,0,0
+fess2,The Earth: Our Habitat,old,rat2023,fess204,0,fess204,fess204,0.9993,0,1535,0,0.0,0,1534,0,144,0,0,0
+fess2,The Earth: Our Habitat,old,rat2023,fess205,0,fess205,fess205,0.9986,0,2217,2,0.0009,0,2215,1,207,1,0,0
+fess2,The Earth: Our Habitat,old,rat2023,fess206,0,,fess205,0.0101,1,1780,1770,0.9944,10,0,0,0,0,1,201
+fess2,The Earth: Our Habitat,old,rat2023,fess207,0,fess206,fess206,0.9387,0,1468,46,0.0313,0,1440,20,141,6,0,3
+fess2,The Earth: Our Habitat,old,rat2023,fess208,0,,Appendix,0.0679,1,1752,1752,1.0,0,0,0,0,0,0,197
+fess2,The Earth: Our Habitat,old,rat2023,fess2ps,1,fess2ps,fess2ps,0.8408,0,1602,133,0.083,0,1698,244,115,10,0,17
+fess3,Social and Political Life I,old,rat2023,fess301,0,fess301,fess301,0.9852,0,3584,23,0.0064,0,3563,1,330,3,0,2
+fess3,Social and Political Life I,old,rat2023,fess302,0,fess302,fess302,0.8543,0,3782,519,0.1372,0,3265,12,254,6,0,25
+fess3,Social and Political Life I,old,rat2023,fess303,0,fess303,fess303,0.9649,0,1997,45,0.0225,0,1975,15,158,2,0,12
+fess3,Social and Political Life I,old,rat2023,fess304,0,,fess3ps,0.0182,1,1923,1884,0.9797,39,0,0,0,1,3,154
+fess3,Social and Political Life I,old,rat2023,fess305,0,fess304,fess304,0.9877,0,2032,19,0.0094,0,2032,13,169,3,0,3
+fess3,Social and Political Life I,old,rat2023,fess306,0,fess305,fess305,0.9579,0,2326,21,0.009,0,2337,45,267,4,0,2
+fess3,Social and Political Life I,old,rat2023,fess307,0,fess306,fess306,0.9954,0,2586,9,0.0035,0,2586,8,197,1,0,1
+fess3,Social and Political Life I,old,rat2023,fess308,0,fess307,fess307,0.9927,0,2859,4,0.0014,0,2860,7,281,1,0,1
+fess3,Social and Political Life I,old,rat2023,fess309,0,fess308,fess308,0.9865,0,3032,16,0.0053,0,3029,17,268,3,0,1
+fess3,Social and Political Life I,old,rat2023,fess3ps,1,fess3ps,fess3ps,0.9461,0,3507,61,0.0174,7,4000,552,253,7,1,6
+fess3,Social and Political Life I,old,rat2023,fess3rf,0,fess3rf,fess3rf,1.0,0,129,0,0.0,0,133,4,31,0,0,0
+fesc1,Science,old,rat2023,fesc101,0,,fesc101,0.021,1,2424,2348,0.9686,76,0,0,0,2,0,260
+fesc1,Science,old,rat2023,fesc102,0,fesc101,fesc101,0.9718,0,3826,25,0.0065,0,3850,59,385,9,0,2
+fesc1,Science,old,rat2023,fesc103,0,,fesc110,0.0044,1,2279,2267,0.9947,12,0,0,0,0,1,265
+fesc1,Science,old,rat2023,fesc104,0,fesc102,fesc102,0.9641,0,3338,74,0.0222,0,3275,15,309,9,0,4
+fesc1,Science,old,rat2023,fesc105,0,fesc103,fesc103,0.9874,0,4052,28,0.0069,0,4047,22,399,15,0,1
+fesc1,Science,old,rat2023,fesc106,0,,fesc103,0.0061,1,1973,1951,0.9888,22,0,0,0,0,1,198
+fesc1,Science,old,rat2023,fesc107,0,fesc104,fesc104,0.9655,0,4526,58,0.0128,0,4532,59,495,26,0,4
+fesc1,Science,old,rat2023,fesc108,0,fesc105,fesc105,0.9767,0,4637,34,0.0073,0,4637,34,478,21,0,3
+fesc1,Science,old,rat2023,fesc109,0,fesc106,fesc106,0.9857,0,6005,38,0.0063,0,6001,34,539,15,0,1
+fesc1,Science,old,rat2023,fesc110,0,fesc107,fesc107,0.9863,0,4589,23,0.005,0,4590,23,392,8,0,2
+fesc1,Science,old,rat2023,fesc111,0,fesc108,fesc108,0.9875,0,3128,22,0.007,0,3128,22,262,19,0,0
+fesc1,Science,old,rat2023,fesc112,0,fesc109,fesc109,0.9705,0,3188,44,0.0138,0,3188,39,284,22,0,4
+fesc1,Science,old,rat2023,fesc113,0,fesc110,fesc110,0.9832,0,4355,28,0.0064,0,4354,26,390,19,0,1
+fesc1,Science,old,rat2023,fesc114,0,,fesc103,0.0062,1,3725,3693,0.9914,32,0,0,0,0,3,361
+fesc1,Science,old,rat2023,fesc115,0,fesc111,fesc111,0.9759,0,2453,17,0.0069,0,2455,20,249,9,0,2
+fesc1,Science,old,rat2023,fesc116,0,,,0.0,1,3960,3960,1.0,0,0,0,0,0,0,377
+fesc1,Science,old,rat2023,fesc1ps,1,fesc1ps,fesc1ps,0.9108,0,2355,102,0.0433,0,2430,199,171,9,0,11
+gess1,Our Pasts II,old_alt,rat2023,gess101,0,gess101,gess101,0.9872,0,3430,33,0.0096,0,3406,12,251,1,0,3
+gess1,Our Pasts II,old_alt,rat2023,gess102,0,gess102,gess102,0.9178,0,3016,221,0.0733,0,2807,17,231,5,0,15
+gess1,Our Pasts II,old_alt,rat2023,gess103,0,gess103,gess103,0.5676,0,3441,1400,0.4069,0,2075,33,174,5,0,121
+gess1,Our Pasts II,old_alt,rat2023,gess104,0,gess104,gess104,0.5664,0,3745,1582,0.4224,0,2180,22,190,5,0,119
+gess1,Our Pasts II,old_alt,rat2023,gess105,0,,gess102,0.0024,1,3298,3285,0.9961,13,0,0,0,0,0,302
+gess1,Our Pasts II,old_alt,rat2023,gess106,0,,gess101,0.0023,1,3507,3505,0.9994,2,0,0,0,0,0,273
+gess1,Our Pasts II,old_alt,rat2023,gess107,0,gess105,gess105,0.9617,0,2923,112,0.0383,0,2818,7,290,0,0,11
+gess1,Our Pasts II,old_alt,rat2023,gess108,0,gess106,gess106,0.962,0,4185,142,0.0339,0,4152,106,309,2,0,12
+gess1,Our Pasts II,old_alt,rat2023,gess109,0,gess107,gess107,0.9457,0,3316,168,0.0507,0,3169,20,241,3,0,8
+gess1,Our Pasts II,old_alt,rat2023,gess110,0,gess108,gess108,0.6471,0,4233,1423,0.3362,0,2826,29,208,4,0,97
+gess1,Our Pasts II,old_alt,rat2023,gess1ps,1,gess1ps,gess1ps,0.7952,0,2378,278,0.1169,0,2378,335,287,23,0,52
+gess2,Our Environment,old,rat2023,gess201,0,gess201,gess201,1.0,0,1501,0,0.0,0,1501,0,170,0,0,0
+gess2,Our Environment,old,rat2023,gess202,0,gess202,gess202,1.0,0,1240,0,0.0,0,1240,0,150,0,0,0
+gess2,Our Environment,old,rat2023,gess203,0,gess203,gess203,1.0,0,2072,0,0.0,0,2072,0,260,0,0,0
+gess2,Our Environment,old,rat2023,gess204,0,gess204,gess204,1.0,0,2817,0,0.0,0,2817,0,311,0,0,0
+gess2,Our Environment,old,rat2023,gess205,0,gess205,gess205,1.0,0,2296,0,0.0,0,2296,0,212,0,0,0
+gess2,Our Environment,old,rat2023,gess206,0,,,0.0,1,2350,2350,1.0,0,0,0,0,0,0,229
+gess2,Our Environment,old,rat2023,gess207,0,,gess201,0.0052,1,1940,1931,0.9954,9,0,0,0,2,0,202
+gess2,Our Environment,old,rat2023,gess208,0,gess206,gess206,0.9745,0,2711,36,0.0133,0,2689,14,262,10,0,2
+gess2,Our Environment,old,rat2023,gess209,0,gess207,gess207,0.9951,0,2050,4,0.002,0,2048,2,192,3,0,2
+gess2,Our Environment,old,rat2023,gess2ps,1,gess2ps,gess2ps,0.8261,0,1645,136,0.0827,0,1662,205,117,9,0,10
+gess3,Social and Political Life II,old_alt,rat2023,gess301,0,gess301,gess301,0.5239,0,3888,1827,0.4699,8,2045,0,153,1,0,162
+gess3,Social and Political Life II,old_alt,rat2023,gess302,0,gess302,gess302,0.9347,0,3904,242,0.062,0,3718,18,329,1,0,22
+gess3,Social and Political Life II,old_alt,rat2023,gess303,0,gess303,gess303,0.999,0,3051,3,0.001,0,3070,22,303,0,0,2
+gess3,Social and Political Life II,old_alt,rat2023,gess304,0,gess304,gess304,0.9987,0,3167,4,0.0013,0,3178,7,328,0,0,4
+gess3,Social and Political Life II,old_alt,rat2023,gess305,0,gess305,gess305,0.9907,0,3540,28,0.0079,0,3524,13,294,1,0,6
+gess3,Social and Political Life II,old_alt,rat2023,gess306,0,gess306,gess306,0.9975,0,3554,7,0.002,0,3555,8,297,0,0,7
+gess3,Social and Political Life II,old_alt,rat2023,gess307,0,gess307,gess307,0.9963,0,2729,8,0.0029,0,2745,24,242,0,0,8
+gess3,Social and Political Life II,old_alt,rat2023,gess308,0,gess308,gess308,0.9918,0,2819,23,0.0082,0,5645,440,285,0,0,5
+gess3,Social and Political Life II,old_alt,rat2023,gess309,0,,gess308,0.1403,1,2672,2379,0.8903,293,0,0,0,2,18,199
+gess3,Social and Political Life II,old_alt,rat2023,gess3ps,1,gess3ps,gess3ps,0.8787,0,5014,469,0.0935,0,4826,296,379,8,0,40
+gesc1,Science,old,rat2023,gesc101,0,gesc101,gesc101,0.9997,0,2994,1,0.0003,0,2994,1,372,0,0,0
+gesc1,Science,old,rat2023,gesc102,0,gesc102,gesc102,0.9997,0,3702,1,0.0003,0,3702,1,447,0,0,0
+gesc1,Science,old,rat2023,gesc103,0,,gesc107,0.0051,1,3147,3138,0.9971,9,0,0,0,1,0,352
+gesc1,Science,old,rat2023,gesc104,0,gesc103,gesc103,0.9861,0,4240,27,0.0064,1,4238,29,473,18,1,1
+gesc1,Science,old,rat2023,gesc105,0,gesc104,gesc104,0.9911,0,2579,8,0.0031,0,2579,8,352,3,0,0
+gesc1,Science,old,rat2023,gesc106,0,gesc105,gesc105,0.9856,0,3187,16,0.005,0,3183,15,347,7,0,0
+gesc1,Science,old,rat2023,gesc107,0,,,0.0,1,3858,3858,1.0,0,0,0,0,0,0,367
+gesc1,Science,old,rat2023,gesc108,0,,gesc103,0.0018,1,4558,4542,0.9965,16,0,0,0,0,0,486
+gesc1,Science,old,rat2023,gesc109,0,,gesc106,0.0043,1,3516,3504,0.9966,12,0,0,0,0,1,414
+gesc1,Science,old,rat2023,gesc110,0,gesc106,gesc106,0.9734,0,3679,46,0.0125,0,3648,17,402,11,0,4
+gesc1,Science,old,rat2023,gesc111,0,gesc107,gesc107,0.9847,0,3472,17,0.0049,0,3472,18,389,13,0,0
+gesc1,Science,old,rat2023,gesc112,0,gesc108,gesc108,0.9777,0,2785,13,0.0047,0,2785,15,344,11,0,1
+gesc1,Science,old,rat2023,gesc113,0,gesc109,gesc109,0.9759,0,5351,46,0.0086,0,5351,48,534,26,0,4
+gesc1,Science,old,rat2023,gesc114,0,gesc110,gesc110,0.9745,0,3962,26,0.0066,0,3962,26,428,4,0,1
+gesc1,Science,old,rat2023,gesc115,0,gesc111,gesc111,0.9705,0,4949,69,0.0139,0,4949,69,525,38,0,7
+gesc1,Science,old,rat2023,gesc116,0,,gesc106,0.0061,1,3452,3430,0.9936,22,0,0,0,0,1,379
+gesc1,Science,old,rat2023,gesc117,0,gesc112,gesc112,0.9823,0,3495,29,0.0083,0,3487,23,367,11,0,4
+gesc1,Science,old,rat2023,gesc118,0,gesc113,gesc113,0.9826,0,3044,28,0.0092,0,3039,23,352,7,0,2
+gesc1,Science,old,rat2023,gesc119,0,,,0.0,1,556,556,1.0,0,0,0,0,0,0,38
+gesc1,Science,old,rat2023,gesc1cc,1,,,0.0,1,7,7,1.0,0,0,0,0,0,0,3
+gesc1,Science,old,rat2023,gesc1ps,1,gesc1ps,gesc1ps,0.9317,0,3103,86,0.0277,0,3226,235,245,9,0,18
+hess2,Our Pasts III,old,rat2023,hess201,0,hess201,hess201,0.9954,0,3038,7,0.0023,0,3032,7,233,3,0,0
+hess2,Our Pasts III,old,rat2023,hess202,0,hess202,hess202,0.9628,0,5670,203,0.0358,0,5464,1,402,0,0,18
+hess2,Our Pasts III,old,rat2023,hess203,0,hess203,hess203,0.9651,0,4413,146,0.0331,0,4281,2,342,0,0,15
+hess2,Our Pasts III,old,rat2023,hess204,0,hess204,hess204,0.9691,0,4074,126,0.0309,0,3951,3,299,1,0,15
+hess2,Our Pasts III,old,rat2023,hess205,0,hess205,hess205,0.9608,0,4948,190,0.0384,0,4769,12,327,1,0,16
+hess2,Our Pasts III,old,rat2023,hess206,0,,,0.0,1,4757,4757,1.0,0,0,0,0,0,0,372
+hess2,Our Pasts III,old,rat2023,hess207,0,hess206,hess206,0.9255,0,4335,314,0.0724,0,4043,18,294,1,0,23
+hess2,Our Pasts III,old,rat2023,hess208,0,hess207,hess207,0.9547,0,5368,232,0.0432,0,5150,8,393,2,0,17
+hess2,Our Pasts III,old,rat2023,hess209,0,hess208,hess208,0.9589,0,6321,234,0.037,0,6125,12,461,3,0,15
+hess2,Our Pasts III,old,rat2023,hess210,0,,,0.0,1,4471,4471,1.0,0,0,0,0,0,0,311
+hess2,Our Pasts III,old,rat2023,hess2ps,1,hess2ps,hess2ps,0.8617,0,1945,148,0.0761,0,2068,307,238,4,0,34
+hess3,Social and Political Life III,old_alt,rat2023,hess301,0,hess301,hess301,0.9936,0,5351,34,0.0064,0,5317,0,355,0,0,2
+hess3,Social and Political Life III,old_alt,rat2023,hess302,0,hess302,hess302,1.0,0,2492,0,0.0,0,2492,0,176,0,0,0
+hess3,Social and Political Life III,old_alt,rat2023,hess303,0,hess303,hess303,0.8808,0,3718,417,0.1122,8,5204,249,225,1,0,35
+hess3,Social and Political Life III,old_alt,rat2023,hess304,0,hess303,hess303,0.6604,0,2856,906,0.3172,29,5204,249,153,4,0,54
+hess3,Social and Political Life III,old_alt,rat2023,hess305,0,hess304,hess304,0.9141,0,4272,361,0.0845,0,3915,2,261,0,0,11
+hess3,Social and Political Life III,old_alt,rat2023,hess306,0,,hess304,0.0151,1,3782,3717,0.9828,65,0,0,0,1,0,285
+hess3,Social and Political Life III,old_alt,rat2023,hess307,0,hess305,hess305,0.9549,0,4855,216,0.0445,0,4646,6,328,0,0,15
+hess3,Social and Political Life III,old_alt,rat2023,hess308,0,hess306,hess306,0.9934,0,4102,27,0.0066,0,4076,2,235,0,0,2
+hess3,Social and Political Life III,old_alt,rat2023,hess309,0,hess307,hess307,0.9982,0,4439,3,0.0007,0,4439,3,357,1,0,0
+hess3,Social and Political Life III,old_alt,rat2023,hess310,0,hess308,hess308,0.9994,0,4753,3,0.0006,0,4753,3,340,0,0,1
+hess3,Social and Political Life III,old_alt,rat2023,hess3ps,1,hess3ps,hess3ps,0.9615,0,3919,50,0.0128,0,4121,236,217,7,0,3
+hess4,Resources and Development,old,rat2023,hess401,0,hess401,hess401,1.0,0,1765,0,0.0,0,1765,0,172,0,0,0
+hess4,Resources and Development,old,rat2023,hess402,0,hess402,hess402,0.9979,0,3893,0,0.0,8,3885,0,360,0,1,0
+hess4,Resources and Development,old,rat2023,hess403,0,,hess401,0.0054,1,3549,3532,0.9952,17,0,0,0,2,0,402
+hess4,Resources and Development,old,rat2023,hess404,0,hess403,hess403,0.9751,0,2650,2,0.0008,0,2650,2,304,1,0,0
+hess4,Resources and Development,old,rat2023,hess405,0,hess404,hess404,0.7606,0,3647,833,0.2284,8,2805,8,251,1,0,66
+hess4,Resources and Development,old,rat2023,hess406,0,hess405,hess405,0.9699,0,2356,45,0.0191,0,2316,13,241,0,0,3
+hess4,Resources and Development,old,rat2023,hess4ps,1,hess4ps,hess4ps,0.8508,0,1562,113,0.0723,0,1665,269,92,12,0,6
+hesc1,Science,old,rat2023,hesc101,0,hesc101,hesc101,1.0,0,4624,0,0.0,0,4624,0,549,0,0,0
+hesc1,Science,old,rat2023,hesc102,0,hesc102,hesc102,1.0,0,3988,0,0.0,0,3988,0,491,0,0,0
+hesc1,Science,old,rat2023,hesc103,0,,hesc101,0.0058,1,3438,3418,0.9942,20,0,0,0,0,2,410
+hesc1,Science,old,rat2023,hesc104,0,,hesc101,0.0083,1,3501,3464,0.9894,37,0,0,0,1,3,457
+hesc1,Science,old,rat2023,hesc105,0,hesc103,hesc103,0.9774,0,2084,11,0.0053,10,2084,22,262,6,1,1
+hesc1,Science,old,rat2023,hesc106,0,hesc104,hesc104,0.9731,0,4016,32,0.008,10,4002,33,441,16,1,3
+hesc1,Science,old,rat2023,hesc107,0,hesc105,hesc105,0.9757,0,3659,33,0.009,10,3634,26,406,4,1,2
+hesc1,Science,old,rat2023,hesc108,0,,hesc102,0.0064,1,3107,3074,0.9894,33,0,0,0,0,2,410
+hesc1,Science,old,rat2023,hesc109,0,hesc106,hesc106,0.9551,0,3722,99,0.0266,10,3647,42,436,20,1,8
+hesc1,Science,old,rat2023,hesc110,0,hesc107,hesc107,0.9737,0,4380,71,0.0162,11,4336,41,505,11,1,7
+hesc1,Science,old,rat2023,hesc111,0,hesc108,hesc108,0.9755,0,6274,93,0.0148,10,6237,73,590,26,1,5
+hesc1,Science,old,rat2023,hesc112,0,hesc109,hesc109,0.9757,0,3126,40,0.0128,10,3114,45,362,25,1,2
+hesc1,Science,old,rat2023,hesc113,0,hesc110,hesc110,0.9747,0,4152,25,0.006,10,4147,37,501,17,1,2
+hesc1,Science,old,rat2023,hesc114,0,hesc111,hesc111,0.9831,0,3718,21,0.0056,10,3712,30,386,5,1,2
+hesc1,Science,old,rat2023,hesc115,0,hesc112,hesc112,0.9587,0,4160,80,0.0192,10,4115,48,458,17,1,7
+hesc1,Science,old,rat2023,hesc116,0,hesc113,hesc113,0.9786,0,5136,32,0.0062,10,5136,45,572,26,1,2
+hesc1,Science,old,rat2023,hesc117,0,,hesc101,0.0051,1,6865,6836,0.9958,29,0,0,0,0,3,741
+hesc1,Science,old,rat2023,hesc118,0,,hesc101,0.0063,1,4121,4101,0.9951,20,0,0,0,0,2,422
+hesc1,Science,old,rat2023,hesc1in,1,,,0.0,1,736,736,1.0,0,0,0,0,0,0,151
+hesc1,Science,old,rat2023,hesc1ps,1,hesc1ps,hesc1ps,0.9327,0,2941,79,0.0269,0,3050,207,235,8,0,11
+iess1,Contemporary India I,old,rat2023,iess101,0,iess101,iess101,1.0,0,1428,0,0.0,0,1428,0,100,0,0,0
+iess1,Contemporary India I,old,rat2023,iess102,0,iess102,iess102,1.0,0,3027,0,0.0,0,3027,0,241,0,0,0
+iess1,Contemporary India I,old,rat2023,iess103,0,iess103,iess103,1.0,0,3335,0,0.0,0,3335,0,301,0,0,0
+iess1,Contemporary India I,old,rat2023,iess104,0,iess104,iess104,0.7574,0,5894,1350,0.229,8,4543,7,294,8,0,78
+iess1,Contemporary India I,old,rat2023,iess105,0,iess105,iess105,0.7851,0,3285,645,0.1963,0,2637,10,223,4,0,47
+iess1,Contemporary India I,old,rat2023,iess106,0,iess106,iess106,0.7589,0,4065,975,0.2399,0,3082,0,275,1,0,70
+iess1,Contemporary India I,old,rat2023,iess1ps,1,iess1ps,iess1ps,0.9412,0,1734,41,0.0236,0,1871,197,113,4,0,3
+iess2,Economics,old,rat2023,iess201,0,iess201,iess201,1.0,0,5775,0,0.0,0,5775,0,504,0,0,0
+iess2,Economics,old,rat2023,iess202,0,iess202,iess202,1.0,0,5256,0,0.0,0,5256,0,450,0,0,0
+iess2,Economics,old,rat2023,iess203,0,iess203,iess203,1.0,0,4995,0,0.0,0,4995,0,383,0,0,0
+iess2,Economics,old,rat2023,iess204,0,iess204,iess204,1.0,0,5116,0,0.0,0,5136,20,396,0,0,0
+iess2,Economics,old,rat2023,iess2ps,1,iess2ps,iess2ps,0.9787,0,1411,17,0.012,0,1424,34,101,5,0,1
+iess3,India and the Contemporary World I,old,rat2023,iess301,0,iess301,iess301,1.0,0,8013,0,0.0,0,8013,0,658,0,0,0
+iess3,India and the Contemporary World I,old,rat2023,iess302,0,iess302,iess302,1.0,0,8529,0,0.0,0,8529,0,724,0,0,0
+iess3,India and the Contemporary World I,old,rat2023,iess303,0,iess303,iess303,1.0,0,7994,0,0.0,0,7994,0,654,0,0,0
+iess3,India and the Contemporary World I,old,rat2023,iess304,0,iess304,iess304,1.0,0,6821,0,0.0,0,6821,0,492,0,0,0
+iess3,India and the Contemporary World I,old,rat2023,iess305,0,iess305,iess305,1.0,0,6609,0,0.0,0,6609,0,494,0,0,0
+iess3,India and the Contemporary World I,old,rat2023,iess3ps,1,iess3ps,iess3ps,0.9919,0,2339,10,0.0043,0,2347,19,162,4,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess401,0,iess401,iess401,1.0,0,7292,0,0.0,0,7292,0,704,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess402,0,iess402,iess402,1.0,0,6465,0,0.0,0,6465,0,621,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess403,0,iess403,iess403,1.0,0,8413,0,0.0,0,8413,0,703,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess404,0,iess404,iess404,1.0,0,7677,0,0.0,0,7677,0,629,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess405,0,iess405,iess405,0.9999,0,7940,1,0.0001,0,7940,1,603,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess4ps,1,iess4ps,iess4ps,0.9972,0,3896,7,0.0018,0,3912,20,274,4,0,0
+iesc1,Science,old,rat2023,iesc101,0,iesc101,iesc101,0.9491,0,5328,258,0.0484,0,5082,13,365,4,0,23
+iesc1,Science,old,rat2023,iesc102,0,iesc102,iesc102,0.6859,0,5897,1805,0.3061,0,4087,18,307,3,0,131
+iesc1,Science,old,rat2023,iesc103,0,iesc103,iesc103,0.7695,0,5696,1275,0.2238,0,4411,3,409,4,0,94
+iesc1,Science,old,rat2023,iesc104,0,iesc104,iesc104,0.9993,0,4286,0,0.0,0,4287,2,366,0,0,0
+iesc1,Science,old,rat2023,iesc105,0,iesc105,iesc105,0.9994,0,5287,3,0.0006,0,5287,3,456,0,0,0
+iesc1,Science,old,rat2023,iesc106,0,iesc106,iesc106,0.9998,0,4161,0,0.0,0,4162,0,473,0,0,0
+iesc1,Science,old,rat2023,iesc107,0,,,0.0,1,5356,5356,1.0,0,0,0,0,0,0,641
+iesc1,Science,old,rat2023,iesc108,0,iesc107,iesc107,0.8985,0,6954,496,0.0713,0,6472,65,573,29,0,50
+iesc1,Science,old,rat2023,iesc109,0,iesc108,iesc108,0.7834,0,7977,1619,0.203,17,6343,49,486,21,1,121
+iesc1,Science,old,rat2023,iesc110,0,iesc109,iesc109,0.8582,0,7060,890,0.1261,0,6215,84,566,38,0,74
+iesc1,Science,old,rat2023,iesc111,0,iesc110,iesc110,0.9507,0,6574,270,0.0411,0,6329,31,576,20,0,19
+iesc1,Science,old,rat2023,iesc112,0,iesc111,iesc111,0.7868,0,6431,1206,0.1875,0,5709,54,443,9,0,102
+iesc1,Science,old,rat2023,iesc113,0,,,0.0,1,6663,6663,1.0,0,0,0,0,0,0,513
+iesc1,Science,old,rat2023,iesc114,0,,iesc106,0.0014,1,6407,6398,0.9986,9,0,0,0,1,0,475
+iesc1,Science,old,rat2023,iesc115,0,iesc112,iesc112,0.9933,0,5334,9,0.0017,0,5335,9,420,2,0,0
+iesc1,Science,old,rat2023,iesc1an,1,iesc1an,iesc1an,0.8462,0,546,67,0.1227,0,498,11,92,4,0,13
+iesc1,Science,old,rat2023,iesc1ps,1,iesc1ps,iesc1ps,0.8958,0,1632,56,0.0343,0,1761,205,206,11,0,3
+jess1,Contemporary India II,old,rat2023,jess101,0,jess101,jess101,0.8302,0,5129,846,0.1649,0,4317,25,331,5,0,57
+jess1,Contemporary India II,old,rat2023,jess102,0,jess102,jess102,0.5569,0,3613,1582,0.4379,0,2024,12,132,1,0,93
+jess1,Contemporary India II,old,rat2023,jess103,0,jess103,jess103,0.9975,0,3576,2,0.0006,0,3651,80,229,0,0,0
+jess1,Contemporary India II,old,rat2023,jess104,0,jess104,jess104,0.7915,0,4752,984,0.2071,0,3810,28,292,7,0,69
+jess1,Contemporary India II,old,rat2023,jess105,0,jess105,jess105,0.9599,0,4807,101,0.021,0,4936,192,392,7,0,5
+jess1,Contemporary India II,old,rat2023,jess106,0,jess106,jess106,0.7198,0,5082,1365,0.2686,0,3772,11,298,2,0,115
+jess1,Contemporary India II,old,rat2023,jess107,0,jess107,jess107,0.9452,0,3981,140,0.0352,0,4003,166,302,11,0,10
+jess1,Contemporary India II,old,rat2023,jess1a1,1,jess1a1,jess1a1,0.6888,0,511,157,0.3072,0,384,30,39,0,0,46
+jess1,Contemporary India II,old,rat2023,jess1ps,1,jess1ps,jess1ps,0.9297,0,2006,43,0.0214,0,2152,208,153,8,0,7
+jess2,Understanding Economic Development,old,rat2023,jess201,0,jess201,jess201,1.0,0,5952,0,0.0,0,5952,0,501,0,0,0
+jess2,Understanding Economic Development,old,rat2023,jess202,0,jess202,jess202,1.0,0,7776,0,0.0,0,7776,0,651,0,0,0
+jess2,Understanding Economic Development,old,rat2023,jess203,0,jess203,jess203,1.0,0,6182,0,0.0,0,6182,0,530,0,0,0
+jess2,Understanding Economic Development,old,rat2023,jess204,0,jess204,jess204,1.0,0,6703,0,0.0,0,6703,0,553,0,0,0
+jess2,Understanding Economic Development,old,rat2023,jess205,0,jess205,jess205,1.0,0,6503,0,0.0,0,6503,0,513,0,0,0
+jess2,Understanding Economic Development,old,rat2023,jess2ps,1,jess2ps,jess2ps,0.9913,0,3904,24,0.0061,0,3910,19,263,1,0,4
+jess3,India and the Contemporary World II,old_alt,rat2023,jess301,0,jess301,jess301,1.0,0,9056,0,0.0,0,9057,1,703,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,jess302,0,jess302,jess302,1.0,0,8391,0,0.0,0,8392,0,608,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,jess303,0,jess303,jess303,1.0,0,9218,0,0.0,0,9218,0,726,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,jess304,0,jess304,jess304,1.0,0,8268,0,0.0,0,8268,0,653,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,jess305,0,jess305,jess305,1.0,0,9077,0,0.0,0,9077,0,726,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,jess3ps,1,jess3ps,jess3ps,0.9861,0,2526,20,0.0079,0,2556,52,168,3,0,4
+jess4,Democratic Politics II,old_alt,rat2023,jess401,0,jess401,jess401,0.9905,0,4199,18,0.0043,0,4194,9,346,3,0,1
+jess4,Democratic Politics II,old_alt,rat2023,jess402,0,jess402,jess402,0.9979,0,5248,2,0.0004,0,5281,24,432,0,0,0
+jess4,Democratic Politics II,old_alt,rat2023,jess403,0,,jess404,0.0041,1,3928,3912,0.9959,16,0,0,0,1,0,310
+jess4,Democratic Politics II,old_alt,rat2023,jess404,0,jess403,jess403,0.9895,0,5594,39,0.007,7,5584,11,436,4,1,5
+jess4,Democratic Politics II,old_alt,rat2023,jess405,0,,jess404,0.0146,1,4233,4169,0.9849,64,0,0,0,0,3,346
+jess4,Democratic Politics II,old_alt,rat2023,jess406,0,jess404,jess404,0.9187,0,6344,493,0.0777,0,5877,37,463,8,0,37
+jess4,Democratic Politics II,old_alt,rat2023,jess407,0,jess405,jess405,0.9767,0,3904,58,0.0149,0,3908,37,293,6,0,4
+jess4,Democratic Politics II,old_alt,rat2023,jess408,0,,,0.0,1,3256,3256,1.0,0,0,0,0,0,0,271
+jess4,Democratic Politics II,old_alt,rat2023,jess4ps,1,jess4 ps,jess4 ps,0.8911,0,3105,147,0.0473,0,3224,336,229,13,0,7
+jesc1,Science,old,rat2023,jesc101,0,jesc101,jesc101,1.0,0,5123,0,0.0,0,5123,0,485,0,0,0
+jesc1,Science,old,rat2023,jesc102,0,jesc102,jesc102,1.0,0,6444,0,0.0,0,6444,0,557,0,0,0
+jesc1,Science,old,rat2023,jesc103,0,jesc103,jesc103,1.0,0,7027,0,0.0,0,7027,0,646,0,0,0
+jesc1,Science,old,rat2023,jesc104,0,jesc104,jesc104,1.0,0,7449,0,0.0,0,7449,0,608,0,0,0
+jesc1,Science,old,rat2023,jesc105,0,,jesc106,0.0094,1,4800,4759,0.9915,41,0,0,0,0,4,319
+jesc1,Science,old,rat2023,jesc106,0,jesc105,jesc105,0.9927,0,8658,20,0.0023,0,8658,19,619,9,0,0
+jesc1,Science,old,rat2023,jesc107,0,jesc106,jesc106,0.9929,0,5075,16,0.0032,0,5081,22,385,7,0,0
+jesc1,Science,old,rat2023,jesc108,0,jesc107,jesc107,0.9794,0,6107,15,0.0025,0,6107,16,442,5,0,1
+jesc1,Science,old,rat2023,jesc109,0,jesc108,jesc108,0.3386,0,7572,4925,0.6504,0,2624,12,231,9,0,336
+jesc1,Science,old,rat2023,jesc110,0,jesc109,jesc109,0.9856,0,10212,58,0.0057,0,10212,63,834,23,0,3
+jesc1,Science,old,rat2023,jesc111,0,jesc110,jesc110,0.8222,0,5169,799,0.1546,0,4368,27,340,14,0,48
+jesc1,Science,old,rat2023,jesc112,0,jesc111,jesc111,0.9423,0,8072,330,0.0409,1,7830,93,624,19,0,17
+jesc1,Science,old,rat2023,jesc113,0,jesc112,jesc112,0.6333,0,7533,2654,0.3523,0,4884,46,385,27,0,187
+jesc1,Science,old,rat2023,jesc114,0,,jesc102,0.002,1,5574,5564,0.9982,10,0,0,0,0,1,383
+jesc1,Science,old,rat2023,jesc115,0,jesc113,jesc113,0.9928,0,3197,9,0.0028,0,3197,9,241,3,0,1
+jesc1,Science,old,rat2023,jesc116,0,,jesc104,0.0077,1,6108,6063,0.9926,45,0,0,0,0,4,351
+jesc1,Science,old,rat2023,jesc1an,1,jesc1an,jesc1an,0.7208,0,394,71,0.1802,0,341,20,58,2,0,7
+jesc1,Science,old,rat2023,jesc1ps,1,jesc1ps,jesc1ps,0.9299,0,2498,62,0.0248,0,2622,216,197,6,0,9
+kehs1,Themes in World History,old_alt,rat2023,kehs101,0,,kehs101,0.2,1,8732,7450,0.8532,1282,0,0,0,6,69,683
+kehs1,Themes in World History,old_alt,rat2023,kehs102,0,kehs101,kehs101,0.9987,0,7111,9,0.0013,0,10887,850,513,2,0,2
+kehs1,Themes in World History,old_alt,rat2023,kehs103,0,kehs102,kehs102,0.8119,0,10067,227,0.0225,1645,8179,0,540,2,74,62
+kehs1,Themes in World History,old_alt,rat2023,kehs104,0,,kehs107,0.0007,1,11289,11286,0.9997,3,0,0,0,0,0,671
+kehs1,Themes in World History,old_alt,rat2023,kehs105,0,kehs103,kehs103,0.9996,0,7312,0,0.0,0,7312,0,427,0,0,0
+kehs1,Themes in World History,old_alt,rat2023,kehs106,0,kehs104,kehs104,0.9986,0,8883,9,0.001,0,8925,51,657,0,0,2
+kehs1,Themes in World History,old_alt,rat2023,kehs107,0,kehs105,kehs105,0.9979,0,6067,7,0.0012,0,6071,11,369,1,0,2
+kehs1,Themes in World History,old_alt,rat2023,kehs108,0,,,0.0,1,6730,6730,1.0,0,0,0,0,0,0,490
+kehs1,Themes in World History,old_alt,rat2023,kehs109,0,,kehs106,0.2726,1,9355,7049,0.7535,2306,0,0,0,5,144,476
+kehs1,Themes in World History,old_alt,rat2023,kehs110,0,kehs106,kehs106,0.9995,0,6633,3,0.0005,0,9314,355,457,1,0,0
+kehs1,Themes in World History,old_alt,rat2023,kehs111,0,kehs107,kehs107,0.9829,0,12251,165,0.0135,0,12089,29,866,3,0,37
+keps1,Political Theory,old,rat2023,keps101,0,keps101,keps101,1.0,0,4557,0,0.0,0,4557,0,352,0,0,0
+keps1,Political Theory,old,rat2023,keps102,0,keps102,keps102,1.0,0,5149,0,0.0,0,5149,0,298,0,0,0
+keps1,Political Theory,old,rat2023,keps103,0,keps103,keps103,1.0,0,6407,0,0.0,0,6407,0,413,0,0,0
+keps1,Political Theory,old,rat2023,keps104,0,keps104,keps104,1.0,0,4672,0,0.0,0,4672,0,249,0,0,0
+keps1,Political Theory,old,rat2023,keps105,0,keps105,keps105,1.0,0,3895,0,0.0,0,3895,0,226,0,0,0
+keps1,Political Theory,old,rat2023,keps106,0,keps106,keps106,1.0,0,5636,0,0.0,0,5636,0,363,0,0,0
+keps1,Political Theory,old,rat2023,keps107,0,keps107,keps107,1.0,0,4214,0,0.0,0,4214,0,275,0,0,0
+keps1,Political Theory,old,rat2023,keps108,0,keps108,keps108,1.0,0,5510,0,0.0,0,5510,0,426,0,0,0
+keps1,Political Theory,old,rat2023,keps109,0,,keps101,0.0018,1,4330,4330,1.0,0,0,0,0,0,0,299
+keps1,Political Theory,old,rat2023,keps110,0,,keps106,0.003,1,4638,4628,0.9978,10,0,0,0,0,1,282
+keps1,Political Theory,old,rat2023,keps1ps,1,keps1ps,keps1ps,0.9583,0,2444,43,0.0176,0,2641,261,129,5,0,4
+keps2,Indian Constitution at Work,old,rat2023,keps201,0,keps201,keps201,1.0,0,7230,0,0.0,0,7230,0,514,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps202,0,keps202,keps202,1.0,0,6693,0,0.0,0,6834,139,467,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps203,0,keps203,keps203,1.0,0,7623,0,0.0,0,7772,149,543,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps204,0,keps204,keps204,1.0,0,6236,0,0.0,0,6414,178,426,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps205,0,keps205,keps205,1.0,0,6134,0,0.0,0,6240,106,458,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps206,0,keps206,keps206,0.9998,0,6542,1,0.0002,0,6801,260,464,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps207,0,keps207,keps207,1.0,0,6393,0,0.0,0,6616,223,425,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps208,0,keps208,keps208,0.9998,0,5079,0,0.0,0,5371,292,394,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps209,0,keps209,keps209,1.0,0,6535,0,0.0,0,6832,297,455,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps210,0,keps210,keps210,1.0,0,6496,0,0.0,0,6841,337,460,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps2ps,1,keps2ps,keps2ps,0.9879,0,2635,9,0.0034,0,3108,465,232,2,0,2
+kesy1,Introducing Sociology,old,rat2023,kesy101,0,kesy101,kesy101,1.0,0,7792,0,0.0,0,7792,0,568,0,0,0
+kesy1,Introducing Sociology,old,rat2023,kesy102,0,kesy102,kesy102,1.0,0,6110,0,0.0,0,6110,0,457,0,0,0
+kesy1,Introducing Sociology,old,rat2023,kesy103,0,kesy103,kesy103,1.0,0,7329,0,0.0,0,7329,0,547,0,0,0
+kesy1,Introducing Sociology,old,rat2023,kesy104,0,kesy104,kesy104,1.0,0,6982,0,0.0,0,6982,0,502,0,0,0
+kesy1,Introducing Sociology,old,rat2023,kesy105,0,kesy105,kesy105,1.0,0,9069,0,0.0,0,9069,0,503,0,0,0
+kesy1,Introducing Sociology,old,rat2023,kesy1ps,1,kesy1ps,kesy1ps,0.9906,0,1922,11,0.0057,0,1931,12,137,2,0,2
+kesy2,Understanding Society,old,rat2023,kesy201,0,kesy201,kesy201,0.8933,0,7620,809,0.1062,0,6812,1,438,0,0,44
+kesy2,Understanding Society,old,rat2023,kesy202,0,kesy202,kesy202,0.9872,0,10214,121,0.0118,0,10110,16,556,1,0,7
+kesy2,Understanding Society,old,rat2023,kesy203,0,kesy203,kesy203,0.9172,0,5374,444,0.0826,0,4935,7,351,0,0,40
+kesy2,Understanding Society,old,rat2023,kesy204,0,kesy204,kesy204,1.0,0,6960,0,0.0,0,6960,0,414,0,0,0
+kesy2,Understanding Society,old,rat2023,kesy205,0,kesy205,kesy205,1.0,0,7964,0,0.0,0,7965,1,553,0,0,0
+kesy2,Understanding Society,old,rat2023,kesy2ps,1,kesy2ps,kesy2ps,0.9599,0,2319,37,0.016,0,2488,231,180,3,0,1
+kegy1,India: Physical Environment,old,rat2023,kegy101,0,kegy101,kegy101,1.0,0,1472,0,0.0,0,1472,0,94,0,0,0
+kegy1,India: Physical Environment,old,rat2023,kegy102,0,kegy102,kegy102,0.7053,0,5216,1488,0.2853,0,3719,1,244,3,0,93
+kegy1,India: Physical Environment,old,rat2023,kegy103,0,kegy103,kegy103,0.8228,0,5874,1028,0.175,0,4836,1,311,1,0,83
+kegy1,India: Physical Environment,old,rat2023,kegy104,0,kegy104,kegy104,0.7039,0,7985,2299,0.2879,0,5799,15,343,14,0,128
+kegy1,India: Physical Environment,old,rat2023,kegy105,0,kegy105,kegy105,0.7817,0,4641,964,0.2077,10,3660,4,240,4,0,56
+kegy1,India: Physical Environment,old,rat2023,kegy106,0,,kegy103,0.0117,1,3416,3379,0.9892,37,0,0,0,0,2,247
+kegy1,India: Physical Environment,old,rat2023,kegy107,0,kegy106,kegy106,0.8117,0,9240,1647,0.1782,0,7559,13,458,2,0,178
+kegy1,India: Physical Environment,old,rat2023,kegy1ps,1,kegy1ps,kegy1ps,0.8861,0,1808,92,0.0509,0,1901,208,130,7,0,11
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy201,0,kegy201,kegy201,0.8834,0,4338,506,0.1166,0,3833,1,293,0,0,31
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy202,0,kegy202,kegy202,0.6686,0,3174,1035,0.3261,1,2143,20,173,2,0,68
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy203,0,kegy203,kegy203,0.9251,0,3981,292,0.0733,0,3683,0,329,0,0,30
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy204,0,kegy204,kegy204,1.0,0,3678,0,0.0,0,3678,0,264,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy205,0,,kegy205,0.0281,1,1923,1865,0.9698,58,0,0,0,3,3,152
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy206,0,kegy205,kegy205,0.9947,0,5117,7,0.0014,0,5158,31,342,1,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy207,0,kegy206,kegy206,0.9931,0,6929,38,0.0055,0,6918,27,464,3,0,1
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy208,0,kegy207,kegy207,0.9948,0,1337,0,0.0,0,1337,0,111,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy209,0,kegy208,kegy208,0.9973,0,3282,6,0.0018,0,3284,8,246,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy210,0,kegy209,kegy209,0.9924,0,3958,10,0.0025,0,3959,11,309,2,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy211,0,kegy210,kegy210,0.9926,0,2303,1,0.0004,0,2303,3,174,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy212,0,kegy211,kegy211,0.9982,0,3803,2,0.0005,0,3802,2,311,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy213,0,kegy212,kegy212,0.9964,0,3032,6,0.002,0,3032,6,246,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy214,0,kegy213,kegy213,0.9969,0,2943,3,0.001,0,2943,3,213,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy215,0,,kegy205,0.0116,1,3358,3320,0.9887,38,0,0,0,3,2,318
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy216,0,kegy214,kegy214,0.9958,0,2162,2,0.0009,0,2185,24,165,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy2gl,1,kegy2gl,kegy2gl,0.9983,0,1812,1,0.0006,0,1814,3,120,1,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy2ps,1,kegy2ps,kegy2ps,0.8337,0,1485,68,0.0458,0,1789,401,132,11,0,8
+keec1,Indian Economic Development,old,rat2023,keec101,0,keec101,keec101,0.9962,0,4232,15,0.0035,0,4218,2,304,0,0,1
+keec1,Indian Economic Development,old,rat2023,keec102,0,keec102,keec102,0.9996,0,7531,1,0.0001,0,7531,1,474,1,0,0
+keec1,Indian Economic Development,old,rat2023,keec103,0,keec103,keec103,0.9998,0,6544,1,0.0002,0,6543,0,525,0,0,0
+keec1,Indian Economic Development,old,rat2023,keec104,0,,keec101,0.0036,1,8082,8057,0.9969,25,0,0,0,1,0,579
+keec1,Indian Economic Development,old,rat2023,keec105,0,keec104,keec104,0.9952,0,5417,7,0.0013,0,5428,16,374,4,0,0
+keec1,Indian Economic Development,old,rat2023,keec106,0,keec105,keec105,0.9877,0,5714,36,0.0063,0,5722,43,435,5,0,0
+keec1,Indian Economic Development,old,rat2023,keec107,0,keec106,keec106,0.987,0,7296,46,0.0063,0,7280,26,625,8,0,2
+keec1,Indian Economic Development,old,rat2023,keec108,0,,keec104,0.0039,1,7488,7458,0.996,30,0,0,0,1,0,575
+keec1,Indian Economic Development,old,rat2023,keec109,0,keec107,keec107,0.9973,0,5868,4,0.0007,0,5869,5,411,0,0,0
+keec1,Indian Economic Development,old,rat2023,keec110,0,keec108,keec108,0.5961,0,9174,79,0.0086,3614,5493,13,406,5,170,14
+keec1,Indian Economic Development,old,rat2023,keec1ps,1,keec1ps,keec1ps,0.885,0,3253,127,0.039,0,3405,311,211,6,0,14
+kebo1,Biology,old,rat2023,kebo101,0,kebo101,kebo101,0.6398,0,4795,1695,0.3535,0,3080,1,233,6,0,128
+kebo1,Biology,old,rat2023,kebo102,0,kebo102,kebo102,1.0,0,4264,0,0.0,0,4264,0,397,0,0,0
+kebo1,Biology,old,rat2023,kebo103,0,kebo103,kebo103,0.7932,0,4788,967,0.202,0,3808,2,343,1,0,89
+kebo1,Biology,old,rat2023,kebo104,0,kebo104,kebo104,1.0,0,4476,0,0.0,0,4476,0,580,0,0,0
+kebo1,Biology,old,rat2023,kebo105,0,kebo105,kebo105,0.7856,0,5500,1059,0.1925,0,4415,24,394,8,0,84
+kebo1,Biology,old,rat2023,kebo106,0,kebo106,kebo106,0.4466,0,4648,2479,0.5333,0,2134,9,211,7,0,216
+kebo1,Biology,old,rat2023,kebo107,0,,kebo107,0.2941,1,7769,5669,0.7297,2100,0,0,0,5,140,575
+kebo1,Biology,old,rat2023,kebo108,0,kebo108,kebo108,1.0,0,5838,0,0.0,0,5838,0,498,0,0,0
+kebo1,Biology,old,rat2023,kebo109,0,kebo109,kebo109,0.8043,0,6769,1282,0.1894,0,5491,14,523,5,0,94
+kebo1,Biology,old,rat2023,kebo110,0,kebo110,kebo110,0.9997,0,3674,0,0.0,0,3682,5,281,0,0,0
+kebo1,Biology,old,rat2023,kebo111,0,,kebo111,0.0403,1,7584,7302,0.9628,282,0,0,0,1,13,512
+kebo1,Biology,old,rat2023,kebo112,0,,,0.0,1,4483,4483,1.0,0,0,0,0,0,0,376
+kebo1,Biology,old,rat2023,kebo113,0,kebo111,kebo111,0.9862,0,7015,24,0.0034,0,7337,74,493,0,0,0
+kebo1,Biology,old,rat2023,kebo114,0,kebo112,kebo112,0.9874,0,4441,8,0.0018,0,4471,38,352,0,0,0
+kebo1,Biology,old,rat2023,kebo115,0,kebo113,kebo113,0.8428,0,5237,748,0.1428,0,4498,23,368,2,0,48
+kebo1,Biology,old,rat2023,kebo116,0,,kebo114,0.0595,1,4015,3784,0.9425,231,0,0,0,0,13,297
+kebo1,Biology,old,rat2023,kebo117,0,kebo114,kebo114,0.9811,0,3222,11,0.0034,0,3494,71,246,0,0,0
+kebo1,Biology,old,rat2023,kebo118,0,kebo115,kebo115,0.9886,0,4580,9,0.002,0,4580,17,299,2,0,0
+kebo1,Biology,old,rat2023,kebo119,0,kebo116,kebo116,0.981,0,3625,11,0.003,0,3625,19,257,2,0,0
+kebo1,Biology,old,rat2023,kebo120,0,kebo117,kebo117,0.9828,0,3713,27,0.0073,0,3713,34,313,6,0,0
+kebo1,Biology,old,rat2023,kebo121,0,kebo118,kebo118,0.5309,0,4871,2198,0.4512,0,2652,24,173,11,0,135
+kebo1,Biology,old,rat2023,kebo122,0,kebo119,kebo119,0.9815,0,3671,33,0.009,0,3670,43,287,9,0,0
+kebo1,Biology,old,rat2023,kebo1ps,1,kebo1ps,kebo1ps,0.9088,0,2829,47,0.0166,0,2955,189,228,8,0,1
+kech1,Chemistry Part I,old,rat2023,kech101,0,kech101,kech101,0.9788,0,13738,189,0.0138,4,13721,64,1064,17,0,34
+kech1,Chemistry Part I,old,rat2023,kech102,0,kech102,kech102,0.9793,0,22204,322,0.0145,0,22131,193,1374,56,0,32
+kech1,Chemistry Part I,old,rat2023,kech103,0,kech103,kech103,0.9611,0,11235,361,0.0321,4,11261,179,716,18,1,57
+kech1,Chemistry Part I,old,rat2023,kech104,0,kech104,kech104,0.9754,0,14828,229,0.0154,0,14793,187,959,16,0,24
+kech1,Chemistry Part I,old,rat2023,kech105,0,,kech105,0.0019,1,11289,11253,0.9968,36,0,0,0,3,1,974
+kech1,Chemistry Part I,old,rat2023,kech106,0,kech105,kech105,0.965,0,14755,310,0.021,0,14712,297,1218,64,0,23
+kech1,Chemistry Part I,old,rat2023,kech107,0,kech106,kech106,0.9744,0,23841,369,0.0155,0,23757,259,1769,72,0,14
+kech1,Chemistry Part I,old,rat2023,kech1a1,1,kech1a1,kech1a1,0.997,0,4638,8,0.0017,0,4632,7,189,1,0,2
+kech1,Chemistry Part I,old,rat2023,kech1an,1,Index,Index,0.5786,0,6533,1705,0.261,1046,3865,8,62,7,77,152
+kech1,Chemistry Part I,old,rat2023,kech1ps,1,kech1ps,kech1ps,0.8497,0,1797,105,0.0584,0,2068,377,161,7,0,17
+kech2,Chemistry Part II,old,rat2023,kech201,0,kech201,kech201,0.9522,0,10815,223,0.0206,0,10758,195,807,61,0,15
+kech2,Chemistry Part II,old,rat2023,kech202,0,,kech203,0.0015,1,7553,7544,0.9988,9,0,0,0,0,0,648
+kech2,Chemistry Part II,old,rat2023,kech203,0,,kech201,0.001,1,8609,8600,0.999,9,0,0,0,0,1,644
+kech2,Chemistry Part II,old,rat2023,kech204,0,,kech201,0.001,1,9385,9376,0.999,9,0,0,0,0,1,787
+kech2,Chemistry Part II,old,rat2023,kech205,0,kech202,kech202,0.9516,0,14771,291,0.0197,0,14697,242,1072,44,0,34
+kech2,Chemistry Part II,old,rat2023,kech206,0,kech203,kech203,0.9134,0,12717,585,0.046,0,12518,550,940,77,0,56
+kech2,Chemistry Part II,old,rat2023,kech207,0,,kech201,0.001,1,8658,8649,0.999,9,0,0,0,0,1,615
+kech2,Chemistry Part II,old,rat2023,kech2an,1,,kech2an,0.2045,1,1878,1526,0.8126,352,0,0,0,4,15,79
+kech2,Chemistry Part II,old,rat2023,kech2ps,1,kech2ps,kech2ps,0.7427,0,1974,423,0.2143,0,1830,306,120,6,0,6
+keph1,Physics Part I,old,rat2023,keph101,0,,keph107,0.0022,1,8156,8103,0.9935,53,0,0,0,1,1,528
+keph1,Physics Part I,old,rat2023,keph102,0,keph101,keph101,0.5069,0,13566,6530,0.4814,0,6938,48,439,9,0,431
+keph1,Physics Part I,old,rat2023,keph103,0,keph102,keph102,0.4972,0,11288,5041,0.4466,130,5851,108,524,55,5,368
+keph1,Physics Part I,old,rat2023,keph104,0,keph103,keph103,0.8643,0,11587,1253,0.1081,0,10485,214,946,55,0,101
+keph1,Physics Part I,old,rat2023,keph105,0,keph104,keph104,0.8688,0,14872,1778,0.1196,0,13190,115,907,32,0,113
+keph1,Physics Part I,old,rat2023,keph106,0,keph105,keph105,0.774,0,13556,2817,0.2078,0,10869,182,947,50,0,193
+keph1,Physics Part I,old,rat2023,keph107,0,keph106,keph106,0.8104,0,23084,3880,0.1681,26,19190,310,1526,85,0,246
+keph1,Physics Part I,old,rat2023,keph108,0,keph107,keph107,0.6975,0,12656,3540,0.2797,21,9090,135,844,47,0,414
+keph1,Physics Part I,old,rat2023,keph1a1,1,keph1an,keph1an,0.6947,0,7695,2122,0.2758,0,5720,180,376,22,0,172
+keph1,Physics Part I,old,rat2023,keph1ps,1,keph1ps,keph1ps,0.8691,0,4659,234,0.0502,0,5212,893,307,11,0,12
+keph2,Physics Part II,old,rat2023,keph201,0,keph201,keph201,0.8024,0,7585,1337,0.1763,0,6319,106,446,16,0,86
+keph2,Physics Part II,old,rat2023,keph202,0,keph202,keph202,0.7686,0,14968,3188,0.213,0,11882,162,851,48,0,218
+keph2,Physics Part II,old,rat2023,keph203,0,keph203,keph203,0.9441,0,13158,571,0.0434,0,12691,102,895,31,0,40
+keph2,Physics Part II,old,rat2023,keph204,0,keph204,keph204,0.8582,0,11037,1348,0.1221,1,9747,119,760,34,0,90
+keph2,Physics Part II,old,rat2023,keph205,0,keph205,keph205,0.8165,0,10104,1679,0.1662,0,8515,101,669,21,0,110
+keph2,Physics Part II,old,rat2023,keph206,0,keph206,keph206,0.6314,0,12356,4196,0.3396,8,8182,158,694,55,0,325
+keph2,Physics Part II,old,rat2023,keph207,0,keph207,keph207,0.7561,0,14082,3164,0.2247,0,10998,155,944,45,0,205
+keph2,Physics Part II,old,rat2023,keph2an,1,keph2an,keph2an,0.7344,0,5018,1087,0.2166,0,4009,106,383,22,0,88
+keph2,Physics Part II,old,rat2023,keph2ps,1,keph2ps,keph2ps,0.8728,0,4488,137,0.0305,0,4562,261,286,15,0,13
+lehs1,Themes in Indian History Part I,old,rat2023,lehs101,0,lehs101,lehs101,1.0,0,8220,0,0.0,0,8220,0,693,0,0,0
+lehs1,Themes in Indian History Part I,old,rat2023,lehs102,0,lehs102,lehs102,1.0,0,8648,0,0.0,0,8648,0,682,0,0,0
+lehs1,Themes in Indian History Part I,old,rat2023,lehs103,0,lehs103,lehs103,1.0,0,9691,0,0.0,0,9691,0,680,0,0,0
+lehs1,Themes in Indian History Part I,old,rat2023,lehs104,0,lehs104,lehs104,1.0,0,9021,0,0.0,0,9021,0,720,0,0,0
+lehs1,Themes in Indian History Part I,old,rat2023,lehs1ps,1,lehs1ps,lehs1ps,0.9574,0,2934,77,0.0262,0,3154,315,221,14,0,9
+lehs2,Themes in Indian History Part II,old,rat2023,lehs201,0,lehs201,lehs201,1.0,0,9137,0,0.0,0,9137,0,583,0,0,0
+lehs2,Themes in Indian History Part II,old,rat2023,lehs202,0,lehs202,lehs202,1.0,0,10358,0,0.0,0,10358,0,680,0,0,0
+lehs2,Themes in Indian History Part II,old,rat2023,lehs203,0,lehs203,lehs203,1.0,0,7111,0,0.0,0,7111,0,567,0,0,0
+lehs2,Themes in Indian History Part II,old,rat2023,lehs204,0,lehs204,lehs204,1.0,0,9647,0,0.0,0,10259,208,627,0,0,0
+lehs2,Themes in Indian History Part II,old,rat2023,lehs205,0,,lehs204,0.0606,1,10891,10445,0.959,446,0,0,0,3,36,720
+lehs2,Themes in Indian History Part II,old,rat2023,lehs2ps,1,lehs2ps,lehs2ps,0.9461,0,2857,88,0.0308,0,3121,357,225,9,0,6
+lehs3,Themes in Indian History Part III,old,rat2023,lehs301,0,lehs301,lehs301,0.9963,0,10848,27,0.0025,0,10853,33,716,4,0,0
+lehs3,Themes in Indian History Part III,old,rat2023,lehs302,0,lehs302,lehs302,0.9977,0,10216,18,0.0018,0,10216,18,624,1,0,0
+lehs3,Themes in Indian History Part III,old,rat2023,lehs303,0,,lehs302,0.0027,1,10185,10162,0.9977,23,0,0,0,0,2,716
+lehs3,Themes in Indian History Part III,old,rat2023,lehs304,0,lehs303,lehs303,0.9963,0,11491,40,0.0035,0,11470,19,717,2,0,1
+lehs3,Themes in Indian History Part III,old,rat2023,lehs305,0,,lehs303,0.0063,1,9733,9674,0.9939,59,0,0,0,2,2,609
+lehs3,Themes in Indian History Part III,old,rat2023,lehs306,0,lehs304,lehs304,0.9793,0,10127,125,0.0123,0,10053,47,622,12,0,10
+lehs3,Themes in Indian History Part III,old,rat2023,lehs3ps,1,lehs3ps,lehs3ps,0.9506,0,2852,78,0.0273,0,3077,302,204,9,0,5
+leps1,Contemporary World Politics,old,rat2023,leps101,0,,leps104,0.0018,1,5567,5557,0.9982,10,0,0,0,0,0,429
+leps1,Contemporary World Politics,old,rat2023,leps102,0,leps101,leps101,0.9928,0,5680,1,0.0002,0,5751,28,384,1,0,0
+leps1,Contemporary World Politics,old,rat2023,leps103,0,,leps103,0.0013,1,6842,6833,0.9987,9,0,0,0,1,0,474
+leps1,Contemporary World Politics,old,rat2023,leps104,0,leps102,leps102,0.9964,0,4973,7,0.0014,0,5025,17,388,2,0,0
+leps1,Contemporary World Politics,old,rat2023,leps105,0,leps103,leps103,0.995,0,5815,5,0.0009,0,6115,211,402,1,0,0
+leps1,Contemporary World Politics,old,rat2023,leps106,0,leps104,leps104,0.9943,0,6138,16,0.0026,0,6278,121,476,4,0,0
+leps1,Contemporary World Politics,old,rat2023,leps107,0,leps105,leps105,0.9933,0,6010,21,0.0035,0,6066,44,412,2,0,1
+leps1,Contemporary World Politics,old,rat2023,leps108,0,leps106,leps106,0.9936,0,6293,15,0.0024,0,6354,41,425,3,0,0
+leps1,Contemporary World Politics,old,rat2023,leps109,0,leps107,leps107,0.9924,0,4206,19,0.0045,0,4232,49,303,4,0,2
+leps1,Contemporary World Politics,old,rat2023,leps1ps,1,leps1ps,leps1ps,0.9402,0,3062,93,0.0304,0,3218,270,210,6,0,8
+leps2,Politics in India since Independence,old2122,rat2023,leps201,0,leps201,leps201,0.9628,0,7103,163,0.0229,0,6929,4,474,1,0,15
+leps2,Politics in India since Independence,old2122,rat2023,leps202,0,leps202,leps202,0.8582,0,6898,923,0.1338,0,5973,8,403,3,0,69
+leps2,Politics in India since Independence,old2122,rat2023,leps203,0,leps203,leps203,0.4952,0,6291,3165,0.5031,0,3121,2,208,1,0,196
+leps2,Politics in India since Independence,old2122,rat2023,leps204,0,leps204,leps204,0.9738,0,5841,17,0.0029,0,5799,0,422,0,0,4
+leps2,Politics in India since Independence,old2122,rat2023,leps205,0,leps205,leps205,0.9779,0,6160,8,0.0013,0,6133,0,400,1,0,2
+leps2,Politics in India since Independence,old2122,rat2023,leps206,0,leps206,leps206,0.7362,0,7824,2044,0.2612,0,5770,8,424,4,0,126
+leps2,Politics in India since Independence,old2122,rat2023,leps207,0,,leps208,0.0011,1,7197,7189,0.9989,8,0,0,0,1,0,654
+leps2,Politics in India since Independence,old2122,rat2023,leps208,0,leps207,leps207,0.9822,0,8012,21,0.0026,0,8201,204,559,1,0,1
+leps2,Politics in India since Independence,old2122,rat2023,leps209,0,leps208,leps208,0.8984,0,6636,520,0.0784,0,6090,19,469,2,0,36
+leps2,Politics in India since Independence,old2122,rat2023,leps2ps,1,leps2ps,leps2ps,0.9465,0,3530,110,0.0312,0,3678,266,276,9,0,10
+lesy1,Indian Society,old,rat2023,lesy101,0,lesy101,lesy101,0.646,0,2367,829,0.3502,0,1544,5,87,2,0,43
+lesy1,Indian Society,old,rat2023,lesy102,0,lesy102,lesy102,0.9567,0,10138,332,0.0327,10,9862,45,594,2,1,17
+lesy1,Indian Society,old,rat2023,lesy103,0,lesy103,lesy103,0.7921,0,8565,1746,0.2039,0,6844,19,432,3,0,87
+lesy1,Indian Society,old,rat2023,lesy104,0,lesy104,lesy104,0.8317,0,7063,1132,0.1603,0,5933,13,363,3,0,73
+lesy1,Indian Society,old,rat2023,lesy105,0,lesy105,lesy105,0.8254,0,12417,2131,0.1716,0,10352,46,671,5,0,128
+lesy1,Indian Society,old,rat2023,lesy106,0,lesy106,lesy106,0.725,0,11140,3015,0.2706,0,8150,52,457,7,0,174
+lesy1,Indian Society,old,rat2023,lesy107,0,lesy107,lesy107,0.8759,0,3022,345,0.1142,0,6315,525,162,4,0,21
+lesy1,Indian Society,old,rat2023,lesy1gl,1,lesy107,lesy107,0.9976,0,3286,8,0.0024,0,6315,525,233,0,0,8
+lesy1,Indian Society,old,rat2023,lesy1ps,1,lesy1ps,lesy1ps,0.9614,0,3160,31,0.0098,0,3388,271,255,7,0,0
+lesy2,Social Change and Development in India,old,rat2023,lesy201,0,lesy201,lesy201,0.8252,0,5611,940,0.1675,0,4683,13,377,7,0,50
+lesy2,Social Change and Development in India,old,rat2023,lesy202,0,lesy202,lesy202,0.7693,0,7026,1579,0.2247,0,5545,116,422,4,0,100
+lesy2,Social Change and Development in India,old,rat2023,lesy203,0,lesy203,lesy203,0.4171,0,7171,4074,0.5681,0,3165,110,230,14,0,274
+lesy2,Social Change and Development in India,old,rat2023,lesy204,0,lesy204,lesy204,0.928,0,6724,420,0.0625,0,6377,58,399,10,0,32
+lesy2,Social Change and Development in India,old,rat2023,lesy205,0,lesy205,lesy205,0.6251,0,7602,2807,0.3692,0,4803,13,367,3,0,211
+lesy2,Social Change and Development in India,old,rat2023,lesy206,0,lesy206,lesy206,0.8427,0,7347,1095,0.149,0,6401,131,423,7,0,85
+lesy2,Social Change and Development in India,old,rat2023,lesy207,0,lesy207,lesy207,0.9082,0,7927,603,0.0761,0,7411,121,494,8,0,57
+lesy2,Social Change and Development in India,old,rat2023,lesy208,0,lesy208,lesy208,0.702,0,10082,2922,0.2898,2,8136,108,526,12,0,199
+lesy2,Social Change and Development in India,old,rat2023,lesy2gl,1,lesy208,lesy208,0.9852,0,1014,12,0.0118,0,8136,108,78,0,0,4
+lesy2,Social Change and Development in India,old,rat2023,lesy2ps,1,lesy2ps,lesy2ps,0.9265,0,1877,41,0.0218,0,2078,254,116,9,0,5
+legy1,Fundamentals of Human Geography,old,rat2023,legy101,0,legy101,legy101,0.8948,0,2984,297,0.0995,0,2695,8,219,1,0,18
+legy1,Fundamentals of Human Geography,old,rat2023,legy102,0,legy102,legy102,0.7147,0,3228,890,0.2757,0,2334,10,211,6,0,70
+legy1,Fundamentals of Human Geography,old,rat2023,legy103,0,,legy103,0.0269,1,1523,1486,0.9757,37,0,0,0,0,3,127
+legy1,Fundamentals of Human Geography,old,rat2023,legy104,0,legy103,legy103,0.9842,0,3294,46,0.014,0,3257,10,252,1,0,3
+legy1,Fundamentals of Human Geography,old,rat2023,legy105,0,legy104,legy104,0.9812,0,3609,17,0.0047,0,3609,17,287,6,0,3
+legy1,Fundamentals of Human Geography,old,rat2023,legy106,0,legy105,legy105,0.7617,0,3555,841,0.2366,0,2719,9,239,1,0,54
+legy1,Fundamentals of Human Geography,old,rat2023,legy107,0,legy106,legy106,0.9582,0,3470,127,0.0366,0,3349,2,261,0,0,10
+legy1,Fundamentals of Human Geography,old,rat2023,legy108,0,legy107,legy107,0.991,0,5865,19,0.0032,0,5844,4,464,2,0,2
+legy1,Fundamentals of Human Geography,old,rat2023,legy109,0,legy108,legy108,0.7877,0,3665,762,0.2079,0,2895,2,188,0,0,85
+legy1,Fundamentals of Human Geography,old,rat2023,legy110,0,,legy103,0.0089,1,4606,4572,0.9926,34,0,0,0,0,3,360
+legy1,Fundamentals of Human Geography,old,rat2023,legy1a1,1,,legy1a1,0.2078,1,4128,3696,0.8953,432,0,0,0,1,12,457
+legy1,Fundamentals of Human Geography,old,rat2023,legy1gl,1,legy1a1,legy1a1,0.9916,0,1315,6,0.0046,0,2183,441,77,0,0,2
+legy1,Fundamentals of Human Geography,old,rat2023,legy1ps,1,legy1ps,legy1ps,0.8276,0,1717,112,0.0652,0,2077,504,142,12,0,9
+legy2,India: People and Economy,old,rat2023,legy201,0,legy201,legy201,0.9996,0,4685,0,0.0,0,4756,65,294,0,0,0
+legy2,India: People and Economy,old,rat2023,legy202,0,,legy203,0.0146,1,2817,2758,0.9791,59,0,0,0,3,3,239
+legy2,India: People and Economy,old,rat2023,legy203,0,,legy209,0.0101,1,4252,4206,0.9892,46,0,0,0,0,3,253
+legy2,India: People and Economy,old,rat2023,legy204,0,legy202,legy202,0.7295,0,2884,765,0.2653,0,2143,15,169,1,0,93
+legy2,India: People and Economy,old,rat2023,legy205,0,legy203,legy203,0.9868,0,7036,39,0.0055,0,7011,46,520,7,0,1
+legy2,India: People and Economy,old,rat2023,legy206,0,legy204,legy204,0.9984,0,3715,3,0.0008,0,3810,91,254,0,0,1
+legy2,India: People and Economy,old,rat2023,legy207,0,legy205,legy205,0.9259,0,3604,222,0.0616,0,3377,26,266,0,0,13
+legy2,India: People and Economy,old,rat2023,legy208,0,,legy202,0.0048,1,6467,6436,0.9952,31,0,0,0,0,3,509
+legy2,India: People and Economy,old,rat2023,legy209,0,legy206,legy206,0.9987,0,3072,3,0.001,0,3081,7,186,0,0,1
+legy2,India: People and Economy,old,rat2023,legy210,0,legy207,legy207,0.9,0,4048,269,0.0665,0,3592,44,305,6,0,15
+legy2,India: People and Economy,old,rat2023,legy211,0,legy208,legy208,0.9882,0,2708,8,0.003,0,2752,49,219,1,0,1
+legy2,India: People and Economy,old,rat2023,legy212,0,legy209,legy209,0.9978,0,4112,5,0.0012,0,4200,74,272,0,0,1
+legy2,India: People and Economy,old,rat2023,legy2a1,1,legy2a1,legy2a1,0.9947,0,4310,23,0.0053,0,4219,3,398,2,0,1
+legy2,India: People and Economy,old,rat2023,legy2ps,1,legy2ps,legy2ps,0.8791,0,1902,67,0.0352,0,2092,265,140,9,0,11
+leec1,Introductory Macroeconomics,old,rat2023,leec101,0,leec101,leec101,1.0,0,3448,0,0.0,0,3448,0,195,0,0,0
+leec1,Introductory Macroeconomics,old,rat2023,leec102,0,leec102,leec102,0.9937,0,13658,14,0.001,0,13680,36,955,7,0,2
+leec1,Introductory Macroeconomics,old,rat2023,leec103,0,leec103,leec103,0.9914,0,7710,63,0.0082,0,7836,189,564,0,0,1
+leec1,Introductory Macroeconomics,old,rat2023,leec104,0,leec104,leec104,1.0,0,5224,0,0.0,0,5224,0,430,0,0,0
+leec1,Introductory Macroeconomics,old,rat2023,leec105,0,leec105,leec105,0.9921,0,8501,4,0.0005,0,8505,4,642,0,0,0
+leec1,Introductory Macroeconomics,old,rat2023,leec106,0,leec106,leec106,0.6743,0,8908,2879,0.3232,0,8525,49,453,3,0,122
+leec1,Introductory Macroeconomics,old,rat2023,leec1gl,1,leec106,leec106,0.9972,0,2541,5,0.002,0,8525,49,147,0,0,5
+leec1,Introductory Macroeconomics,old,rat2023,leec1ps,1,leec1ps,leec1ps,0.9538,0,1689,33,0.0195,0,2082,438,108,4,0,3
+leec2,Introductory Microeconomics,old,rat2023,leec201,0,leec201,leec201,1.0,0,3496,0,0.0,0,3496,0,198,0,0,0
+leec2,Introductory Microeconomics,old,rat2023,leec202,0,leec202,leec202,0.9999,0,12326,1,0.0001,0,12344,19,886,0,0,0
+leec2,Introductory Microeconomics,old,rat2023,leec203,0,leec203,leec203,1.0,0,7105,0,0.0,0,7118,13,645,0,0,0
+leec2,Introductory Microeconomics,old,rat2023,leec204,0,leec204,leec204,1.0,0,7586,0,0.0,0,7586,0,604,0,0,0
+leec2,Introductory Microeconomics,old,rat2023,leec205,0,leec205,leec205,1.0,0,7892,0,0.0,0,9168,11,505,0,0,0
+leec2,Introductory Microeconomics,old,rat2023,leec206,0,,leec205,0.0014,1,7235,7225,0.9986,10,0,0,0,1,0,475
+leec2,Introductory Microeconomics,old,rat2023,leec2gl,1,leec205,leec205,1.0,0,1272,0,0.0,0,9168,11,65,0,0,0
+leec2,Introductory Microeconomics,old,rat2023,leec2ps,1,leec2ps,leec2ps,0.921,0,1898,103,0.0543,0,2305,524,102,3,0,5
+lebo1,Biology,old,rat2023,lebo101,0,,lebo101,0.0686,1,5017,4680,0.9328,337,0,0,0,1,19,395
+lebo1,Biology,old,rat2023,lebo102,0,lebo101,lebo101,0.9766,0,7423,73,0.0098,0,7764,82,528,6,0,15
+lebo1,Biology,old,rat2023,lebo103,0,lebo102,lebo102,0.9677,0,4741,52,0.011,0,4738,57,366,2,0,12
+lebo1,Biology,old,rat2023,lebo104,0,lebo103,lebo103,0.9808,0,4055,17,0.0042,0,4055,22,239,2,0,9
+lebo1,Biology,old,rat2023,lebo105,0,lebo104,lebo104,0.9805,0,9893,64,0.0065,0,9894,70,637,2,0,17
+lebo1,Biology,old,rat2023,lebo106,0,lebo105,lebo105,0.9808,0,10520,44,0.0042,0,10520,50,706,2,0,18
+lebo1,Biology,old,rat2023,lebo107,0,lebo106,lebo106,0.975,0,5000,31,0.0062,0,5000,41,374,2,0,16
+lebo1,Biology,old,rat2023,lebo108,0,lebo107,lebo107,0.9821,0,7818,46,0.0059,0,7810,42,500,3,0,18
+lebo1,Biology,old,rat2023,lebo109,0,,lebo110,0.0868,1,5314,4858,0.9142,456,0,0,0,0,23,322
+lebo1,Biology,old,rat2023,lebo110,0,lebo108,lebo108,0.9742,0,4027,20,0.005,0,4029,28,277,1,0,11
+lebo1,Biology,old,rat2023,lebo111,0,lebo109,lebo109,0.9841,0,4837,34,0.007,0,4838,41,277,5,0,14
+lebo1,Biology,old,rat2023,lebo112,0,lebo110,lebo110,0.9781,0,3382,16,0.0047,0,3847,37,206,1,0,9
+lebo1,Biology,old,rat2023,lebo113,0,lebo111,lebo111,0.654,0,8659,2907,0.3357,0,5766,34,321,7,0,173
+lebo1,Biology,old,rat2023,lebo114,0,lebo112,lebo112,0.6318,0,5014,1782,0.3554,0,3224,30,222,5,0,125
+lebo1,Biology,old,rat2023,lebo115,0,lebo113,lebo113,0.9926,0,4588,17,0.0037,0,4589,25,228,1,0,11
+lebo1,Biology,old,rat2023,lebo116,0,,,0.0,1,6303,6303,1.0,0,0,0,0,0,0,417
+lebo1,Biology,old,rat2023,lebo1ps,1,lebo1ps,lebo1ps,0.9168,0,2655,58,0.0218,0,2804,219,217,10,0,8
+lech1,Chemistry Part I,old,rat2023,lech101,0,,lech101,0.0008,1,11923,11913,0.9992,10,0,0,0,0,0,1091
+lech1,Chemistry Part I,old,rat2023,lech102,0,lech101,lech101,0.968,0,12439,187,0.015,1,12430,180,943,33,0,8
+lech1,Chemistry Part I,old,rat2023,lech103,0,lech102,lech102,0.9347,0,11595,242,0.0209,0,11684,352,973,58,0,16
+lech1,Chemistry Part I,old,rat2023,lech104,0,lech103,lech103,0.9656,0,9306,95,0.0102,0,9307,97,842,14,0,2
+lech1,Chemistry Part I,old,rat2023,lech105,0,,lech101,0.0009,1,11387,11377,0.9991,10,0,0,0,0,0,988
+lech1,Chemistry Part I,old,rat2023,lech106,0,,lech105,0.0013,1,8747,8736,0.9987,11,0,0,0,0,0,716
+lech1,Chemistry Part I,old,rat2023,lech107,0,,lech105,0.001,1,17286,17268,0.999,18,0,0,0,0,0,1654
+lech1,Chemistry Part I,old,rat2023,lech108,0,lech104,lech104,0.9757,0,12636,118,0.0093,0,12634,109,1162,15,0,9
+lech1,Chemistry Part I,old,rat2023,lech109,0,lech105,lech105,0.9741,0,9320,86,0.0092,0,9320,83,830,7,0,4
+lech1,Chemistry Part I,old,rat2023,lech1a1,1,lech1a1,lech1a1,0.9296,0,7448,0,0.0,0,7648,10,328,0,0,0
+lech1,Chemistry Part I,old,rat2023,lech1an,1,lech1an,lech1an,0.3246,0,2523,1397,0.5537,0,1169,43,111,7,0,53
+lech1,Chemistry Part I,old,rat2023,lech1ps,1,lech1ps,lech1ps,0.7076,0,3129,609,0.1946,0,2694,222,210,25,0,77
+lech2,Chemistry Part II,old,rat2023,lech201,0,lech201,lech201,0.9735,0,8980,110,0.0122,0,8940,74,626,22,0,6
+lech2,Chemistry Part II,old,rat2023,lech202,0,lech202,lech202,0.9827,0,7797,74,0.0095,0,7786,68,730,14,0,2
+lech2,Chemistry Part II,old,rat2023,lech203,0,lech203,lech203,0.9751,0,7275,78,0.0107,0,7278,86,597,8,0,6
+lech2,Chemistry Part II,old,rat2023,lech204,0,lech204,lech204,0.986,0,5779,30,0.0052,0,5780,36,503,8,0,0
+lech2,Chemistry Part II,old,rat2023,lech205,0,lech205,lech205,0.9701,0,7087,63,0.0089,0,7094,60,642,7,0,1
+lech2,Chemistry Part II,old,rat2023,lech206,0,,lech205,0.0034,1,3283,3272,0.9966,11,0,0,0,0,0,269
+lech2,Chemistry Part II,old,rat2023,lech207,0,,lech201,0.0017,1,5330,5321,0.9983,9,0,0,0,0,0,448
+lech2,Chemistry Part II,old,rat2023,lech2an,1,lech2an,lech2an,0.3845,0,965,571,0.5917,0,417,23,62,1,0,41
+lech2,Chemistry Part II,old,rat2023,lech2in,1,,,0.0,1,814,814,1.0,0,0,0,0,0,0,13
+lech2,Chemistry Part II,old,rat2023,lech2ps,1,lech2ps,lech2ps,0.8167,0,2717,149,0.0548,0,2758,267,205,39,0,18
+leph1,Physics Part I,old,rat2023,leph101,0,leph101,leph101,0.8273,0,21822,3121,0.143,0,18808,172,1459,30,0,181
+leph1,Physics Part I,old,rat2023,leph102,0,leph102,leph102,0.8441,0,16378,2275,0.1389,9,14009,81,1256,24,0,160
+leph1,Physics Part I,old,rat2023,leph103,0,leph103,leph103,0.6472,0,14917,4530,0.3037,0,10306,203,929,70,0,372
+leph1,Physics Part I,old,rat2023,leph104,0,leph104,leph104,0.6638,0,17473,5495,0.3145,19,11891,139,988,33,0,378
+leph1,Physics Part I,old,rat2023,leph105,0,leph105,leph105,0.4906,0,12814,6000,0.4682,77,6624,100,557,41,1,475
+leph1,Physics Part I,old,rat2023,leph106,0,leph106,leph106,0.7296,0,10834,2640,0.2437,24,8228,96,681,16,0,205
+leph1,Physics Part I,old,rat2023,leph107,0,leph107,leph107,0.6516,0,13015,3910,0.3004,3,8822,99,881,54,0,326
+leph1,Physics Part I,old,rat2023,leph108,0,leph108,leph108,0.6986,0,8088,2285,0.2825,0,5795,39,449,7,0,135
+leph1,Physics Part I,old,rat2023,leph1an,1,,leph1an,0.1915,1,7229,6064,0.8388,1165,0,0,0,19,52,568
+leph1,Physics Part I,old,rat2023,leph1ps,1,leph1ps,leph1ps,0.8606,0,3931,97,0.0247,0,4004,244,253,8,0,4
+leph2,Physics Part II,old,rat2023,leph201,0,leph201,leph201,0.788,0,15299,3016,0.1971,0,12345,94,1045,19,0,195
+leph2,Physics Part II,old,rat2023,leph202,0,leph202,leph202,0.5023,0,14246,6786,0.4763,17,7414,123,570,44,0,455
+leph2,Physics Part II,old,rat2023,leph203,0,leph203,leph203,0.5294,0,13114,5982,0.4562,0,7121,68,472,11,0,380
+leph2,Physics Part II,old,rat2023,leph204,0,leph204,leph204,0.6672,0,10096,3144,0.3114,0,6908,88,554,18,0,235
+leph2,Physics Part II,old,rat2023,leph205,0,leph205,leph205,0.5773,0,12433,5158,0.4149,0,7264,49,553,8,0,425
+leph2,Physics Part II,old,rat2023,leph206,0,leph206,leph206,0.5072,0,22220,10729,0.4829,0,11429,83,944,6,0,717
+leph2,Physics Part II,old,rat2023,leph2ps,1,leph2ps,leph2ps,0.8963,0,3249,104,0.032,0,3356,226,262,12,0,15
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,lhhs101,0,lhhs101,lhhs101,1.0,0,12340,0,0.0,0,12340,0,345,0,0,0
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,lhhs102,0,lhhs102,lhhs102,1.0,0,11562,0,0.0,0,11562,0,318,0,0,0
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,lhhs103,0,lhhs103,lhhs103,0.9995,0,13321,6,0.0005,0,13315,0,270,0,0,1
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,lhhs104,0,lhhs104,lhhs104,0.9995,0,11954,6,0.0005,0,11948,0,315,0,0,1
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,lhhs1ps,1,lhhs1ps,lhhs1ps,0.9655,0,4259,77,0.0181,0,4590,450,108,3,0,6
+lhhs2,Bharatiya Itihas ke Kuchh Vishay II,old,rat2023,lhhs201,0,lhhs201,lhhs201,1.0,0,12539,0,0.0,0,25078,0,270,0,0,0
+lhhs2,Bharatiya Itihas ke Kuchh Vishay II,old,rat2023,lhhs202,0,lhhs202,lhhs202,1.0,0,12957,0,0.0,0,12961,4,272,0,0,0
+lhhs2,Bharatiya Itihas ke Kuchh Vishay II,old,rat2023,lhhs203,0,lhhs203,lhhs203,1.0,0,9606,0,0.0,0,9606,0,256,0,0,0
+lhhs2,Bharatiya Itihas ke Kuchh Vishay II,old,rat2023,lhhs204,0,lhhs204,lhhs204,1.0,0,13097,0,0.0,0,13755,98,241,0,0,0
+lhhs2,Bharatiya Itihas ke Kuchh Vishay II,old,rat2023,lhhs205,0,,lhhs204,0.048,1,14689,14025,0.9548,664,0,0,0,1,30,264
+lhhs2,Bharatiya Itihas ke Kuchh Vishay II,old,rat2023,lhhs2ps,1,lhhs2ps,lhhs2ps,0.9578,0,4028,95,0.0236,2,4340,440,122,4,0,7
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs301,0,lhhs301,lhhs301,0.9977,0,16520,37,0.0022,0,16694,48,250,0,0,0
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs302,0,lhhs302,lhhs302,0.998,0,13806,25,0.0018,0,14005,36,201,0,0,1
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs303,0,,lhhs301,0.0047,1,14097,14029,0.9952,68,0,0,0,0,3,207
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs304,0,lhhs303,lhhs303,0.9934,0,16093,89,0.0055,0,16107,42,246,1,0,5
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs305,0,,lhhs303,0.0044,1,13585,13507,0.9943,78,0,0,0,0,4,200
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs306,0,lhhs304,lhhs304,0.9826,0,13311,143,0.0107,0,13380,71,185,6,0,13
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs3ps,1,lhhs3ps,lhhs3ps,0.9364,0,4055,124,0.0306,0,4814,717,101,5,0,4
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps101,0,,lhps101,0.0038,1,8159,8108,0.9937,51,0,0,0,0,0,205
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps102,0,lhps101,lhps101,0.9999,0,8307,1,0.0001,0,8307,1,158,1,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps103,0,,lhps103,0.0053,1,9473,9393,0.9916,80,0,0,0,0,0,221
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps104,0,lhps102,lhps102,0.9993,0,6974,3,0.0004,0,6974,3,200,2,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps105,0,lhps103,lhps103,0.9999,0,8764,1,0.0001,0,8764,1,173,1,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps106,0,lhps104,lhps104,0.9968,0,9446,12,0.0013,0,9461,24,216,3,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps107,0,lhps105,lhps105,0.9999,0,9220,1,0.0001,0,9220,1,192,1,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps108,0,lhps106,lhps106,0.9998,0,9739,2,0.0002,0,9741,4,195,1,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps109,0,lhps107,lhps107,0.9982,0,6591,12,0.0018,0,6803,215,171,1,0,2
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps1ps,1,lhps1ps,lhps1ps,0.9509,0,4220,93,0.022,0,4534,431,74,11,0,4
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,lhps201,0,lhps201,lhps201,0.9812,0,9991,188,0.0188,0,9805,0,154,1,0,0
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,lhps202,0,lhps202,lhps202,0.8794,0,9311,1120,0.1203,0,8259,71,158,0,0,17
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,lhps203,0,lhps203,lhps203,0.5433,0,8837,4007,0.4534,14,4808,1,103,0,0,54
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,lhps204,0,lhps204,lhps204,0.9995,0,8272,0,0.0,0,8274,3,136,0,0,0
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,lhps205,0,lhps205,lhps205,1.0,0,8623,0,0.0,0,8623,0,150,0,0,0
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,lhps206,0,lhps206,lhps206,0.7327,0,10967,2916,0.2659,9,8014,13,190,2,0,44
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,lhps207,0,,lhps205,0.0051,1,9554,9464,0.9906,90,0,0,0,1,0,197
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,lhps208,0,lhps207,lhps207,0.9971,0,11258,32,0.0028,0,11227,2,216,2,0,0
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,lhps209,0,lhps208,lhps208,0.9141,0,8633,730,0.0846,0,7902,3,195,1,0,18
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,lhps2ps,1,lhps2ps,lhps2ps,0.976,0,5249,44,0.0084,0,5606,397,88,6,0,2

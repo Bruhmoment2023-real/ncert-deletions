@@ -1,0 +1,6 @@
+﻿stratum,sampled,confirmed,not_confirmed,uncertain,error_rate_not_confirmed,error_rate_incl_uncertain,adjudicator
+deleted,40,38,0,2,0.0,0.05,AI agent (not a person)
+deleted_dropped_chapter,10,10,0,0,0.0,0.0,AI agent (not a person)
+kept,20,20,0,0,0.0,0.0,AI agent (not a person)
+moved,10,10,0,0,0.0,0.0,AI agent (not a person)
+reworded,20,6,6,8,0.3,0.7,AI agent (not a person)

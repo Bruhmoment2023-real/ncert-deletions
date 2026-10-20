@@ -1,0 +1,4 @@
+kept {'present(>=97)': 16512, 'partial(69-96)': 288, 'absent(<=68)': 0}
+reworded {'present(>=97)': 112, 'partial(69-96)': 588, 'absent(<=68)': 142}
+moved {'present(>=97)': 467, 'partial(69-96)': 30, 'absent(<=68)': 0}
+deleted {'present(>=97)': 1, 'partial(69-96)': 1026, 'absent(<=68)': 14322}

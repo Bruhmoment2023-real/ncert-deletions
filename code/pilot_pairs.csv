@@ -1,0 +1,12 @@
+book,official_code,title,old_label,new_label
+lehs1,12093,Themes in Indian History Part I,old,rat2023
+lehs2,12094,Themes in Indian History Part II,old,rat2023
+lehs3,12125,Themes in Indian History Part III,old,rat2023
+leps1,12107,Contemporary World Politics,old,rat2023
+leps2,12119,Politics in India since Independence,old2122,rat2023
+lehs1,12093,Themes in Indian History Part I,rat2023,latest
+lehs2,12094,Themes in Indian History Part II,rat2023,latest
+lehs3,12125,Themes in Indian History Part III,rat2023,latest
+leps1,12107,Contemporary World Politics,rat2023,latest
+leps2,12119,Politics in India since Independence,rat2023,latest
+leps2,12119,Politics in India since Independence,old,old2122

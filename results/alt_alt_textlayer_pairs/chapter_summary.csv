@@ -1,0 +1,65 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+gess1,Our Pasts II,old_alt,rat2023,gess101,0,gess101,gess101,0.9886,0,3430,32,0.0093,0,3406,12,251,1,0,3
+gess1,Our Pasts II,old_alt,rat2023,gess102,0,gess102,gess102,0.9247,0,3016,219,0.0726,0,2807,19,230,6,0,15
+gess1,Our Pasts II,old_alt,rat2023,gess103,0,gess103,gess103,0.5856,0,3441,1343,0.3903,6,2075,33,174,7,0,119
+gess1,Our Pasts II,old_alt,rat2023,gess104,0,gess104,gess104,0.5778,0,3745,1539,0.4109,21,2180,21,190,5,1,118
+gess1,Our Pasts II,old_alt,rat2023,gess105,0,,gess102,0.007,1,3298,3236,0.9812,62,0,0,0,0,0,302
+gess1,Our Pasts II,old_alt,rat2023,gess106,0,,gess107,0.0117,1,3507,3428,0.9775,79,0,0,0,2,1,270
+gess1,Our Pasts II,old_alt,rat2023,gess107,0,gess105,gess105,0.9634,0,2923,102,0.0349,5,2818,6,290,0,0,11
+gess1,Our Pasts II,old_alt,rat2023,gess108,0,gess106,gess106,0.9649,0,4185,137,0.0327,5,4152,106,309,2,0,12
+gess1,Our Pasts II,old_alt,rat2023,gess109,0,gess107,gess107,0.9493,0,3316,164,0.0495,0,3169,18,242,2,0,8
+gess1,Our Pasts II,old_alt,rat2023,gess110,0,gess108,gess108,0.6541,0,4233,1393,0.3291,24,2826,23,209,3,0,97
+gess1,Our Pasts II,old_alt,rat2023,gess1ps,1,gess1ps,gess1ps,0.8246,0,2378,268,0.1127,0,2378,314,286,28,0,48
+gess3,Social and Political Life II,old_alt,rat2023,gess301,0,gess301,gess301,0.5293,0,3888,1780,0.4578,34,2045,0,153,3,0,160
+gess3,Social and Political Life II,old_alt,rat2023,gess302,0,gess302,gess302,0.937,0,3904,239,0.0612,0,3718,18,329,1,0,22
+gess3,Social and Political Life II,old_alt,rat2023,gess303,0,gess303,gess303,0.999,0,3051,3,0.001,0,3070,15,303,0,0,2
+gess3,Social and Political Life II,old_alt,rat2023,gess304,0,gess304,gess304,0.9987,0,3167,4,0.0013,0,3178,7,328,0,0,4
+gess3,Social and Political Life II,old_alt,rat2023,gess305,0,gess305,gess305,0.9927,0,3540,25,0.0071,0,3524,1,294,2,0,5
+gess3,Social and Political Life II,old_alt,rat2023,gess306,0,gess306,gess306,0.9975,0,3554,7,0.002,0,3555,8,297,0,0,7
+gess3,Social and Political Life II,old_alt,rat2023,gess307,0,gess307,gess307,0.9963,0,2729,8,0.0029,0,2745,4,242,0,0,8
+gess3,Social and Political Life II,old_alt,rat2023,gess308,0,gess308,gess308,0.9918,0,2819,23,0.0082,0,5645,156,285,0,0,5
+gess3,Social and Political Life II,old_alt,rat2023,gess309,0,,gess308,0.1445,1,2672,2219,0.8305,453,0,0,0,9,26,184
+gess3,Social and Political Life II,old_alt,rat2023,gess3ps,1,gess3ps,gess3ps,0.8875,0,5014,464,0.0925,10,4826,297,379,7,0,41
+iess4,Democratic Politics I,old_alt,rat2023,iess401,0,iess401,iess401,1.0,0,7292,0,0.0,0,7292,0,704,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess402,0,iess402,iess402,1.0,0,6465,0,0.0,0,6465,0,621,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess403,0,iess403,iess403,1.0,0,8413,0,0.0,0,8413,0,703,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess404,0,iess404,iess404,1.0,0,7677,0,0.0,0,7677,0,629,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess405,0,iess405,iess405,0.9999,0,7940,1,0.0001,0,7940,0,603,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,iess4ps,1,iess4ps,iess4ps,0.9972,0,3896,7,0.0018,0,3912,20,274,4,0,0
+hess3,Social and Political Life III,old_alt,rat2023,hess301,0,hess301,hess301,0.9936,0,5351,28,0.0052,6,5317,0,355,0,0,2
+hess3,Social and Political Life III,old_alt,rat2023,hess302,0,hess302,hess302,1.0,0,2492,0,0.0,0,2492,0,176,0,0,0
+hess3,Social and Political Life III,old_alt,rat2023,hess303,0,hess303,hess303,0.8849,0,3718,382,0.1027,39,5204,44,225,4,1,31
+hess3,Social and Political Life III,old_alt,rat2023,hess304,0,hess303,hess303,0.6684,0,2856,856,0.2997,76,5204,44,152,7,0,52
+hess3,Social and Political Life III,old_alt,rat2023,hess305,0,hess304,hess304,0.9202,0,4272,307,0.0719,28,3915,2,261,0,0,11
+hess3,Social and Political Life III,old_alt,rat2023,hess306,0,,hess304,0.0283,1,3782,3639,0.9622,143,0,0,0,6,0,280
+hess3,Social and Political Life III,old_alt,rat2023,hess307,0,hess305,hess305,0.9559,0,4855,206,0.0424,5,4646,6,328,0,0,15
+hess3,Social and Political Life III,old_alt,rat2023,hess308,0,hess306,hess306,0.9934,0,4102,27,0.0066,0,4076,2,235,0,0,2
+hess3,Social and Political Life III,old_alt,rat2023,hess309,0,hess307,hess307,0.9982,0,4439,3,0.0007,0,4439,3,357,1,0,0
+hess3,Social and Political Life III,old_alt,rat2023,hess310,0,hess308,hess308,0.9994,0,4753,3,0.0006,0,4753,3,340,0,0,1
+hess3,Social and Political Life III,old_alt,rat2023,hess3ps,1,hess3ps,hess3ps,0.965,0,3919,49,0.0125,1,4121,235,217,7,0,3
+jess3,India and the Contemporary World II,old_alt,rat2023,jess301,0,jess301,jess301,1.0,0,9056,0,0.0,0,9057,1,703,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,jess302,0,jess302,jess302,1.0,0,8391,0,0.0,0,8392,0,608,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,jess303,0,jess303,jess303,1.0,0,9218,0,0.0,0,9218,0,726,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,jess304,0,jess304,jess304,1.0,0,8268,0,0.0,0,8268,0,653,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,jess305,0,jess305,jess305,1.0,0,9077,0,0.0,0,9077,0,726,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,jess3ps,1,jess3ps,jess3ps,0.9861,0,2526,20,0.0079,0,2556,45,168,3,0,4
+jess4,Democratic Politics II,old_alt,rat2023,jess401,0,jess401,jess401,0.9952,0,4199,8,0.0019,0,4194,9,347,2,0,1
+jess4,Democratic Politics II,old_alt,rat2023,jess402,0,jess402,jess402,0.999,0,5248,2,0.0004,0,5281,17,432,0,0,0
+jess4,Democratic Politics II,old_alt,rat2023,jess403,0,,jess403,0.0127,1,3928,3800,0.9674,128,0,0,0,7,0,304
+jess4,Democratic Politics II,old_alt,rat2023,jess404,0,jess403,jess403,0.9903,0,5594,39,0.007,7,5584,11,436,4,1,5
+jess4,Democratic Politics II,old_alt,rat2023,jess405,0,,jess404,0.0283,1,4233,4082,0.9643,151,0,0,0,5,3,341
+jess4,Democratic Politics II,old_alt,rat2023,jess406,0,jess404,jess404,0.9207,0,6344,496,0.0782,5,5877,26,464,5,0,39
+jess4,Democratic Politics II,old_alt,rat2023,jess407,0,jess405,jess405,0.9841,0,3904,40,0.0102,0,3908,24,295,5,0,3
+jess4,Democratic Politics II,old_alt,rat2023,jess408,0,,jess404,0.0098,1,3256,3168,0.973,88,0,0,0,5,2,264
+jess4,Democratic Politics II,old_alt,rat2023,jess4ps,1,jess4 ps,jess4 ps,0.9101,0,3105,130,0.0419,0,3224,317,229,14,0,6
+kehs1,Themes in World History,old_alt,rat2023,kehs101,0,,kehs101,0.2076,1,8732,7037,0.8059,1695,0,0,0,7,123,628
+kehs1,Themes in World History,old_alt,rat2023,kehs102,0,kehs101,kehs101,0.9987,0,7111,9,0.0013,0,10887,419,513,2,0,2
+kehs1,Themes in World History,old_alt,rat2023,kehs103,0,kehs102,kehs102,0.8134,0,10067,105,0.0104,1751,8179,0,540,2,95,41
+kehs1,Themes in World History,old_alt,rat2023,kehs104,0,,kehs103,0.0036,1,11289,11161,0.9887,128,0,0,0,1,1,669
+kehs1,Themes in World History,old_alt,rat2023,kehs105,0,kehs103,kehs103,0.9996,0,7312,0,0.0,0,7312,0,427,0,0,0
+kehs1,Themes in World History,old_alt,rat2023,kehs106,0,kehs104,kehs104,0.9986,0,8883,9,0.001,0,8925,51,657,0,0,2
+kehs1,Themes in World History,old_alt,rat2023,kehs107,0,kehs105,kehs105,0.9979,0,6067,7,0.0012,0,6071,11,369,1,0,2
+kehs1,Themes in World History,old_alt,rat2023,kehs108,0,,kehs106,0.0067,1,6730,6652,0.9884,78,0,0,0,1,1,488
+kehs1,Themes in World History,old_alt,rat2023,kehs109,0,,kehs106,0.2773,1,9355,6780,0.7247,2575,0,0,0,6,178,441
+kehs1,Themes in World History,old_alt,rat2023,kehs110,0,kehs106,kehs106,0.9995,0,6633,3,0.0005,0,9314,156,457,1,0,0
+kehs1,Themes in World History,old_alt,rat2023,kehs111,0,kehs107,kehs107,0.9843,0,12251,156,0.0127,5,12089,29,866,4,0,36

@@ -1,0 +1,15 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+legy2,India: People and Economy,old,rat2023,legy201,0,legy201,legy201,0.9996,0,4685,0,0.0,0,4756,64,294,0,0,0
+legy2,India: People and Economy,old,rat2023,legy202,0,,legy203,0.0305,1,2817,2638,0.9365,179,0,0,0,6,5,234
+legy2,India: People and Economy,old,rat2023,legy203,0,,legy201,0.0249,1,4252,4054,0.9534,198,0,0,0,4,5,247
+legy2,India: People and Economy,old,rat2023,legy204,0,legy202,legy202,0.7386,0,2884,736,0.2552,9,2143,15,169,1,1,92
+legy2,India: People and Economy,old,rat2023,legy205,0,legy203,legy203,0.9932,0,7036,18,0.0026,0,7011,46,521,6,0,1
+legy2,India: People and Economy,old,rat2023,legy206,0,legy204,legy204,0.9984,0,3715,3,0.0008,0,3810,91,254,0,0,1
+legy2,India: People and Economy,old,rat2023,legy207,0,legy205,legy205,0.9317,0,3604,201,0.0558,0,3377,26,267,0,0,12
+legy2,India: People and Economy,old,rat2023,legy208,0,,legy203,0.0156,1,6467,6313,0.9762,154,0,0,0,2,3,507
+legy2,India: People and Economy,old,rat2023,legy209,0,legy206,legy206,0.9987,0,3072,3,0.001,0,3081,7,186,0,0,1
+legy2,India: People and Economy,old,rat2023,legy210,0,legy207,legy207,0.9328,0,4048,218,0.0539,0,3592,34,306,6,0,14
+legy2,India: People and Economy,old,rat2023,legy211,0,legy208,legy208,0.99,0,2708,8,0.003,0,2752,49,219,1,0,1
+legy2,India: People and Economy,old,rat2023,legy212,0,legy209,legy209,0.9978,0,4112,5,0.0012,0,4200,44,272,0,0,1
+legy2,India: People and Economy,old,rat2023,legy2a1,1,legy2a1,legy2a1,0.9995,0,4310,2,0.0005,0,4219,3,399,2,0,0
+legy2,India: People and Economy,old,rat2023,legy2ps,1,legy2ps,legy2ps,0.9048,0,1902,66,0.0347,0,2092,265,140,9,0,11

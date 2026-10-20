@@ -1,0 +1,11 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+keph1,Physics Part I,old,rat2023,keph101,0,,keph107,0.0154,1,8156,7825,0.9594,331,0,0,0,7,2,521
+keph1,Physics Part I,old,rat2023,keph102,0,keph101,keph101,0.5125,0,13566,6310,0.4651,161,6938,49,438,15,2,424
+keph1,Physics Part I,old,rat2023,keph103,0,keph102,keph102,0.5282,0,11288,4426,0.3921,478,5851,104,523,79,8,342
+keph1,Physics Part I,old,rat2023,keph104,0,keph103,keph103,0.8801,0,11587,1140,0.0984,51,10485,187,943,64,3,92
+keph1,Physics Part I,old,rat2023,keph105,0,keph104,keph104,0.8849,0,14872,1522,0.1023,92,13190,110,906,43,0,103
+keph1,Physics Part I,old,rat2023,keph106,0,keph105,keph105,0.7885,0,13556,2629,0.1939,89,10869,175,945,60,2,183
+keph1,Physics Part I,old,rat2023,keph107,0,keph106,keph106,0.8444,0,23084,3106,0.1346,183,19190,283,1527,112,5,213
+keph1,Physics Part I,old,rat2023,keph108,0,keph107,keph107,0.7109,0,12656,3380,0.2671,80,9090,129,844,50,0,411
+keph1,Physics Part I,old,rat2023,keph1a1,1,keph1an,keph1an,0.7094,0,7695,1985,0.258,120,5720,180,376,25,0,169
+keph1,Physics Part I,old,rat2023,keph1ps,1,keph1ps,keph1ps,0.9043,0,4659,226,0.0485,0,5212,850,307,12,0,11

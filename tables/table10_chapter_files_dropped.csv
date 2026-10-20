@@ -1,0 +1,86 @@
+﻿book,class,subject,group,language,chapter_file,old_words,removed_words,share_removed
+fesc1,6,Science,Science,English,fesc101,2424,2041,0.842
+fesc1,6,Science,Science,English,fesc103,2279,2215,0.9719
+fesc1,6,Science,Science,English,fesc106,1973,1883,0.9544
+fesc1,6,Science,Science,English,fesc114,3725,3480,0.9342
+fesc1,6,Science,Science,English,fesc116,3960,3888,0.9818
+fess1,6,History,Social science,English,fess109,3149,1757,0.558
+fess2,6,Geography,Social science,English,fess206,1780,1731,0.9725
+fess2,6,Geography,Social science,English,fess208,1752,1682,0.96
+fess3,6,Political Science,Social science,English,fess304,1923,1838,0.9558
+gesc1,7,Science,Science,English,gesc103,3147,3072,0.9762
+gesc1,7,Science,Science,English,gesc107,3858,3779,0.9795
+gesc1,7,Science,Science,English,gesc108,4558,4404,0.9662
+gesc1,7,Science,Science,English,gesc109,3516,3442,0.979
+gesc1,7,Science,Science,English,gesc116,3452,3372,0.9768
+gesc1,7,Science,Science,English,gesc119,556,556,1.0
+gess1,7,History,Social science,English,gess105,3298,3236,0.9812
+gess1,7,History,Social science,English,gess106,3507,3428,0.9775
+gess2,7,Geography,Social science,English,gess206,2350,2334,0.9932
+gess2,7,Geography,Social science,English,gess207,1940,1920,0.9897
+gess3,7,Political Science,Social science,English,gess309,2672,2219,0.8305
+hesc1,8,Science,Science,English,hesc103,3438,3311,0.9631
+hesc1,8,Science,Science,English,hesc104,3501,3325,0.9497
+hesc1,8,Science,Science,English,hesc108,3107,2990,0.9623
+hesc1,8,Science,Science,English,hesc117,6865,6641,0.9674
+hesc1,8,Science,Science,English,hesc118,4121,4005,0.9719
+hess2,8,History,Social science,English,hess206,4757,4568,0.9603
+hess2,8,History,Social science,English,hess210,4471,4387,0.9812
+hess3,8,Political Science,Social science,English,hess306,3782,3639,0.9622
+hess4,8,Geography,Social science,English,hess403,3549,3502,0.9868
+iesc1,9,Science,Science,English,iesc107,5356,5282,0.9862
+iesc1,9,Science,Science,English,iesc113,6663,6570,0.986
+iesc1,9,Science,Science,English,iesc114,6407,6286,0.9811
+jesc1,10,Science,Science,English,jesc105,4800,4606,0.9596
+jesc1,10,Science,Science,English,jesc114,5574,5481,0.9833
+jesc1,10,Science,Science,English,jesc116,6108,5972,0.9777
+jess4,10,Political Science,Social science,English,jess403,3928,3800,0.9674
+jess4,10,Political Science,Social science,English,jess405,4233,4082,0.9643
+jess4,10,Political Science,Social science,English,jess408,3256,3168,0.973
+kebo1,11,Science,Science,English,kebo111,7584,7108,0.9372
+kebo1,11,Science,Science,English,kebo112,4483,4367,0.9741
+kebo1,11,Science,Science,English,kebo116,4015,3648,0.9086
+kech1,11,Science,Science,English,kech105,11289,10772,0.9542
+kech2,11,Science,Science,English,kech202,7553,7382,0.9774
+kech2,11,Science,Science,English,kech203,8609,8460,0.9827
+kech2,11,Science,Science,English,kech204,9385,9242,0.9848
+kech2,11,Science,Science,English,kech207,8658,8598,0.9931
+keec1,11,Economics,Social science,English,keec104,8082,7731,0.9566
+keec1,11,Economics,Social science,English,keec108,7488,7152,0.9551
+kegy1,11,Geography,Social science,English,kegy106,3416,3272,0.9578
+kegy2,11,Geography,Social science,English,kegy205,1923,1793,0.9324
+kegy2,11,Geography,Social science,English,kegy215,3358,3275,0.9753
+kehs1,11,History,Social science,English,kehs101,8732,7037,0.8059
+kehs1,11,History,Social science,English,kehs104,11289,11161,0.9887
+kehs1,11,History,Social science,English,kehs108,6730,6652,0.9884
+kehs1,11,History,Social science,English,kehs109,9355,6780,0.7247
+keph1,11,Science,Science,English,keph101,8156,7825,0.9594
+keps1,11,Political Science,Social science,English,keps109,4330,4276,0.9875
+keps1,11,Political Science,Social science,English,keps110,4638,4479,0.9657
+lebo1,12,Science,Science,English,lebo101,5017,4446,0.8862
+lebo1,12,Science,Science,English,lebo109,5314,4772,0.898
+lebo1,12,Science,Science,English,lebo116,6303,6252,0.9919
+lech1,12,Science,Science,English,lech101,11923,11714,0.9825
+lech1,12,Science,Science,English,lech105,11387,11059,0.9712
+lech1,12,Science,Science,English,lech106,8747,8667,0.9909
+lech1,12,Science,Science,English,lech107,17286,16954,0.9808
+lech2,12,Science,Science,English,lech206,3283,3173,0.9665
+lech2,12,Science,Science,English,lech207,5330,5272,0.9891
+leec2,12,Economics,Social science,English,leec206,7235,6651,0.9193
+legy1,12,Geography,Social science,English,legy103,1523,1437,0.9435
+legy1,12,Geography,Social science,English,legy110,4606,4479,0.9724
+legy2,12,Geography,Social science,English,legy202,2817,2638,0.9365
+legy2,12,Geography,Social science,English,legy203,4252,4054,0.9534
+legy2,12,Geography,Social science,English,legy208,6467,6313,0.9762
+lehs2,12,History,Social science,English,lehs205,10891,10163,0.9332
+lehs3,12,History,Social science,English,lehs303,10185,10027,0.9845
+lehs3,12,History,Social science,English,lehs305,9733,9565,0.9827
+leps1,12,Political Science,Social science,English,leps101,5567,5250,0.9431
+leps1,12,Political Science,Social science,English,leps103,6842,6611,0.9662
+leps2,12,Political Science,Social science,English,leps207,7197,7045,0.9789
+lhhs2,12,History,Social science,Hindi,lhhs205,14689,13382,0.911
+lhhs3,12,History,Social science,Hindi,lhhs303,14097,13334,0.9459
+lhhs3,12,History,Social science,Hindi,lhhs305,13585,12927,0.9516
+lhps1,12,Political Science,Social science,Hindi,lhps101,8159,6936,0.8501
+lhps1,12,Political Science,Social science,Hindi,lhps103,9473,8697,0.9181
+lhps2,12,Political Science,Social science,Hindi,lhps207,9554,8819,0.9231

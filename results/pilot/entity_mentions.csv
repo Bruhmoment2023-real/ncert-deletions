@@ -1,0 +1,1450 @@
+﻿book,entity,ner_label_most_common,mentions_old,mentions_new,change,share_removed
+lehs1,Harappan Civilisation,ORG,3,3,0,0.0
+lehs1,THEME,ORG,7,7,0,0.0
+lehs1,Harappan,GPE,91,91,0,0.0
+lehs1,Fig.1.1,PERSON,3,3,0,0.0
+lehs1,Indus,GPE,15,15,0,0.0
+lehs1,Fig,PERSON,120,120,0,0.0
+lehs1,Afghanistan,GPE,7,7,0,0.0
+lehs1,Pakistan,GPE,6,6,0,0.0
+lehs1,Gujarat,GPE,10,10,0,0.0
+lehs1,Harappa,PERSON,26,26,0,0.0
+lehs1,BCE,ORG,83,83,0,0.0
+lehs1,Late Harappan,LOC,3,3,0,0.0
+lehs1,Mature Harappan,FAC,7,7,0,0.0
+lehs1,Dholavira,PERSON,7,7,0,0.0
+lehs1,Kalibangan,ORG,6,6,0,0.0
+lehs1,Yamuna,ORG,3,3,0,0.0
+lehs1,Ganga,GPE,12,12,0,0.0
+lehs1,Arabian Sea,LOC,8,8,0,0.0
+lehs1,Early Harappan,LOC,7,7,0,0.0
+lehs1,Harappans,NORP,8,8,0,0.0
+lehs1,Sind,ORG,3,3,0,0.0
+lehs1,Cholistan,ORG,3,3,0,0.0
+lehs1,Common Era,WORK_OF_ART,3,3,0,0.0
+lehs1,Haryana,PERSON,4,4,0,0.0
+lehs1,Punjab,NORP,4,4,0,0.0
+lehs1,Mohenjodaro,PERSON,30,30,0,0.0
+lehs1,Lower Town,LOC,6,6,0,0.0
+lehs1,Citadel,PERSON,9,9,0,0.0
+lehs1,Alexander Cunningham,PERSON,5,5,0,0.0
+lehs1,Indian,NORP,34,34,0,0.0
+lehs1,Lothal,ORG,12,12,0,0.0
+lehs1,Mackay,PERSON,3,3,0,0.0
+lehs1,House,ORG,3,3,0,0.0
+lehs1,Great Bath,EVENT,5,5,0,0.0
+lehs1,Nageshwar,PERSON,3,3,0,0.0
+lehs1,National Museum,ORG,6,6,0,0.0
+lehs1,Delhi,GPE,23,23,0,0.0
+lehs1,Rajasthan,PERSON,5,5,0,0.0
+lehs1,India,GPE,39,39,0,0.0
+lehs1,Oman,GPE,5,5,0,0.0
+lehs1,Arabian,NORP,9,9,0,0.0
+lehs1,Omani,NORP,3,3,0,0.0
+lehs1,Mesopotamian,NORP,7,7,0,0.0
+lehs1,Dilmun,PERSON,3,3,0,0.0
+lehs1,Bahrain,GPE,3,3,0,0.0
+lehs1,Meluhha,PERSON,4,4,0,0.0
+lehs1,Mesopotamia,GPE,5,5,0,0.0
+lehs1,Seals,ORG,3,3,0,0.0
+lehs1,Uttar Pradesh,ORG,6,6,0,0.0
+lehs1,Indus Civilisation,ORG,3,3,0,0.0
+lehs1,R.E.M,ORG,5,5,0,0.0
+lehs1,ASI,ORG,6,6,0,0.0
+lehs1,Rigveda,ORG,12,12,0,0.0
+lehs1,Indra,PERSON,8,8,0,0.0
+lehs1,Cunningham,PERSON,15,15,0,0.0
+lehs1,Early Historic,FAC,5,5,0,0.0
+lehs1,Chinese,NORP,8,8,0,0.0
+lehs1,Buddhist,NORP,45,45,0,0.0
+lehs1,Ganga valley,GPE,4,4,0,0.0
+lehs1,John Marshall,PERSON,5,5,0,0.0
+lehs1,Marshall,PERSON,7,7,0,0.0
+lehs1,Greece,GPE,3,3,0,0.0
+lehs1,Notice,ORG,4,4,0,0.0
+lehs1,Wheeler,PERSON,6,6,0,0.0
+lehs1,Hinduism,NORP,5,5,0,0.0
+lehs1,Rudra,GPE,3,3,0,0.0
+lehs1,Shiva,ORG,11,11,0,0.0
+lehs1,Puranic,ORG,3,3,0,0.0
+lehs1,BCE Early,ORG,4,4,0,0.0
+lehs1,Lal,PERSON,5,5,0,0.0
+lehs1,Thapar,PERSON,3,3,0,0.0
+lehs1,American,NORP,3,3,0,0.0
+lehs1,R.S,GPE,3,3,0,0.0
+lehs1,New Delhi,GPE,21,21,0,0.0
+lehs1,Karnataka,GPE,5,5,0,0.0
+lehs1,Deccan,NORP,7,7,0,0.0
+lehs1,Prinsep,ORG,5,5,0,0.0
+lehs1,Piyadassi,ORG,4,4,0,0.0
+lehs1,James Prinsep,PERSON,3,3,0,0.0
+lehs1,Brahmi,GPE,8,8,0,0.0
+lehs1,Kharosthi,GPE,6,6,0,0.0
+lehs1,Sanchi,ORG,44,44,0,0.0
+lehs1,Asoka,ORG,18,18,0,0.0
+lehs1,European,NORP,5,5,0,0.0
+lehs1,Jaina,GPE,12,12,0,0.0
+lehs1,Magadha,ORG,9,9,0,0.0
+lehs1,Kuru,ORG,7,7,0,0.0
+lehs1,Panchala,GPE,4,4,0,0.0
+lehs1,Gandhara,PERSON,3,3,0,0.0
+lehs1,Mahavira,ORG,7,7,0,0.0
+lehs1,Prakrit,ORG,18,18,0,0.0
+lehs1,Ajatasattu,GPE,4,4,0,0.0
+lehs1,Pali,PERSON,12,12,0,0.0
+lehs1,Tamil,GPE,19,19,0,0.0
+lehs1,Sanskrit,GPE,51,51,0,0.0
+lehs1,Bengal,GPE,6,6,0,0.0
+lehs1,Taxila,PERSON,6,6,0,0.0
+lehs1,Ujjayini,PERSON,7,7,0,0.0
+lehs1,Shravasti,PERSON,4,4,0,0.0
+lehs1,Rajgir,GPE,4,4,0,0.0
+lehs1,Kusinagara,PERSON,3,3,0,0.0
+lehs1,Varanasi,ORG,3,3,0,0.0
+lehs1,Brahmanas,GPE,38,38,0,0.0
+lehs1,Dharmasutras,PERSON,9,9,0,0.0
+lehs1,Kshatriyas,ORG,9,9,0,0.0
+lehs1,Bihar,GPE,4,4,0,0.0
+lehs1,Rajagaha,PERSON,3,3,0,0.0
+lehs1,Pataliputra,GPE,9,9,0,0.0
+lehs1,Mauryan Empire,GPE,6,6,0,0.0
+lehs1,Chandragupta Maurya,PERSON,3,3,0,0.0
+lehs1,Orissa,GPE,5,5,0,0.0
+lehs1,Megasthenes,ORG,4,4,0,0.0
+lehs1,Greek,NORP,17,17,0,0.0
+lehs1,Arthashastra,NORP,3,3,0,0.0
+lehs1,Chandragupta,ORG,6,6,0,0.0
+lehs1,Mauryas,ORG,8,8,0,0.0
+lehs1,Asokan,NORP,16,16,0,0.0
+lehs1,Andhra Pradesh,PERSON,5,5,0,0.0
+lehs1,British,NORP,3,3,0,0.0
+lehs1,Mauryan,NORP,12,12,0,0.0
+lehs1,Kerala,GPE,3,3,0,0.0
+lehs1,Tamil Nadu,PERSON,6,6,0,0.0
+lehs1,Satavahanas,ORG,7,7,0,0.0
+lehs1,Central Asia,LOC,6,6,0,0.0
+lehs1,Kushana,PERSON,5,5,0,0.0
+lehs1,Mathura,GPE,10,10,0,0.0
+lehs1,Gupta,PERSON,13,13,0,0.0
+lehs1,Samudragupta,NORP,3,3,0,0.0
+lehs1,Purusha,NORP,4,4,0,0.0
+lehs1,Jatakas,NORP,4,4,0,0.0
+lehs1,Jataka,ORG,4,4,0,0.0
+lehs1,Sudarshana,GPE,3,3,0,0.0
+lehs1,Shaka,PERSON,5,5,0,0.0
+lehs1,Rudradaman,PERSON,4,4,0,0.0
+lehs1,Sangam,PERSON,5,5,0,0.0
+lehs1,Prabhavati Gupta,PERSON,6,6,0,0.0
+lehs1,Prabhavati,GPE,7,7,0,0.0
+lehs1,Kanauj,PERSON,3,3,0,0.0
+lehs1,Brahmana,PERSON,17,17,0,0.0
+lehs1,Danguna,GPE,3,3,0,0.0
+lehs1,Asia,LOC,13,13,0,0.0
+lehs1,Xuan Zang,PERSON,4,4,0,0.0
+lehs1,East,LOC,3,3,0,0.0
+lehs1,Bay of Bengal,LOC,3,3,0,0.0
+lehs1,China,GPE,4,4,0,0.0
+lehs1,Roman Empire,GPE,3,3,0,0.0
+lehs1,BCE onwards,ORG,9,9,0,0.0
+lehs1,Roman,NORP,7,7,0,0.0
+lehs1,Devanagari,GPE,3,3,0,0.0
+lehs1,Asokan Brahmi,ORG,3,3,0,0.0
+lehs1,Indo-Greek,ORG,4,4,0,0.0
+lehs1,Kalingas,PERSON,3,3,0,0.0
+lehs1,Devanampiya,ORG,5,5,0,0.0
+lehs1,Dhamma,GPE,3,3,0,0.0
+lehs1,Satavahana,GPE,8,8,0,0.0
+lehs1,Kanishka,ORG,3,3,0,0.0
+lehs1,Asiatic Society,ORG,3,3,0,0.0
+lehs1,D.C,GPE,3,3,0,0.0
+lehs1,Oxford University Press,ORG,3,3,0,0.0
+lehs1,Mahabharata,ORG,40,40,0,0.0
+lehs1,Kauravas,LOC,7,7,0,0.0
+lehs1,Pandavas,NORP,21,21,0,0.0
+lehs1,Kurus,PERSON,4,4,0,0.0
+lehs1,Hastinapura,GPE,8,8,0,0.0
+lehs1,Lumbini,PERSON,4,4,0,0.0
+lehs1,Adi Parvan,FAC,4,4,0,0.0
+lehs1,Dhritarashtra,ORG,6,6,0,0.0
+lehs1,Pandu,PERSON,3,3,0,0.0
+lehs1,Duryodhana,PERSON,6,6,0,0.0
+lehs1,Pandava,PERSON,3,3,0,0.0
+lehs1,Manusmriti,GPE,8,8,0,0.0
+lehs1,Dharmashastras,GPE,7,7,0,0.0
+lehs1,Brahmanical,PERSON,21,21,0,0.0
+lehs1,Gotami,PERSON,9,9,0,0.0
+lehs1,Vasithi,ORG,3,3,0,0.0
+lehs1,Vedic,PERSON,9,9,0,0.0
+lehs1,Satakani,NORP,5,5,0,0.0
+lehs1,Upanishads,ORG,5,5,0,0.0
+lehs1,Shudras,LOC,4,4,0,0.0
+lehs1,Vedas,PERSON,5,5,0,0.0
+lehs1,Kshatriya,ORG,6,6,0,0.0
+lehs1,Vaishya,GPE,3,3,0,0.0
+lehs1,Shudra,ORG,6,6,0,0.0
+lehs1,Drona,GPE,12,12,0,0.0
+lehs1,Ekalavya,ORG,9,9,0,0.0
+lehs1,Arjuna,PERSON,7,7,0,0.0
+lehs1,Shastras,LOC,4,4,0,0.0
+lehs1,Bhima,PERSON,6,6,0,0.0
+lehs1,Hidimba,PERSON,4,4,0,0.0
+lehs1,Kunti,PERSON,12,12,0,0.0
+lehs1,Yudhisthira,PERSON,7,7,0,0.0
+lehs1,Bodhisatta,ORG,7,7,0,0.0
+lehs1,Matanga,GPE,9,9,0,0.0
+lehs1,Mandavya,PERSON,4,4,0,0.0
+lehs1,Draupadi,PERSON,12,12,0,0.0
+lehs1,Buddhists,NORP,4,4,0,0.0
+lehs1,Avantiputta,ORG,5,5,0,0.0
+lehs1,Kachchana,ORG,4,4,0,0.0
+lehs1,Brahma,ORG,4,4,0,0.0
+lehs1,Sutta Pitaka,ORG,7,7,0,0.0
+lehs1,Vyasa,GPE,4,4,0,0.0
+lehs1,Vishnu,PERSON,6,6,0,0.0
+lehs1,Krishna,PERSON,6,6,0,0.0
+lehs1,Drupada,PERSON,3,3,0,0.0
+lehs1,Timeline 1,ORG,4,4,0,0.0
+lehs1,Tamil Sangam,PERSON,4,4,0,0.0
+lehs1,Bombay,GPE,3,3,0,0.0
+lehs1,Munshiram Manoharlal,PERSON,3,3,0,0.0
+lehs1,Bhopal,GPE,8,8,0,0.0
+lehs1,Buddha,PERSON,58,58,0,0.0
+lehs1,Shahjehan Begum,PERSON,4,4,0,0.0
+lehs1,Archaeological Survey of,ORG,5,5,0,0.0
+lehs1,Agni,ORG,5,5,0,0.0
+lehs1,Jainism,GPE,7,7,0,0.0
+lehs1,Siddhartha,ORG,3,3,0,0.0
+lehs1,Sigala,PERSON,3,3,0,0.0
+lehs1,Ananda,ORG,3,3,0,0.0
+lehs1,Punna,PERSON,4,4,0,0.0
+lehs1,Ajanta,GPE,4,4,0,0.0
+lehs1,Sarnath,PERSON,7,7,0,0.0
+lehs1,Inscriptions,ORG,6,6,0,0.0
+lehs1,Tathagata,ORG,3,3,0,0.0
+lehs1,Amaravati,GPE,14,14,0,0.0
+lehs1,Great Stupa,FAC,4,4,0,0.0
+lehs1,Madras,LOC,3,3,0,0.0
+lehs1,Calcutta,ORG,3,3,0,0.0
+lehs1,London,GPE,4,4,0,0.0
+lehs1,Art,PERSON,3,3,0,0.0
+lehs1,Gajalakshmi,PERSON,3,3,0,0.0
+lehs1,Mahayana,GPE,4,4,0,0.0
+lehs1,Bodhisattas,ORG,3,3,0,0.0
+lehs1,Hinayana,ORG,3,3,0,0.0
+lehs1,Vaishnavism,NORP,4,4,0,0.0
+lehs1,Puranas,ORG,5,5,0,0.0
+lehs1,Mahabalipuram,GPE,3,3,0,0.0
+lehs1,Tipitaka,ORG,3,3,0,0.0
+lehs1,Centre for Cultural Resources,ORG,3,3,0,0.0
+lehs1,Archaeological Survey,ORG,6,6,0,0.0
+lehs2,Mughal,ORG,168,64,-104,0.619
+lehs2,Akbar,ORG,87,29,-58,0.667
+lehs2,Nama,GPE,43,6,-37,0.86
+lehs2,Fig,PERSON,165,132,-33,0.2
+lehs2,Abu'l Fazl,ORG,37,13,-24,0.649
+lehs2,Shah,ORG,35,11,-24,0.686
+lehs2,Mughals,ORG,26,5,-21,0.808
+lehs2,Persian,NORP,40,21,-19,0.475
+lehs2,Jahangir,PERSON,23,4,-19,0.826
+lehs2,Shah Jahan,PERSON,21,5,-16,0.762
+lehs2,Badshah Nama,FAC,16,1,-15,0.938
+lehs2,Badshah,FAC,16,1,-15,0.938
+lehs2,Akbar Nama,PERSON,17,3,-14,0.824
+lehs2,India,GPE,158,145,-13,0.082
+lehs2,Indian,NORP,37,25,-12,0.324
+lehs2,Aurangzeb,PERSON,18,7,-11,0.611
+lehs2,Babur,GPE,20,9,-11,0.55
+lehs2,Humayun,PERSON,14,3,-11,0.786
+lehs2,Iran,GPE,14,4,-10,0.714
+lehs2,Jesuit,NORP,11,1,-10,0.909
+lehs2,Mughal Empire,ORG,22,14,-8,0.364
+lehs2,Delhi,GPE,65,57,-8,0.123
+lehs2,Majesty,PERSON,10,2,-8,0.8
+lehs2,Sikri,ORG,10,2,-8,0.8
+lehs2,Qandahar,GPE,9,2,-7,0.778
+lehs2,Turkish,NORP,11,4,-7,0.636
+lehs2,Agra,ORG,13,6,-7,0.538
+lehs2,Jahanara,GPE,11,5,-6,0.545
+lehs2,Fatehpur Sikri,ORG,8,2,-6,0.75
+lehs2,Court,ORG,7,1,-6,0.857
+lehs2,Muslim,NORP,21,16,-5,0.238
+lehs2,Muslims,NORP,12,7,-5,0.417
+lehs2,English,NORP,12,7,-5,0.417
+lehs2,Divine,ORG,12,7,-5,0.417
+lehs2,Describe,PERSON,21,16,-5,0.238
+lehs2,Safavid,NORP,7,2,-5,0.714
+lehs2,Iranian,NORP,5,0,-5,1.0
+lehs2,Shah Abbas,PERSON,5,0,-5,1.0
+lehs2,Gulbadan,PERSON,5,0,-5,1.0
+lehs2,Islamic,NORP,18,14,-4,0.222
+lehs2,European,NORP,13,9,-4,0.308
+lehs2,Rajputs,NORP,6,2,-4,0.667
+lehs2,Safavids,NORP,4,0,-4,1.0
+lehs2,Lahori,PERSON,4,0,-4,1.0
+lehs2,Hasan,PERSON,9,5,-4,0.444
+lehs2,Salim,PERSON,5,1,-4,0.8
+lehs2,Abu'l Hasan,PERSON,5,1,-4,0.8
+lehs2,Monserrate,PERSON,5,1,-4,0.8
+lehs2,Christianity,NORP,4,0,-4,1.0
+lehs2,Hindus,NORP,11,8,-3,0.273
+lehs2,Turks,NORP,10,7,-3,0.3
+lehs2,Asian,NORP,6,3,-3,0.5
+lehs2,Cambridge,GPE,18,15,-3,0.167
+lehs2,New Delhi,GPE,21,18,-3,0.143
+lehs2,Great,WORK_OF_ART,8,5,-3,0.375
+lehs2,Arabia,GPE,7,4,-3,0.429
+lehs2,Chishti,PERSON,15,12,-3,0.2
+lehs2,Shaikh,PERSON,38,35,-3,0.079
+lehs2,Lahore,GPE,8,5,-3,0.375
+lehs2,Akbari,ORG,7,4,-3,0.429
+lehs2,London,GPE,10,7,-3,0.3
+lehs2,Alamgir,GPE,3,0,-3,1.0
+lehs2,Prince Salim,PERSON,3,0,-3,1.0
+lehs2,Jainas,PERSON,3,0,-3,1.0
+lehs2,Suhrawardi,PERSON,4,1,-3,0.75
+lehs2,Chain of Justice,ORG,3,0,-3,1.0
+lehs2,Shahjahanabad,ORG,3,0,-3,1.0
+lehs2,Rajput,ORG,8,5,-3,0.375
+lehs2,Turan,GPE,3,0,-3,1.0
+lehs2,New York,GPE,8,5,-3,0.375
+lehs2,Hindu,NORP,20,18,-2,0.1
+lehs2,Mecca,GPE,5,3,-2,0.4
+lehs2,Central Asia,LOC,7,5,-2,0.286
+lehs2,Mongol,NORP,4,2,-2,0.5
+lehs2,Bengal,GPE,20,18,-2,0.1
+lehs2,Kabul,GPE,4,2,-2,0.5
+lehs2,Ottoman,NORP,5,3,-2,0.4
+lehs2,Portuguese,NORP,8,6,-2,0.25
+lehs2,Europe,LOC,21,19,-2,0.095
+lehs2,Mughal India,ORG,9,7,-2,0.222
+lehs2,Asia,LOC,19,17,-2,0.105
+lehs2,Asiatic,NORP,5,3,-2,0.4
+lehs2,Central Asian,NORP,3,1,-2,0.667
+lehs2,Prophet,PERSON,9,7,-2,0.222
+lehs2,Hindavi,GPE,5,3,-2,0.4
+lehs2,British,NORP,7,5,-2,0.286
+lehs2,Ain-i Akbari,FAC,6,4,-2,0.333
+lehs2,Ain,ORG,35,33,-2,0.057
+lehs2,Asiatic Society,ORG,4,2,-2,0.5
+lehs2,Darbar,GPE,3,1,-2,0.667
+lehs2,Dara Shukoh,ORG,3,1,-2,0.667
+lehs2,Bamber Gascoigne,ORG,5,3,-2,0.4
+lehs2,Great Moghuls,WORK_OF_ART,5,3,-2,0.4
+lehs2,Oxford,GPE,17,15,-2,0.118
+lehs2,Jonathan Cape,PERSON,5,3,-2,0.4
+lehs2,THEME,ORG,5,4,-1,0.2
+lehs2,Sanskrit,PERSON,20,19,-1,0.05
+lehs2,Greek,NORP,5,4,-1,0.2
+lehs2,Arabic,NORP,20,19,-1,0.05
+lehs2,Arabs,NORP,4,3,-1,0.25
+lehs2,Multan,GPE,8,7,-1,0.125
+lehs2,Afghanistan,GPE,5,4,-1,0.2
+lehs2,Kashmir,LOC,5,4,-1,0.2
+lehs2,Europeans,NORP,3,2,-1,0.333
+lehs2,Islam,NORP,15,14,-1,0.067
+lehs2,Travels,ORG,7,6,-1,0.143
+lehs2,Western,NORP,9,8,-1,0.111
+lehs2,Western Europe,LOC,3,2,-1,0.333
+lehs2,Egypt,GPE,3,2,-1,0.333
+lehs2,Nasiruddin,GPE,4,3,-1,0.25
+lehs2,Samarqand,GPE,3,2,-1,0.333
+lehs2,Turkey,GPE,4,3,-1,0.25
+lehs2,Answer,ORG,5,4,-1,0.2
+lehs2,Cambridge University Press,ORG,7,6,-1,0.143
+lehs2,Oxford University Press,ORG,16,15,-1,0.062
+lehs2,Tamil,GPE,17,16,-1,0.059
+lehs2,Karnataka,GPE,9,8,-1,0.111
+lehs2,Qur'an,GPE,7,6,-1,0.143
+lehs2,Afghans,NORP,3,2,-1,0.333
+lehs2,Gujarat,GPE,12,11,-1,0.083
+lehs2,Prophet Muhammad,PERSON,4,3,-1,0.25
+lehs2,Sufism,NORP,7,6,-1,0.143
+lehs2,Rajasthan,GPE,11,10,-1,0.091
+lehs2,Urdu,GPE,3,2,-1,0.333
+lehs2,Marathi,ORG,3,2,-1,0.333
+lehs2,Sultans,NORP,12,11,-1,0.083
+lehs2,Awadh,GPE,3,2,-1,0.333
+lehs2,Assam,GPE,5,4,-1,0.2
+lehs2,Ramayana,PERSON,3,2,-1,0.333
+lehs2,Royal,ORG,6,5,-1,0.167
+lehs2,State,ORG,3,2,-1,0.333
+lehs2,Koch,PERSON,3,2,-1,0.333
+lehs2,Vol.1,PERSON,3,2,-1,0.333
+lehs2,Goa,PERSON,4,3,-1,0.25
+lehs2,Jonathan Cape Ltd,ORG,4,3,-1,0.25
+lehs2,Art and Culture,WORK_OF_ART,3,2,-1,0.333
+lehs2,Vijayanagara,PERSON,65,65,0,0.0
+lehs2,Al-Biruni,PERSON,32,32,0,0.0
+lehs2,Uzbekistan,GPE,3,3,0,0.0
+lehs2,Ibn Battuta,PERSON,56,56,0,0.0
+lehs2,Morocco,GPE,3,3,0,0.0
+lehs2,Africa,LOC,5,5,0,0.0
+lehs2,Khwarizm,PERSON,4,4,0,0.0
+lehs2,Ghazni,ORG,5,5,0,0.0
+lehs2,Punjab,NORP,15,15,0,0.0
+lehs2,Brahmana,PERSON,11,11,0,0.0
+lehs2,Sanskritic,LOC,4,4,0,0.0
+lehs2,Hindustan,GPE,7,7,0,0.0
+lehs2,Notice,ORG,3,3,0,0.0
+lehs2,Arabian,NORP,3,3,0,0.0
+lehs2,Rihla,ORG,4,4,0,0.0
+lehs2,Persia,GPE,7,7,0,0.0
+lehs2,Muhammad bin Tughlaq,PERSON,4,4,0,0.0
+lehs2,Sultan,LOC,21,21,0,0.0
+lehs2,China,GPE,8,8,0,0.0
+lehs2,Malabar,LOC,4,4,0,0.0
+lehs2,Sri Lanka,GPE,3,3,0,0.0
+lehs2,Chinese,NORP,3,3,0,0.0
+lehs2,Sind,ORG,9,9,0,0.0
+lehs2,Daulatabad,ORG,4,4,0,0.0
+lehs2,West Asia,LOC,3,3,0,0.0
+lehs2,Russia,GPE,4,4,0,0.0
+lehs2,François Bernier,PERSON,6,6,0,0.0
+lehs2,Duarte Barbosa,ORG,3,3,0,0.0
+lehs2,Dutch,NORP,5,5,0,0.0
+lehs2,French,NORP,5,5,0,0.0
+lehs2,Jean-Baptiste Tavernier,ORG,4,4,0,0.0
+lehs2,Italian,NORP,4,4,0,0.0
+lehs2,France,GPE,6,6,0,0.0
+lehs2,Bernier,ORG,44,44,0,0.0
+lehs2,Tavernier,ORG,5,5,0,0.0
+lehs2,Brahmanas,GPE,12,12,0,0.0
+lehs2,Vedas,PERSON,7,7,0,0.0
+lehs2,Puranas,ORG,3,3,0,0.0
+lehs2,Brahmanical,ORG,6,6,0,0.0
+lehs2,Brahman,NORP,5,5,0,0.0
+lehs2,Maharashtra,NORP,11,11,0,0.0
+lehs2,Dehli,PERSON,8,8,0,0.0
+lehs2,Figs,GPE,4,4,0,0.0
+lehs2,Abdur Razzaq,PERSON,6,6,0,0.0
+lehs2,Kerala,GPE,3,3,0,0.0
+lehs2,Mangalore,GPE,3,3,0,0.0
+lehs2,East,LOC,8,8,0,0.0
+lehs2,Portugal,GPE,4,4,0,0.0
+lehs2,Balkh,PERSON,3,3,0,0.0
+lehs2,Munshiram Manoharlal,PERSON,3,3,0,0.0
+lehs2,Shiva,ORG,21,21,0,0.0
+lehs2,Puranic,ORG,5,5,0,0.0
+lehs2,Orissa,GPE,6,6,0,0.0
+lehs2,Vishnu,PERSON,17,17,0,0.0
+lehs2,Tantric,ORG,3,3,0,0.0
+lehs2,"Vishnu, Shiva",ORG,3,3,0,0.0
+lehs2,Vedic,LOC,5,5,0,0.0
+lehs2,Bihar,GPE,3,3,0,0.0
+lehs2,Alvars,ORG,10,10,0,0.0
+lehs2,Nayanars,NORP,11,11,0,0.0
+lehs2,Andal,ORG,3,3,0,0.0
+lehs2,Karaikkal Ammaiyar,PERSON,4,4,0,0.0
+lehs2,Appar,GPE,5,5,0,0.0
+lehs2,Sambandar,PERSON,3,3,0,0.0
+lehs2,Tondaradippodi,ORG,4,4,0,0.0
+lehs2,Thanjavur,GPE,6,6,0,0.0
+lehs2,Tamil Nadu,FAC,8,8,0,0.0
+lehs2,Chola,ORG,4,4,0,0.0
+lehs2,Chidambaram,ORG,3,3,0,0.0
+lehs2,Basavanna,PERSON,5,5,0,0.0
+lehs2,Lingayats,PERSON,6,6,0,0.0
+lehs2,Kannada,PERSON,5,5,0,0.0
+lehs2,Delhi Sultanate,ORG,5,5,0,0.0
+lehs2,Arab,NORP,4,4,0,0.0
+lehs2,Sultanates,GPE,8,8,0,0.0
+lehs2,Deccan,NORP,10,10,0,0.0
+lehs2,Jaina,GPE,3,3,0,0.0
+lehs2,Jogi,PERSON,5,5,0,0.0
+lehs2,Hindi,GPE,3,3,0,0.0
+lehs2,Chishtis,PERSON,8,8,0,0.0
+lehs2,Shaikh Nizamuddin,PERSON,9,9,0,0.0
+lehs2,Pakistan,GPE,4,4,0,0.0
+lehs2,Shaikh Nizamuddin Auliya,ORG,7,7,0,0.0
+lehs2,Amir Hasan Sijzi,PERSON,3,3,0,0.0
+lehs2,Amir Khusrau,PERSON,4,4,0,0.0
+lehs2,Khwaja Muinuddin,GPE,3,3,0,0.0
+lehs2,Data Ganj Bakhsh,ORG,3,3,0,0.0
+lehs2,Indus,GPE,4,4,0,0.0
+lehs2,Hujwiri,PERSON,5,5,0,0.0
+lehs2,Baba Farid,PERSON,3,3,0,0.0
+lehs2,Bijapur,GPE,6,6,0,0.0
+lehs2,Nizamuddin Auliya,ORG,10,10,0,0.0
+lehs2,Fariduddin,GPE,4,4,0,0.0
+lehs2,Kabir,GPE,28,28,0,0.0
+lehs2,Uttar Pradesh,ORG,8,8,0,0.0
+lehs2,Ultimate Reality,ORG,3,3,0,0.0
+lehs2,Ramananda,PERSON,3,3,0,0.0
+lehs2,Guru Nanak,PERSON,11,11,0,0.0
+lehs2,Baba Guru Nanak,PERSON,11,11,0,0.0
+lehs2,Raidas,PERSON,3,3,0,0.0
+lehs2,Mirabai,GPE,9,9,0,0.0
+lehs2,Krishna,PERSON,6,6,0,0.0
+lehs2,Shankaradeva,ORG,3,3,0,0.0
+lehs2,South India,LOC,4,4,0,0.0
+lehs2,Pampadevi,PERSON,4,4,0,0.0
+lehs2,Vijayanagara Empire,LOC,6,6,0,0.0
+lehs2,Hampi,FAC,9,9,0,0.0
+lehs2,Colin Mackenzie,PERSON,4,4,0,0.0
+lehs2,Virupaksha,GPE,13,13,0,0.0
+lehs2,Telugu,ORG,4,4,0,0.0
+lehs2,South,LOC,7,7,0,0.0
+lehs2,Mackenzie,LOC,10,10,0,0.0
+lehs2,East India Company,ORG,4,4,0,0.0
+lehs2,Tribes,PERSON,3,3,0,0.0
+lehs2,Gajapati,GPE,3,3,0,0.0
+lehs2,Krishnadeva Raya,PERSON,11,11,0,0.0
+lehs2,Tungabhadra,ORG,7,7,0,0.0
+lehs2,Golconda,GPE,3,3,0,0.0
+lehs2,Madurai,ORG,4,4,0,0.0
+lehs2,Chandragiri,GPE,3,3,0,0.0
+lehs2,Paes,PERSON,8,8,0,0.0
+lehs2,Indo-Islamic,ORG,4,4,0,0.0
+lehs2,Barbosa,PERSON,4,4,0,0.0
+lehs2,Lotus Mahal,ORG,8,8,0,0.0
+lehs2,Vitthala,GPE,4,4,0,0.0
+lehs2,George Michell,PERSON,5,5,0,0.0
+lehs2,Nuniz,ORG,3,3,0,0.0
+lehs2,Zamindars,GPE,4,4,0,0.0
+lehs2,Peasants,ORG,4,4,0,0.0
+lehs2,Kalaketu,PERSON,3,3,0,0.0
+lehs2,Panipat,GPE,3,3,0,0.0
+lehs2,Indostan,GPE,3,3,0,0.0
+lehs2,Calcutta,ORG,4,4,0,0.0
+lehs2,Bombay,GPE,7,7,0,0.0
+lehs2,Weatherhill,ORG,3,3,0,0.0
+lehs2,C.A,GPE,4,4,0,0.0
+lehs2,Modern India,LOC,4,4,0,0.0
+lehs2,Indian Art,LOC,3,3,0,0.0
+lehs3,India,GPE,241,158,-83,0.344
+lehs3,British,NORP,302,225,-77,0.255
+lehs3,Indian,NORP,129,56,-73,0.566
+lehs3,Partition,ORG,78,7,-71,0.91
+lehs3,Muslim,NORP,89,25,-64,0.719
+lehs3,Calcutta,ORG,68,10,-58,0.853
+lehs3,Bombay,GPE,80,24,-56,0.7
+lehs3,Fig,PERSON,125,77,-48,0.384
+lehs3,Muslims,NORP,62,25,-37,0.597
+lehs3,League,NORP,57,20,-37,0.649
+lehs3,Madras,LOC,47,11,-36,0.766
+lehs3,Pakistan,GPE,46,11,-35,0.761
+lehs3,Hindu,NORP,45,11,-34,0.756
+lehs3,Delhi,GPE,73,42,-31,0.425
+lehs3,European,NORP,32,3,-29,0.906
+lehs3,Congress,ORG,97,68,-29,0.299
+lehs3,Fort,LOC,30,3,-27,0.9
+lehs3,Company,ORG,66,42,-24,0.364
+lehs3,Punjab,NORP,31,10,-21,0.677
+lehs3,Black,WORK_OF_ART,20,1,-19,0.95
+lehs3,Hindus,NORP,39,21,-18,0.462
+lehs3,English,NORP,38,21,-17,0.447
+lehs3,Indians,NORP,46,29,-17,0.37
+lehs3,Sikh,PERSON,16,0,-16,1.0
+lehs3,East,LOC,28,12,-16,0.571
+lehs3,Bengal,GPE,74,59,-15,0.203
+lehs3,Muslim League,ORG,27,12,-15,0.556
+lehs3,Black Town,LOC,14,0,-14,1.0
+lehs3,Gandhi,PERSON,105,91,-14,0.133
+lehs3,Bengali,NORP,13,0,-13,1.0
+lehs3,Mahatma Gandhi,PERSON,81,68,-13,0.16
+lehs3,Mahatma,PERSON,87,74,-13,0.149
+lehs3,Punjabi,GPE,11,0,-11,1.0
+lehs3,William,PERSON,16,5,-11,0.688
+lehs3,East India Company,ORG,21,11,-10,0.476
+lehs3,Gothic,ORG,10,0,-10,1.0
+lehs3,Europeans,NORP,13,4,-9,0.692
+lehs3,West,LOC,14,5,-9,0.643
+lehs3,Lahore,GPE,12,3,-9,0.75
+lehs3,Urdu,GPE,18,10,-8,0.444
+lehs3,Daniell,ORG,8,0,-8,1.0
+lehs3,Gandhiji,PERSON,99,91,-8,0.081
+lehs3,Pakistani,NORP,8,0,-8,1.0
+lehs3,Cabinet,ORG,13,5,-8,0.615
+lehs3,Wellesley,ORG,10,3,-7,0.7
+lehs3,North,LOC,23,16,-7,0.304
+lehs3,Thomas,PERSON,10,3,-7,0.7
+lehs3,South,LOC,15,8,-7,0.467
+lehs3,Jinnah,PERSON,13,6,-7,0.538
+lehs3,Singh,GPE,22,15,-7,0.318
+lehs3,Colonial,ORG,7,1,-6,0.857
+lehs3,Cambridge,GPE,10,4,-6,0.6
+lehs3,Mughal,ORG,12,6,-6,0.5
+lehs3,Committee,ORG,15,9,-6,0.4
+lehs3,Cabinet Mission,ORG,10,4,-6,0.6
+lehs3,Hindi,GPE,35,30,-5,0.143
+lehs3,Fort St George,PERSON,5,0,-5,1.0
+lehs3,William Daniell,PERSON,5,0,-5,1.0
+lehs3,"""Black",EVENT,5,0,-5,1.0
+lehs3,White Town,GPE,5,0,-5,1.0
+lehs3,neo-Gothic,ORG,5,0,-5,1.0
+lehs3,Government,ORG,48,43,-5,0.104
+lehs3,Sikhs,NORP,11,6,-5,0.455
+lehs3,War,EVENT,16,11,-5,0.312
+lehs3,Press,ORG,19,14,-5,0.263
+lehs3,Khan,PERSON,7,2,-5,0.714
+lehs3,Iqbal,ORG,5,0,-5,1.0
+lehs3,Sind,ORG,6,1,-5,0.833
+lehs3,House,ORG,12,7,-5,0.417
+lehs3,Deccan,NORP,30,26,-4,0.133
+lehs3,England,GPE,14,10,-4,0.286
+lehs3,Kolkata,GPE,7,3,-4,0.571
+lehs3,Notice,FAC,7,3,-4,0.571
+lehs3,Figs,PERSON,15,11,-4,0.267
+lehs3,English East India Company,ORG,6,2,-4,0.667
+lehs3,Bihar,GPE,10,6,-4,0.4
+lehs3,New Delhi,GPE,18,14,-4,0.222
+lehs3,London,GPE,27,23,-4,0.148
+lehs3,French,NORP,5,1,-4,0.8
+lehs3,Railway,ORG,5,1,-4,0.8
+lehs3,Writers,PERSON,4,0,-4,1.0
+lehs3,Maidan,PERSON,4,0,-4,1.0
+lehs3,Simla,PERSON,4,0,-4,1.0
+lehs3,Lottery Committee,ORG,4,0,-4,1.0
+lehs3,Karachi,GPE,6,2,-4,0.667
+lehs3,United Provinces,ORG,11,7,-4,0.364
+lehs3,Nehru,PERSON,51,47,-4,0.078
+lehs3,Noakhali,PERSON,5,1,-4,0.8
+lehs3,Germany,GPE,4,0,-4,1.0
+lehs3,NWFP,ORG,4,0,-4,1.0
+lehs3,Mahasabha,PERSON,4,0,-4,1.0
+lehs3,Holocaust,EVENT,4,0,-4,1.0
+lehs3,Oxford University Press,ORG,12,9,-3,0.25
+lehs3,North India,LOC,14,11,-3,0.214
+lehs3,Lucknow,GPE,23,20,-3,0.13
+lehs3,Nawab,ORG,17,14,-3,0.176
+lehs3,Battle of Plassey,WORK_OF_ART,4,1,-3,0.75
+lehs3,Revolt,GPE,11,8,-3,0.273
+lehs3,Oriental,NORP,3,0,-3,1.0
+lehs3,Portuguese,NORP,3,0,-3,1.0
+lehs3,Dutch,NORP,3,0,-3,1.0
+lehs3,Masulipatnam,GPE,3,0,-3,1.0
+lehs3,Asia,LOC,3,0,-3,1.0
+lehs3,Jawaharlal Nehru,PERSON,24,21,-3,0.125
+lehs3,Revolt of 1857,LOC,4,1,-3,0.75
+lehs3,Dhaka,ORG,3,0,-3,1.0
+lehs3,Writers' Building,ORG,3,0,-3,1.0
+lehs3,Ionic,ORG,3,0,-3,1.0
+lehs3,Civil Lines,ORG,3,0,-3,1.0
+lehs3,Arya Samaj,PERSON,3,0,-3,1.0
+lehs3,Gujarati,GPE,4,1,-3,0.75
+lehs3,Triplicane,GPE,3,0,-3,1.0
+lehs3,Sirajudaula,PERSON,3,0,-3,1.0
+lehs3,Fort William,FAC,3,0,-3,1.0
+lehs3,Government House,ORG,3,0,-3,1.0
+lehs3,Secretariat,ORG,3,0,-3,1.0
+lehs3,Buildings,PERSON,3,0,-3,1.0
+lehs3,British India,ORG,7,4,-3,0.429
+lehs3,Jawaharlal,GPE,26,23,-3,0.115
+lehs3,Pakistanis,GPE,3,0,-3,1.0
+lehs3,Abdul Latif,PERSON,3,0,-3,1.0
+lehs3,Paharganj,GPE,3,0,-3,1.0
+lehs3,Islam,ORG,3,0,-3,1.0
+lehs3,Maulana Azad,PERSON,3,0,-3,1.0
+lehs3,Unionist Party,ORG,3,0,-3,1.0
+lehs3,Rehmat Ali,PERSON,3,0,-3,1.0
+lehs3,Council,ORG,6,3,-3,0.5
+lehs3,Direct Action,WORK_OF_ART,5,2,-3,0.6
+lehs3,East Bengal,GPE,3,0,-3,1.0
+lehs3,Chandni Chowk,ORG,3,0,-3,1.0
+lehs3,Khushdeva,GPE,3,0,-3,1.0
+lehs3,Dharampur,PERSON,3,0,-3,1.0
+lehs3,Partition of India,ORG,4,1,-3,0.75
+lehs3,THEME,ORG,6,4,-2,0.333
+lehs3,Corinthian,NORP,3,1,-2,0.667
+lehs3,Hill,PERSON,4,2,-2,0.5
+lehs3,American,NORP,16,14,-2,0.125
+lehs3,ANSWER,ORG,6,4,-2,0.333
+lehs3,Cambridge University Press,ORG,4,2,-2,0.5
+lehs3,Red Fort,LOC,5,3,-2,0.4
+lehs3,Christian,NORP,7,5,-2,0.286
+lehs3,Uttar Pradesh,ORG,11,9,-2,0.182
+lehs3,Hyderabad,GPE,3,1,-2,0.667
+lehs3,Sahib,ORG,7,5,-2,0.286
+lehs3,King,LOC,6,4,-2,0.333
+lehs3,Brahmins,PERSON,3,1,-2,0.667
+lehs3,Mumbai,GPE,4,2,-2,0.5
+lehs3,Agra,ORG,3,1,-2,0.667
+lehs3,Nagpur,PERSON,5,3,-2,0.4
+lehs3,Chennai,ORG,3,1,-2,0.667
+lehs3,Europe,LOC,5,3,-2,0.4
+lehs3,Governor General,FAC,9,7,-2,0.222
+lehs3,Mohammad Ali Jinnah,PERSON,4,2,-2,0.5
+lehs3,Amritsar,GPE,3,1,-2,0.667
+lehs3,Islamic,NORP,3,1,-2,0.667
+lehs3,CWMG,ORG,4,2,-2,0.5
+lehs3,VOL,ORG,12,10,-2,0.167
+lehs3,Executive Council,ORG,3,1,-2,0.667
+lehs3,Pune,LOC,3,1,-2,0.667
+lehs3,Millions,ORG,3,1,-2,0.667
+lehs3,Library,GPE,5,3,-2,0.4
+lehs3,Britain,GPE,19,18,-1,0.053
+lehs3,Western,NORP,9,8,-1,0.111
+lehs3,Poona,ORG,4,3,-1,0.25
+lehs3,American Civil War,ORG,3,2,-1,0.333
+lehs3,Civil War,EVENT,5,4,-1,0.2
+lehs3,Mirzapur,GPE,3,2,-1,0.333
+lehs3,Kanpur,PERSON,8,7,-1,0.125
+lehs3,Bareilly,ORG,3,2,-1,0.333
+lehs3,British Empire,GPE,3,2,-1,0.333
+lehs3,Muhammad,PERSON,3,2,-1,0.333
+lehs3,Lawrence,PERSON,4,3,-1,0.25
+lehs3,Peshawar,GPE,3,2,-1,0.333
+lehs3,Vallabh Bhai Patel,PERSON,9,8,-1,0.111
+lehs3,Bhai Patel,PERSON,9,8,-1,0.111
+lehs3,Quit India,WORK_OF_ART,7,6,-1,0.143
+lehs3,Quit India Movement,ORG,3,2,-1,0.333
+lehs3,Patel,PERSON,16,15,-1,0.062
+lehs3,Working Committee,ORG,4,3,-1,0.25
+lehs3,Central Provinces,ORG,6,5,-1,0.167
+lehs3,Centre,GPE,23,22,-1,0.043
+lehs3,Direct Action Day,EVENT,3,2,-1,0.333
+lehs3,Resolution,FAC,16,15,-1,0.062
+lehs3,Union,ORG,9,8,-1,0.111
+lehs3,Rajmahal,LOC,16,16,0,0.0
+lehs3,Paharias,PERSON,18,18,0,0.0
+lehs3,Illustrated London News,ORG,14,14,0,0.0
+lehs3,Burdwan,GPE,9,9,0,0.0
+lehs3,Permanent Settlement,ORG,13,13,0,0.0
+lehs3,Zamindars,GPE,6,6,0,0.0
+lehs3,Francis Buchanan,PERSON,5,5,0,0.0
+lehs3,North Bengal,GPE,3,3,0,0.0
+lehs3,Dinajpur,GPE,3,3,0,0.0
+lehs3,Buchanan,PERSON,27,27,0,0.0
+lehs3,RYOT,ORG,3,3,0,0.0
+lehs3,British Parliament,ORG,4,4,0,0.0
+lehs3,Mehtab Chand,ORG,3,3,0,0.0
+lehs3,Santhal,LOC,15,15,0,0.0
+lehs3,Fifth Report,ORG,9,9,0,0.0
+lehs3,William Hodges,PERSON,3,3,0,0.0
+lehs3,Cleveland,GPE,3,3,0,0.0
+lehs3,Hodges,ORG,8,8,0,0.0
+lehs3,Paharia,ORG,5,5,0,0.0
+lehs3,Jangal,GPE,3,3,0,0.0
+lehs3,Damin-i-Koh,PERSON,3,3,0,0.0
+lehs3,Damin,PERSON,5,5,0,0.0
+lehs3,Bhagalpur,PERSON,4,4,0,0.0
+lehs3,Bombay Deccan,ORG,8,8,0,0.0
+lehs3,Supa,GPE,3,3,0,0.0
+lehs3,Maharashtra,NORP,7,7,0,0.0
+lehs3,America,GPE,6,6,0,0.0
+lehs3,Cotton,GPE,5,5,0,0.0
+lehs3,Deccan Riots Commission,ORG,7,7,0,0.0
+lehs3,Government of India,ORG,7,7,0,0.0
+lehs3,Agrarian,NORP,3,3,0,0.0
+lehs3,Orissa,PERSON,4,4,0,0.0
+lehs3,Meerut,PERSON,8,8,0,0.0
+lehs3,Bahadur Shah,PERSON,8,8,0,0.0
+lehs3,Persian,NORP,3,3,0,0.0
+lehs3,Sisten,PERSON,6,6,0,0.0
+lehs3,Awadh,GPE,36,36,0,0.0
+lehs3,Military Police,ORG,3,3,0,0.0
+lehs3,Nana Sahib,ORG,4,4,0,0.0
+lehs3,Jhansi,PERSON,6,6,0,0.0
+lehs3,Nawab Wajid Ali Shah,PERSON,4,4,0,0.0
+lehs3,Shah Mal,PERSON,8,8,0,0.0
+lehs3,Rani Lakshmi Bai,ORG,3,3,0,0.0
+lehs3,Raja,PERSON,6,6,0,0.0
+lehs3,Christianity,NORP,3,3,0,0.0
+lehs3,Satara,GPE,5,5,0,0.0
+lehs3,Subsidiary Alliance,ORG,4,4,0,0.0
+lehs3,Wajid Ali Shah,PERSON,6,6,0,0.0
+lehs3,pre-British,NORP,4,4,0,0.0
+lehs3,Hindustani,PERSON,12,12,0,0.0
+lehs3,Hanwant Singh,PERSON,5,5,0,0.0
+lehs3,British Government,ORG,5,5,0,0.0
+lehs3,Badshahi Government,ORG,5,5,0,0.0
+lehs3,Hindoo,PERSON,3,3,0,0.0
+lehs3,Campbell,ORG,4,4,0,0.0
+lehs3,Barker,ORG,3,3,0,0.0
+lehs3,Outram,PERSON,3,3,0,0.0
+lehs3,Havelock,GPE,3,3,0,0.0
+lehs3,Memoriam,PERSON,3,3,0,0.0
+lehs3,Punch,ORG,5,5,0,0.0
+lehs3,Canning,ORG,3,3,0,0.0
+lehs3,Rani,PERSON,8,8,0,0.0
+lehs3,South Africa,GPE,7,7,0,0.0
+lehs3,BHU,ORG,5,5,0,0.0
+lehs3,Champaran,GPE,4,4,0,0.0
+lehs3,Gujarat,GPE,6,6,0,0.0
+lehs3,Ahmedabad,GPE,3,3,0,0.0
+lehs3,Kheda,GPE,3,3,0,0.0
+lehs3,Rowlatt,PERSON,5,5,0,0.0
+lehs3,Khilafat Movement,ORG,3,3,0,0.0
+lehs3,Khilafat,GPE,5,5,0,0.0
+lehs3,Chauri Chaura,PERSON,3,3,0,0.0
+lehs3,Mahatmaji,PERSON,4,4,0,0.0
+lehs3,Gorakhpur,GPE,6,6,0,0.0
+lehs3,Subhas Chandra Bose,PERSON,3,3,0,0.0
+lehs3,Govind Ballabh Pant,PERSON,4,4,0,0.0
+lehs3,Independence Day,EVENT,4,4,0,0.0
+lehs3,Dandi March,LOC,4,4,0,0.0
+lehs3,Irwin,PERSON,4,4,0,0.0
+lehs3,Sabarmati,GPE,4,4,0,0.0
+lehs3,Dandi,PERSON,10,10,0,0.0
+lehs3,Swaraj,PERSON,7,7,0,0.0
+lehs3,Time,ORG,7,7,0,0.0
+lehs3,Allahabad,ORG,3,3,0,0.0
+lehs3,Ambedkar,PERSON,12,12,0,0.0
+lehs3,Round Table Conference,ORG,5,5,0,0.0
+lehs3,Untouchables,WORK_OF_ART,4,4,0,0.0
+lehs3,Government of India Act,ORG,4,4,0,0.0
+lehs3,Rajendra Prasad,ORG,7,7,0,0.0
+lehs3,Labour,ORG,3,3,0,0.0
+lehs3,Assembly,ORG,67,67,0,0.0
+lehs3,Sardar Vallabh,PERSON,5,5,0,0.0
+lehs3,State,ORG,17,17,0,0.0
+lehs3,Lincoln,ORG,3,3,0,0.0
+lehs3,Sardar Patel,PERSON,3,3,0,0.0
+lehs3,N.G,GPE,3,3,0,0.0
+lehs3,Ranga,PERSON,8,8,0,0.0
+lehs3,Wardha,ORG,3,3,0,0.0
+lehs3,Prasad,ORG,9,9,0,0.0
+lehs3,Home Department,ORG,6,6,0,0.0
+lehs3,Satyagraha,PERSON,4,4,0,0.0
+lehs3,Modern India,LOC,3,3,0,0.0
+lehs3,Independence,GPE,15,15,0,0.0
+lehs3,Constitution of India,WORK_OF_ART,3,3,0,0.0
+lehs3,Objectives,WORK_OF_ART,8,8,0,0.0
+lehs3,Socialist,NORP,3,3,0,0.0
+lehs3,CAD,ORG,7,7,0,0.0
+lehs3,Lahiri,PERSON,3,3,0,0.0
+lehs3,Attlee,PERSON,4,4,0,0.0
+lehs3,Interim Government,ORG,6,6,0,0.0
+lehs3,Dhulekar,PERSON,10,10,0,0.0
+lehs3,Pant,PERSON,7,7,0,0.0
+lehs3,Depressed Castes,LOC,5,5,0,0.0
+lehs3,Concurrent,NORP,3,3,0,0.0
+lehs3,Santhanam,GPE,4,4,0,0.0
+lehs3,Durgabai,ORG,3,3,0,0.0
+lehs3,Ryots,ORG,3,3,0,0.0
+lehs3,Constituent Assembly,ORG,49,50,1,-0.02
+leps1,Cold War,EVENT,91,35,-56,0.615
+leps1,India,GPE,298,253,-45,0.151
+leps1,Soviet,NORP,160,120,-40,0.25
+leps1,American,NORP,47,12,-35,0.745
+leps1,Soviet Union,GPE,93,69,-24,0.258
+leps1,USSR,GPE,45,24,-21,0.467
+leps1,Iraq,GPE,24,6,-18,0.75
+leps1,America,GPE,35,17,-18,0.514
+leps1,NAM,ORG,16,0,-16,1.0
+leps1,Europe,LOC,39,23,-16,0.41
+leps1,United States,GPE,24,10,-14,0.583
+leps1,World War,EVENT,39,25,-14,0.359
+leps1,Treaty,ORG,29,16,-13,0.448
+leps1,Iraqi,NORP,14,1,-13,0.929
+leps1,Second World War,EVENT,34,23,-11,0.324
+leps1,Cuba,GPE,11,0,-11,1.0
+leps1,Second World,EVENT,35,24,-11,0.314
+leps1,INDIA,GPE,13,2,-11,0.846
+leps1,OVERVIEW,ORG,9,0,-9,1.0
+leps1,China,GPE,100,91,-9,0.09
+leps1,Vietnam,GPE,12,3,-9,0.75
+leps1,Clinton,PERSON,9,0,-9,1.0
+leps1,Japan,GPE,25,17,-8,0.32
+leps1,North,LOC,28,20,-8,0.286
+leps1,Berlin,GPE,14,7,-7,0.5
+leps1,Germany,GPE,18,11,-7,0.389
+leps1,Asia,LOC,70,63,-7,0.1
+leps1,Moscow,GPE,11,4,-7,0.636
+leps1,NATO,ORG,11,4,-7,0.636
+leps1,Jabu,PERSON,7,0,-7,1.0
+leps1,Andrei,PERSON,7,0,-7,1.0
+leps1,MBA,WORK_OF_ART,7,0,-7,1.0
+leps1,Bush,PERSON,7,0,-7,1.0
+leps1,France,GPE,16,10,-6,0.375
+leps1,Korea,GPE,21,15,-6,0.286
+leps1,Indian,NORP,69,63,-6,0.087
+leps1,Russia,GPE,53,47,-6,0.113
+leps1,First Gulf War,EVENT,6,0,-6,1.0
+leps1,Cagle Cartoons Inc,ORG,31,25,-6,0.194
+leps1,HEGEMONY,ORG,6,0,-6,1.0
+leps1,Gulf,LOC,8,2,-6,0.75
+leps1,United States of America,GPE,6,1,-5,0.833
+leps1,Cuban,NORP,7,2,-5,0.714
+leps1,Britain,GPE,14,9,-5,0.357
+leps1,THE COLD WAR,EVENT,5,0,-5,1.0
+leps1,Afghanistan,GPE,15,10,-5,0.333
+leps1,Western,NORP,23,18,-5,0.217
+leps1,Nehru,PERSON,6,1,-5,0.833
+leps1,Ayesha,GPE,5,0,-5,1.0
+leps1,Indo-US,ORG,5,0,-5,1.0
+leps1,GLOBALISATION,PERSON,5,0,-5,1.0
+leps1,NIEO,ORG,5,1,-4,0.8
+leps1,Americans,NORP,7,3,-4,0.571
+leps1,Cuban Missile Crisis,ORG,5,1,-4,0.8
+leps1,post-Cold War,EVENT,6,2,-4,0.667
+leps1,Warsaw,GPE,7,3,-4,0.571
+leps1,Africa,LOC,26,22,-4,0.154
+leps1,Yugoslavia,GPE,6,2,-4,0.667
+leps1,African,NORP,5,1,-4,0.8
+leps1,Kuwait,GPE,5,1,-4,0.8
+leps1,Al-Qaeda,ORG,4,0,-4,1.0
+leps1,Taliban,ORG,4,0,-4,1.0
+leps1,South,LOC,87,83,-4,0.046
+leps1,Kennedy,PERSON,3,0,-3,1.0
+leps1,Hiroshima,GPE,3,0,-3,1.0
+leps1,Nagasaki,GPE,3,0,-3,1.0
+leps1,Belgrade,GPE,3,0,-3,1.0
+leps1,London,GPE,3,0,-3,1.0
+leps1,Warsaw Pact,ORG,5,2,-3,0.6
+leps1,USA,GPE,5,2,-3,0.6
+leps1,Jawaharlal Nehru,PERSON,4,1,-3,0.75
+leps1,Indonesia,GPE,8,5,-3,0.375
+leps1,FOUNDER,ORG,3,0,-3,1.0
+leps1,Korean,NORP,7,4,-3,0.429
+leps1,Washington,GPE,7,4,-3,0.429
+leps1,European,NORP,53,50,-3,0.057
+leps1,United Nations,ORG,27,24,-3,0.111
+leps1,State,ORG,8,5,-3,0.375
+leps1,New York,GPE,4,1,-3,0.75
+leps1,Kosovo,GPE,3,0,-3,1.0
+leps1,British,NORP,10,7,-3,0.3
+leps1,George H,PERSON,3,0,-3,1.0
+leps1,Operation Iraqi Freedom,EVENT,3,0,-3,1.0
+leps1,Iran,GPE,4,1,-3,0.75
+leps1,Russian,NORP,10,8,-2,0.2
+leps1,Khrushchev,PERSON,3,1,-2,0.667
+leps1,Southeast Asia,LOC,7,5,-2,0.286
+leps1,First World War,ORG,4,2,-2,0.5
+leps1,Japanese,NORP,6,4,-2,0.333
+leps1,Allied,ORG,4,2,-2,0.5
+leps1,European Union,ORG,16,14,-2,0.125
+leps1,Paris,GPE,4,2,-2,0.5
+leps1,Communist,NORP,21,19,-2,0.095
+leps1,North Atlantic Treaty Organisation,ORG,3,1,-2,0.667
+leps1,West Asia,LOC,7,5,-2,0.286
+leps1,North Korea,GPE,3,1,-2,0.667
+leps1,Congo,GPE,4,2,-2,0.5
+leps1,Koreas,GPE,3,1,-2,0.667
+leps1,French,NORP,3,1,-2,0.667
+leps1,Berlin Wall,FAC,7,5,-2,0.286
+leps1,Egypt,GPE,3,1,-2,0.667
+leps1,Ghana,GPE,3,1,-2,0.667
+leps1,Korean War,EVENT,3,1,-2,0.667
+leps1,NPT,ORG,4,2,-2,0.5
+leps1,Leonid Brezhnev,PERSON,3,1,-2,0.667
+leps1,Third World,ORG,8,6,-2,0.25
+leps1,SOVIET,NORP,3,1,-2,0.667
+leps1,West,LOC,22,20,-2,0.091
+leps1,World Trade Centre,ORG,3,1,-2,0.667
+leps1,Australia,GPE,9,7,-2,0.222
+leps1,Democratic Party,ORG,3,1,-2,0.667
+leps1,Sudan,GPE,3,1,-2,0.667
+leps1,Andy Singer,PERSON,5,3,-2,0.4
+leps1,Greece,GPE,4,2,-2,0.5
+leps1,PPP,ORG,4,2,-2,0.5
+leps1,Cold War years,EVENT,3,1,-2,0.667
+leps1,South America,LOC,5,3,-2,0.4
+leps1,ASEAN,ORG,57,55,-2,0.035
+leps1,Southeast Asian,NORP,3,1,-2,0.667
+leps1,SEATO,ORG,3,1,-2,0.667
+leps1,CENTO,ORG,3,1,-2,0.667
+leps1,New International Economic Order,ORG,3,1,-2,0.667
+leps1,Convention,ORG,6,4,-2,0.333
+leps1,John,PERSON,3,1,-2,0.667
+leps1,Map,PERSON,4,3,-1,0.25
+leps1,Italy,GPE,5,4,-1,0.2
+leps1,Burma,GPE,3,2,-1,0.333
+leps1,Myanmar,GPE,9,8,-1,0.111
+leps1,Rome,GPE,3,2,-1,0.333
+leps1,North America,LOC,3,2,-1,0.333
+leps1,East,LOC,25,24,-1,0.04
+leps1,Hungary,GPE,4,3,-1,0.25
+leps1,Czechoslovakia,GPE,3,2,-1,0.333
+leps1,Gorbachev,PERSON,23,22,-1,0.043
+leps1,Latin America,LOC,5,4,-1,0.2
+leps1,Azerbaijan,GPE,4,3,-1,0.25
+leps1,Asian,NORP,42,41,-1,0.024
+leps1,Mikhail Gorbachev,PERSON,5,4,-1,0.2
+leps1,Boris Yeltsin,PERSON,5,4,-1,0.2
+leps1,Mark,PERSON,5,4,-1,0.2
+leps1,Poland,GPE,4,3,-1,0.25
+leps1,Sri Lanka,GPE,31,30,-1,0.032
+leps1,Yeltsin,PERSON,8,7,-1,0.125
+leps1,International Monetary Fund,ORG,4,3,-1,0.25
+leps1,IMF,ORG,8,7,-1,0.125
+leps1,South Africa,GPE,3,2,-1,0.333
+leps1,Saudi Arabia,GPE,5,4,-1,0.2
+leps1,LTTE,ORG,5,4,-1,0.2
+leps1,World Trade Organisation,ORG,6,5,-1,0.167
+leps1,WTO,ORG,11,10,-1,0.091
+leps1,International Atomic Energy Agency,ORG,4,3,-1,0.25
+leps1,South Asia,LOC,30,29,-1,0.033
+leps1,Israel,GPE,4,3,-1,0.25
+leps1,Austria,GPE,4,3,-1,0.25
+leps1,Human Development Report,ORG,4,3,-1,0.25
+leps1,Peacebuilding Commission,ORG,3,2,-1,0.333
+leps1,Middle East,LOC,3,3,0,0.0
+leps1,Bangladesh,GPE,38,38,0,0.0
+leps1,Communist Party,ORG,16,16,0,0.0
+leps1,Central Asian,NORP,8,8,0,0.0
+leps1,Ukraine,GPE,5,5,0,0.0
+leps1,CIS,ORG,6,6,0,0.0
+leps1,UN Security Council,ORG,8,8,0,0.0
+leps1,Stalin,PERSON,3,3,0,0.0
+leps1,Estonia,GPE,5,5,0,0.0
+leps1,Latvia,GPE,5,5,0,0.0
+leps1,Lithuania,GPE,6,6,0,0.0
+leps1,Georgia,GPE,5,5,0,0.0
+leps1,Baltic,NORP,4,4,0,0.0
+leps1,Kazakhstan,GPE,3,3,0,0.0
+leps1,Turkmenistan,GPE,4,4,0,0.0
+leps1,Uzbekistan,NORP,5,5,0,0.0
+leps1,World Bank,ORG,6,6,0,0.0
+leps1,Central Asia,LOC,7,7,0,0.0
+leps1,Central Asian Republics,ORG,3,3,0,0.0
+leps1,Croatia,GPE,3,3,0,0.0
+leps1,Slovenia,GPE,4,4,0,0.0
+leps1,Hindi,GPE,5,5,0,0.0
+leps1,Tashkent,GPE,5,5,0,0.0
+leps1,Pakistani,NORP,8,8,0,0.0
+leps1,Kashmir,LOC,13,13,0,0.0
+leps1,Schengen,ORG,3,3,0,0.0
+leps1,United Kingdom,GPE,3,3,0,0.0
+leps1,Portugal,GPE,5,5,0,0.0
+leps1,Spain,GPE,3,3,0,0.0
+leps1,Netherlands,GPE,3,3,0,0.0
+leps1,Denmark,GPE,3,3,0,0.0
+leps1,Sweden,GPE,5,5,0,0.0
+leps1,Cyprus,ORG,4,4,0,0.0
+leps1,Nobel Peace Prize,WORK_OF_ART,3,3,0,0.0
+leps1,Malaysia,GPE,3,3,0,0.0
+leps1,Philippines,GPE,4,4,0,0.0
+leps1,Thailand,GPE,4,4,0,0.0
+leps1,Economic Community,ORG,5,5,0,0.0
+leps1,South Korea,GPE,9,9,0,0.0
+leps1,Keshav,GPE,5,5,0,0.0
+leps1,Hindu,NORP,9,9,0,0.0
+leps1,SAARC,NORP,12,12,0,0.0
+leps1,New Delhi,GPE,4,4,0,0.0
+leps1,Republic of Korea,GPE,4,4,0,0.0
+leps1,ARF,ORG,4,4,0,0.0
+leps1,Nepal,GPE,36,36,0,0.0
+leps1,South Asian,NORP,15,15,0,0.0
+leps1,Bhutan,GPE,7,7,0,0.0
+leps1,Maldives,ORG,9,9,0,0.0
+leps1,SDG,ORG,7,7,0,0.0
+leps1,United Nations Development Programme,ORG,3,3,0,0.0
+leps1,Yahya,PERSON,3,3,0,0.0
+leps1,East Pakistan,LOC,5,5,0,0.0
+leps1,Bhutto,PERSON,4,4,0,0.0
+leps1,Indus Waters Treaty,ORG,3,3,0,0.0
+leps1,FTA,ORG,3,3,0,0.0
+leps1,SAFTA,ORG,8,8,0,0.0
+leps1,Islamic,NORP,4,4,0,0.0
+leps1,Bengal,GPE,3,3,0,0.0
+leps1,Ershad,GPE,4,4,0,0.0
+leps1,Maoist,NORP,3,3,0,0.0
+leps1,Maoists,NORP,4,4,0,0.0
+leps1,Sinhala,ORG,4,4,0,0.0
+leps1,Tamils,ORG,6,6,0,0.0
+leps1,Tamil,PERSON,9,9,0,0.0
+leps1,Sri Lankan,NORP,6,6,0,0.0
+leps1,Norway,GPE,3,3,0,0.0
+leps1,Security Council,ORG,36,36,0,0.0
+leps1,Lebanon,GPE,3,3,0,0.0
+leps1,General Assembly,ORG,8,8,0,0.0
+leps1,Churchill,ORG,3,3,0,0.0
+leps1,Brazil,GPE,9,9,0,0.0
+leps1,UN General Assembly,ORG,4,4,0,0.0
+leps1,Argentina,GPE,3,3,0,0.0
+leps1,Rwanda,GPE,3,3,0,0.0
+leps1,Annan,PERSON,3,3,0,0.0
+leps1,Council,ORG,48,48,0,0.0
+leps1,Turkey,GPE,3,3,0,0.0
+leps1,Sustainable Development Goals,ORG,3,3,0,0.0
+leps1,IAEA,ORG,4,4,0,0.0
+leps1,Amnesty International,ORG,3,3,0,0.0
+leps1,Amnesty,ORG,4,4,0,0.0
+leps1,World Health Organisation,ORG,4,4,0,0.0
+leps1,Southern,NORP,4,4,0,0.0
+leps1,Kyoto Protocol,ORG,7,7,0,0.0
+leps1,Earth,LOC,14,14,0,0.0
+leps1,Earth Summit,ORG,5,5,0,0.0
+leps1,Rio Summit,ORG,3,3,0,0.0
+leps1,Antarctic,ORG,10,10,0,0.0
+leps1,Chile,GPE,3,3,0,0.0
+leps1,New Zealand,GPE,3,3,0,0.0
+leps1,UNFCCC,ORG,6,6,0,0.0
+leps1,Kyoto,GPE,8,8,0,0.0
+leps1,Rio,GPE,7,7,0,0.0
+leps1,Kingdom,GPE,5,5,0,0.0
+leps1,Bigoil,ORG,6,6,0,0.0
+leps1,Toppleton,ORG,3,3,0,0.0
+leps1,Janardhan,GPE,3,3,0,0.0
+leps1,Ramdhari,ORG,4,4,0,0.0
+leps1,Commonwealth of Independent States,ORG,2,3,1,-0.5
+leps1,Chinese,NORP,13,14,1,-0.077
+leps1,Association of South East Asian Nations,ORG,2,3,1,-0.5
+leps1,East Asian,NORP,5,6,1,-0.2
+leps1,Sheikh Mujib,PERSON,4,5,1,-0.25
+leps1,Indo-Pak,ORG,3,4,1,-0.333
+leps1,Pakistan,GPE,79,81,2,-0.025
+leps1,Therapy,PERSON,2,4,2,-1.0
+leps1, Students,ORG,0,4,4,
+leps1,Globalisation,ORG,21,26,5,-0.238
+leps1, Divide,ORG,0,6,6,
+leps2,India,GPE,473,428,-45,0.095
+leps2,Partition,ORG,37,14,-23,0.622
+leps2,Indian,NORP,150,127,-23,0.153
+leps2,Party,ORG,127,106,-21,0.165
+leps2,Dalit,PERSON,28,8,-20,0.714
+leps2,Independence,GPE,60,43,-17,0.283
+leps2,Commission,ORG,59,42,-17,0.288
+leps2,State,ORG,109,93,-16,0.147
+leps2,Gujarat,GPE,30,14,-16,0.533
+leps2,Dalits,NORP,19,5,-14,0.737
+leps2,BKU,ORG,12,0,-12,1.0
+leps2,Narmada,ORG,12,0,-12,1.0
+leps2,NBA,ORG,11,0,-11,1.0
+leps2,Gandhi,PERSON,117,107,-10,0.085
+leps2,Naxalite,PERSON,11,1,-10,0.909
+leps2,Kerala,GPE,20,11,-9,0.45
+leps2,Bihar,GPE,36,27,-9,0.25
+leps2,Shah Commission,ORG,12,3,-9,0.75
+leps2,Chipko,ORG,9,0,-9,1.0
+leps2,Panthers,PERSON,8,0,-8,1.0
+leps2,Congress,ORG,383,376,-7,0.018
+leps2,States,GPE,78,71,-7,0.09
+leps2,Communist,NORP,32,25,-7,0.219
+leps2,Swatantra Party,ORG,10,3,-7,0.7
+leps2,Swatantra,ORG,13,6,-7,0.538
+leps2,Indira Gandhi,PERSON,87,80,-7,0.08
+leps2,Union,ORG,40,33,-7,0.175
+leps2,Indira,PERSON,94,87,-7,0.074
+leps2,Court,ORG,40,33,-7,0.175
+leps2,Dalit Panthers,PERSON,7,0,-7,1.0
+leps2,Hindu,NORP,23,17,-6,0.261
+leps2,Delhi,GPE,21,15,-6,0.286
+leps2,Andhra Pradesh,ORG,12,6,-6,0.5
+leps2,Andhra,GPE,19,13,-6,0.316
+leps2,Uttar Pradesh,ORG,17,11,-6,0.353
+leps2,PRI,ORG,6,0,-6,1.0
+leps2,Government,ORG,32,26,-6,0.188
+leps2,Muslims,NORP,28,23,-5,0.179
+leps2,Maharashtra,NORP,18,13,-5,0.278
+leps2,Durga,ORG,5,0,-5,1.0
+leps2,Amul,PERSON,5,0,-5,1.0
+leps2,NFF,ORG,5,0,-5,1.0
+leps2,Bachao Aandolan,PERSON,5,0,-5,1.0
+leps2,Punjab,NORP,45,41,-4,0.089
+leps2,Bengal,PERSON,17,13,-4,0.235
+leps2,English,NORP,11,7,-4,0.364
+leps2,Gandhiji,PERSON,10,6,-4,0.4
+leps2,Uttarakhand,GPE,8,4,-4,0.5
+leps2,Communist Party,ORG,21,17,-4,0.19
+leps2,Marxist,NORP,10,6,-4,0.4
+leps2,Commission of Inquiry,ORG,5,1,-4,0.8
+leps2,Rajan,ORG,4,0,-4,1.0
+leps2,Nellore,GPE,4,0,-4,1.0
+leps2,Bhiku,GPE,4,0,-4,1.0
+leps2,Sardar Sarovar Project,ORG,4,0,-4,1.0
+leps2,MKSS,ORG,4,0,-4,1.0
+leps2,Hindus,NORP,22,19,-3,0.136
+leps2,West,LOC,18,15,-3,0.167
+leps2,Government of India,ORG,16,13,-3,0.188
+leps2,West Bengal,GPE,10,7,-3,0.3
+leps2,non-Congress,ORG,22,19,-3,0.136
+leps2,Mexico,GPE,4,1,-3,0.75
+leps2,Ambedkar,PERSON,8,5,-3,0.375
+leps2,United States,GPE,4,1,-3,0.75
+leps2,Socialist,NORP,29,26,-3,0.103
+leps2,J.C,GPE,3,0,-3,1.0
+leps2,Green Revolution,EVENT,3,0,-3,1.0
+leps2,Haryana,PERSON,14,11,-3,0.214
+leps2,Operation Flood,ORG,3,0,-3,1.0
+leps2,Rajasthan,GPE,9,6,-3,0.333
+leps2,Marxist-Leninist,ORG,5,2,-3,0.6
+leps2,Naxalites,ORG,4,1,-3,0.75
+leps2,Naxalbari,ORG,3,0,-3,1.0
+leps2,Adivasis,ORG,5,2,-3,0.6
+leps2,High Court,ORG,9,6,-3,0.333
+leps2,Shah Commission of Inquiry,ORG,3,0,-3,1.0
+leps2,Karunakaran,PERSON,3,0,-3,1.0
+leps2,Times,ORG,29,26,-3,0.103
+leps2,Chipko Movement,ORG,3,0,-3,1.0
+leps2,Namdeo Dhasal,PERSON,3,0,-3,1.0
+leps2,Marathi,ORG,6,3,-3,0.5
+leps2,Bharatiya Kisan Union,ORG,3,0,-3,1.0
+leps2,Right to Information,ORG,3,0,-3,1.0
+leps2,Singh,GPE,33,30,-3,0.091
+leps2,Godhra,ORG,3,0,-3,1.0
+leps2,Mahatma Gandhi,PERSON,7,5,-2,0.286
+leps2,Times of India,ORG,22,20,-2,0.091
+leps2,Home,ORG,5,3,-2,0.4
+leps2,Gandhian,NORP,9,7,-2,0.222
+leps2,Shankar,PERSON,10,8,-2,0.2
+leps2,Congress party,ORG,58,56,-2,0.034
+leps2,Democratic,NORP,5,3,-2,0.4
+leps2,Rajagopalachari,PERSON,7,5,-2,0.286
+leps2,Communist Party of India,ORG,14,12,-2,0.143
+leps2,Socialist Party,ORG,26,24,-2,0.077
+leps2,Parliament,ORG,20,18,-2,0.1
+leps2,Jana Sangh,PERSON,20,18,-2,0.1
+leps2,Bharat,NORP,3,1,-2,0.667
+leps2,Bharatiya Jana Sangh,ORG,14,12,-2,0.143
+leps2,Rajputs,NORP,6,4,-2,0.333
+leps2,Fanishwarnath Renu,PERSON,3,1,-2,0.667
+leps2,Planning Commission,ORG,13,11,-2,0.154
+leps2,Madhya Pradesh,PERSON,6,4,-2,0.333
+leps2,Ray,PERSON,4,2,-2,0.5
+leps2,Justice,ORG,14,12,-2,0.143
+leps2,Janata,PERSON,55,53,-2,0.036
+leps2,Central,ORG,6,4,-2,0.333
+leps2,Sikh,PERSON,16,14,-2,0.125
+leps2,Kolkata,GPE,8,7,-1,0.125
+leps2,Constituent Assembly,ORG,13,12,-1,0.077
+leps2,Hindustan Times,ORG,5,4,-1,0.2
+leps2,Urdu,GPE,3,2,-1,0.333
+leps2,Muslim,NORP,24,23,-1,0.042
+leps2,Faiz,PERSON,5,4,-1,0.2
+leps2,Award,PERSON,3,2,-1,0.333
+leps2,East,LOC,33,32,-1,0.03
+leps2,Independence Day,EVENT,3,2,-1,0.333
+leps2,Nana,ORG,3,2,-1,0.333
+leps2,Partition of India,ORG,3,2,-1,0.333
+leps2,Sardar Patel,PERSON,4,3,-1,0.25
+leps2,Hyderabad,ORG,13,12,-1,0.077
+leps2,Karnataka,GPE,8,7,-1,0.125
+leps2,Telangana,GPE,4,3,-1,0.25
+leps2,Patel,PERSON,11,10,-1,0.091
+leps2,Telugu,ORG,3,2,-1,0.333
+leps2,Madras,PERSON,14,13,-1,0.071
+leps2,Satyagraha,PERSON,3,2,-1,0.333
+leps2,EXERCISES,ORG,10,9,-1,0.1
+leps2,Soviet,NORP,21,20,-1,0.048
+leps2,Soviet Union,GPE,11,10,-1,0.091
+leps2,Election Commission of India,ORG,3,2,-1,0.333
+leps2,Jagjivan Ram,PERSON,7,6,-1,0.143
+leps2,Mishra,GPE,4,3,-1,0.25
+leps2,Election Commission,ORG,8,7,-1,0.125
+leps2,Congress Socialist Party,ORG,5,4,-1,0.2
+leps2,South Africa,GPE,3,2,-1,0.333
+leps2,Presidential,ORG,5,4,-1,0.2
+leps2,U.P,ORG,5,4,-1,0.2
+leps2,Mumbai,GPE,5,4,-1,0.2
+leps2,Hindi,GPE,21,20,-1,0.048
+leps2,Union Cabinet,ORG,5,4,-1,0.2
+leps2,Cabinet,ORG,8,7,-1,0.125
+leps2,Fundamental Rights,ORG,8,7,-1,0.125
+leps2,Charan Singh,PERSON,8,7,-1,0.125
+leps2,Bharatiya Lok Dal,ORG,3,2,-1,0.333
+leps2,USA,GPE,3,2,-1,0.333
+leps2,Shastri,PERSON,17,16,-1,0.059
+leps2,north Indian,NORP,3,2,-1,0.333
+leps2,Anand,GPE,4,3,-1,0.25
+leps2,Africa,LOC,4,3,-1,0.25
+leps2,Behari Vajpayee,PERSON,5,4,-1,0.2
+leps2,Sudhir,PERSON,6,5,-1,0.167
+leps2,Janata Party,ORG,31,30,-1,0.032
+leps2,Assembly,ORG,25,24,-1,0.04
+leps2,Republican Party,ORG,3,2,-1,0.333
+leps2,Ram,PERSON,25,24,-1,0.04
+leps2,Supreme Court,ORG,20,19,-1,0.05
+leps2,Congress Party,ORG,3,2,-1,0.333
+leps2,Vijay,ORG,7,6,-1,0.143
+leps2,Chief Justice of,ORG,3,2,-1,0.333
+leps2,Press,ORG,3,2,-1,0.333
+leps2,Atal Behari Vajpayee,ORG,5,4,-1,0.2
+leps2,Lok Dal,PERSON,5,4,-1,0.2
+leps2,Charan,GPE,8,7,-1,0.125
+leps2,OBC,ORG,9,8,-1,0.111
+leps2,North,LOC,27,26,-1,0.037
+leps2,Ayodhya,ORG,12,11,-1,0.083
+leps2,BAMCEF,ORG,3,2,-1,0.333
+leps2,anti-Sikh,NORP,3,2,-1,0.333
+leps2,Pakistan,GPE,95,95,0,0.0
+leps2,Indians,NORP,5,5,0,0.0
+leps2,British,NORP,23,23,0,0.0
+leps2,Directive Principles of State,WORK_OF_ART,4,4,0,0.0
+leps2,Brahmins,PERSON,3,3,0,0.0
+leps2,Pakistani,NORP,11,11,0,0.0
+leps2,Waris Shah,PERSON,4,4,0,0.0
+leps2,Bombay,GPE,9,9,0,0.0
+leps2,British India,ORG,6,6,0,0.0
+leps2,Muslim League,ORG,4,4,0,0.0
+leps2,East Pakistan,LOC,11,11,0,0.0
+leps2,Bangladesh,GPE,14,14,0,0.0
+leps2,Sikhs,NORP,18,18,0,0.0
+leps2,Buddhists,NORP,3,3,0,0.0
+leps2,Salim,PERSON,4,4,0,0.0
+leps2,M.S,GPE,3,3,0,0.0
+leps2,Lahore,GPE,4,4,0,0.0
+leps2,Germany,GPE,3,3,0,0.0
+leps2,Amritsar,GPE,3,3,0,0.0
+leps2,Indian National Congress,ORG,12,12,0,0.0
+leps2,Indian Union,GPE,4,4,0,0.0
+leps2,Orissa,PERSON,10,10,0,0.0
+leps2,Kashmir,LOC,52,52,0,0.0
+leps2,Manipur,GPE,18,18,0,0.0
+leps2,Nizam,ORG,9,9,0,0.0
+leps2,Communists,NORP,6,6,0,0.0
+leps2,Vallabhbhai Patel,PERSON,3,3,0,0.0
+leps2,Instrument of Accession,ORG,3,3,0,0.0
+leps2,Maharaja,LOC,7,7,0,0.0
+leps2,Madras province,GPE,6,6,0,0.0
+leps2,Tamil Nadu,PERSON,15,15,0,0.0
+leps2,Central Government,ORG,3,3,0,0.0
+leps2,Meghalaya,ORG,6,6,0,0.0
+leps2,Assam,GPE,29,29,0,0.0
+leps2,Tripura,PERSON,7,7,0,0.0
+leps2,Mizoram,GPE,17,17,0,0.0
+leps2,Chhattisgarh,GPE,4,4,0,0.0
+leps2,Jharkhand,GPE,4,4,0,0.0
+leps2,West Pakistan,GPE,3,3,0,0.0
+leps2,Himachal Pradesh,ORG,4,4,0,0.0
+leps2,China,GPE,55,55,0,0.0
+leps2,Morarji Desai,PERSON,13,13,0,0.0
+leps2,Roy,PERSON,3,3,0,0.0
+leps2,Tandon,GPE,3,3,0,0.0
+leps2,Europe,LOC,5,5,0,0.0
+leps2,EVM,ORG,3,3,0,0.0
+leps2,Namboodiripad,ORG,3,3,0,0.0
+leps2,Centre,GPE,15,15,0,0.0
+leps2,Asoka Mehta,PERSON,3,3,0,0.0
+leps2,Praja Socialist Party,ORG,4,4,0,0.0
+leps2,Samyukta Socialist Party,ORG,3,3,0,0.0
+leps2,Narayan,GPE,12,12,0,0.0
+leps2,Janata Dal,PERSON,15,15,0,0.0
+leps2,Egypt,GPE,3,3,0,0.0
+leps2,Gopalan,ORG,3,3,0,0.0
+leps2,Shyama,NORP,6,6,0,0.0
+leps2,RSS,ORG,4,4,0,0.0
+leps2,Shyama Prasad Mukherjee,WORK_OF_ART,5,5,0,0.0
+leps2,Bharatiya Janata Party,ORG,5,5,0,0.0
+leps2,Jammu & Kashmir,ORG,5,5,0,0.0
+leps2,Left,PERSON,17,17,0,0.0
+leps2,USSR,GPE,8,8,0,0.0
+leps2,Constitution at Work,WORK_OF_ART,3,3,0,0.0
+leps2,Directive Principles of State Policy,WORK_OF_ART,4,4,0,0.0
+leps2,Bombay Plan,ORG,3,3,0,0.0
+leps2,First Five Year Plan,EVENT,6,6,0,0.0
+leps2,NAM,ORG,5,5,0,0.0
+leps2,Contemporary World Politics,ORG,6,6,0,0.0
+leps2,Cold War,EVENT,6,6,0,0.0
+leps2,Asian,NORP,7,7,0,0.0
+leps2,African,NORP,3,3,0,0.0
+leps2,pro-US,NORP,3,3,0,0.0
+leps2,Britain,GPE,3,3,0,0.0
+leps2,Menon,GPE,4,4,0,0.0
+leps2,Asia,LOC,4,4,0,0.0
+leps2,Bandung,GPE,4,4,0,0.0
+leps2,Bandung Conference,FAC,3,3,0,0.0
+leps2,Panchsheel,ORG,3,3,0,0.0
+leps2,Zhou Enlai,PERSON,3,3,0,0.0
+leps2,Tibet,GPE,15,15,0,0.0
+leps2,Tibetan,NORP,6,6,0,0.0
+leps2,Dalai Lama,PERSON,6,6,0,0.0
+leps2,Tibetans,NORP,4,4,0,0.0
+leps2,Rajya Sabha,ORG,4,4,0,0.0
+leps2,Ladakh,PERSON,8,8,0,0.0
+leps2,Jammu,GPE,26,26,0,0.0
+leps2,Arunachal Pradesh,ORG,6,6,0,0.0
+leps2,Rajiv Gandhi,PERSON,14,14,0,0.0
+leps2,China war,EVENT,5,5,0,0.0
+leps2,Union Territories,ORG,3,3,0,0.0
+leps2,Ayub Khan,PERSON,3,3,0,0.0
+leps2,Lal Bahadur Shastri,PERSON,6,6,0,0.0
+leps2,Eastern,ORG,3,3,0,0.0
+leps2,Kargil,GPE,4,4,0,0.0
+leps2,Army,ORG,6,6,0,0.0
+leps2,NPT,ORG,3,3,0,0.0
+leps2,Peace,FAC,5,5,0,0.0
+leps2,Railway,ORG,5,5,0,0.0
+leps2,London,GPE,3,3,0,0.0
+leps2,Bhim Singh,PERSON,4,4,0,0.0
+leps2,Kamaraj,PERSON,4,4,0,0.0
+leps2,DMK,ORG,14,14,0,0.0
+leps2,Dravid,NORP,3,3,0,0.0
+leps2,anti-Hindi,NORP,3,3,0,0.0
+leps2,non-Congressism,NORP,4,4,0,0.0
+leps2,Left Front,ORG,5,5,0,0.0
+leps2,Akali,NORP,12,12,0,0.0
+leps2,SSP,ORG,3,3,0,0.0
+leps2,United Front,ORG,10,10,0,0.0
+leps2,Aya Ram,PERSON,4,4,0,0.0
+leps2,Gaya Ram,PERSON,4,4,0,0.0
+leps2,Gaya Lal,PERSON,3,3,0,0.0
+leps2,Sanjeeva Reddy,PERSON,4,4,0,0.0
+leps2,Syndicate,ORG,11,11,0,0.0
+leps2,Lohia,ORG,5,5,0,0.0
+leps2,Nijalingappa,GPE,5,5,0,0.0
+leps2,V.V,ORG,5,5,0,0.0
+leps2,Giri,ORG,5,5,0,0.0
+leps2,Mysore,PERSON,4,4,0,0.0
+leps2,Desai,PERSON,14,14,0,0.0
+leps2,MPs,ORG,4,4,0,0.0
+leps2,Grand Alliance,ORG,5,5,0,0.0
+leps2,Bharatiya Kranti Dal,ORG,3,3,0,0.0
+leps2,Garibi Hatao,PERSON,3,3,0,0.0
+leps2,Jai Jawan,PERSON,3,3,0,0.0
+leps2,Jai Kisan,PERSON,3,3,0,0.0
+leps2,Naga,PERSON,3,3,0,0.0
+leps2,Railway Strike,PERSON,3,3,0,0.0
+leps2,Directive Principles,ORG,5,5,0,0.0
+leps2,High Courts,ORG,3,3,0,0.0
+leps2,Padma,GPE,3,3,0,0.0
+leps2,Mandal Commission,ORG,9,9,0,0.0
+leps2,Siddharth,ORG,4,4,0,0.0
+leps2,Vikram,ORG,3,3,0,0.0
+leps2,Nagaland,GPE,9,9,0,0.0
+leps2,Kashmir valley,LOC,6,6,0,0.0
+leps2,Kashmiris,PERSON,3,3,0,0.0
+leps2,Sheikh Abdullah,PERSON,9,9,0,0.0
+leps2,National Conference,ORG,11,11,0,0.0
+leps2,Dravidian,NORP,8,8,0,0.0
+leps2,Dravida,PERSON,7,7,0,0.0
+leps2,Dravida Munnetra Kazhagam,PERSON,6,6,0,0.0
+leps2,Dravidar Kazhagam,PERSON,3,3,0,0.0
+leps2,J&K,ORG,6,6,0,0.0
+leps2,Accession,WORK_OF_ART,5,5,0,0.0
+leps2,Farooq Abdullah,PERSON,4,4,0,0.0
+leps2,Kashmiri,ORG,3,3,0,0.0
+leps2,Mufti Mohammed,PERSON,3,3,0,0.0
+leps2,INC,ORG,4,4,0,0.0
+leps2,Mufti,ORG,6,6,0,0.0
+leps2,Akali Dal,PERSON,7,7,0,0.0
+leps2,Akalis,ORG,6,6,0,0.0
+leps2,Anandpur Sahib,ORG,3,3,0,0.0
+leps2,Manmohan Singh,PERSON,3,3,0,0.0
+leps2,North-East,LOC,19,19,0,0.0
+leps2,Mizoram and Arunachal Pradesh,ORG,4,4,0,0.0
+leps2,Karbis,ORG,3,3,0,0.0
+leps2,Mizo,PERSON,6,6,0,0.0
+leps2,MNF,ORG,5,5,0,0.0
+leps2,Laldenga,GPE,5,5,0,0.0
+leps2,Phizo,GPE,3,3,0,0.0
+leps2,Nagas,ORG,3,3,0,0.0
+leps2,Assamese,NORP,6,6,0,0.0
+leps2,AASU,ORG,3,3,0,0.0
+leps2,Sikkim,PERSON,15,15,0,0.0
+leps2,Chogyal,ORG,5,5,0,0.0
+leps2,Indian Parliament,ORG,3,3,0,0.0
+leps2,Goa,PERSON,9,9,0,0.0
+leps2,National Front,ORG,11,11,0,0.0
+leps2,Finance,ORG,3,3,0,0.0
+leps2,Babri Masjid,ORG,8,8,0,0.0
+leps2,Hindutva,NORP,6,6,0,0.0
+leps2,NDA,ORG,7,7,0,0.0
+leps2,UPA,ORG,3,3,0,0.0
+leps2,Bahujan Samaj Party,ORG,5,5,0,0.0
+leps2,BSP,ORG,9,9,0,0.0
+leps2,Kanshi Ram,ORG,3,3,0,0.0
+leps2,Bahujan,NORP,6,6,0,0.0
+leps2,Masjid,PERSON,8,8,0,0.0
+leps2,Rao,PERSON,5,5,0,0.0
+leps2,Shiv Sena,PERSON,3,3,0,0.0
+leps2,Biju Janata Dal,PERSON,3,3,0,0.0
+leps2,BJD,ORG,3,3,0,0.0
+leps2,Bharatiya Janata,PERSON,6,6,0,0.0
+leps2,Munnetra Kazhagam,PERSON,7,7,0,0.0
+leps2,Princely States,GPE,18,19,1,-0.056
+leps2,Nehru,PERSON,67,68,1,-0.015
+leps2,Lok Sabha,PERSON,51,52,1,-0.02
+leps2,Sabha,ORG,56,57,1,-0.018
+leps2,Second World War,EVENT,2,3,1,-0.5
+leps2,Russia,GPE,2,3,1,-0.5
+leps2,Chinese,NORP,20,21,1,-0.05
+leps2,Total Revolution,EVENT,2,3,1,-0.5
+leps2,Tamil,GPE,19,20,1,-0.053
+leps2,BJP,ORG,36,37,1,-0.028
+leps2,Backward Classes,PERSON,8,9,1,-0.125
+leps2,Indian States,GPE,2,3,1,-0.5
+leps2,Jawaharlal Nehru,PERSON,13,15,2,-0.154
+leps2,nonCongress,ORG,3,6,3,-1.0
+leps2,Rishi,PERSON,0,3,3,

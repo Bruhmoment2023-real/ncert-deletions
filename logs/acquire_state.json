@@ -1,0 +1,618 @@
+{
+ "fess1": {
+  "done": true,
+  "rat2023": [
+   "20231223073812",
+   "accepted"
+  ],
+  "old": [
+   "20200616235132",
+   "accepted"
+  ]
+ },
+ "fesc1": {
+  "done": true,
+  "rat2023": [
+   "20231223073206",
+   "accepted"
+  ],
+  "old": [
+   "20220803191642",
+   "accepted"
+  ]
+ },
+ "gess1": {
+  "done": true,
+  "rat2023": [
+   "20231223073926",
+   "accepted"
+  ],
+  "old": [
+   "20220804013741",
+   "accepted"
+  ]
+ },
+ "gess2": {
+  "done": true,
+  "rat2023": [
+   "20231223073454",
+   "accepted"
+  ],
+  "old": [
+   "20220802222801",
+   "accepted"
+  ]
+ },
+ "gess3": {
+  "done": true,
+  "rat2023": [
+   "20231223073406",
+   "accepted"
+  ],
+  "old": [
+   "20220802181154",
+   "accepted"
+  ]
+ },
+ "gesc1": {
+  "done": true,
+  "rat2023": [
+   "20231223073924",
+   "accepted"
+  ],
+  "old": [
+   "20200616141637",
+   "accepted"
+  ]
+ },
+ "hess2": {
+  "done": true,
+  "rat2023": [
+   "20231223073402",
+   "accepted"
+  ],
+  "old": [
+   "20220802182615",
+   "accepted"
+  ]
+ },
+ "hess4": {
+  "done": true,
+  "rat2023": [
+   "20231223073921",
+   "accepted"
+  ],
+  "old": [
+   "20210816065703",
+   "accepted"
+  ]
+ },
+ "iess1": {
+  "done": true,
+  "rat2023": [
+   "20231223073650",
+   "accepted"
+  ],
+  "old": [
+   "20220802232730",
+   "accepted"
+  ]
+ },
+ "iess3": {
+  "done": true,
+  "rat2023": [
+   "20231223073658",
+   "accepted"
+  ],
+  "old": [
+   "20220802180638",
+   "accepted"
+  ]
+ },
+ "iess4": {
+  "done": true,
+  "rat2023": [
+   "20231223074111",
+   "accepted"
+  ],
+  "old": [
+   "20220909215049",
+   "accepted"
+  ]
+ },
+ "jess3": {
+  "done": true,
+  "rat2023": [
+   "20231223073634",
+   "accepted"
+  ],
+  "old": [
+   "20220824131503",
+   "accepted"
+  ]
+ },
+ "jesc1": {
+  "done": true,
+  "rat2023": [
+   "20231223074000",
+   "accepted"
+  ],
+  "old": [
+   "20220802195955",
+   "accepted"
+  ]
+ },
+ "kehs1": {
+  "done": true,
+  "rat2023": [
+   "20231223073237",
+   "accepted"
+  ],
+  "old": [
+   "20220802234409",
+   "accepted"
+  ]
+ },
+ "keps1": {
+  "done": true,
+  "rat2023": [
+   "20231223073312",
+   "accepted"
+  ],
+  "old": [
+   "20220801074457",
+   "accepted"
+  ]
+ },
+ "keps2": {
+  "done": true,
+  "rat2023": [
+   "20231223073528",
+   "accepted"
+  ],
+  "old": [
+   "20220802181520",
+   "accepted"
+  ]
+ },
+ "kesy1": {
+  "done": true,
+  "rat2023": [
+   "20231223073731",
+   "accepted"
+  ],
+  "old": [
+   "20220802174927",
+   "accepted"
+  ]
+ },
+ "kesy2": {
+  "done": true,
+  "rat2023": [
+   "20240524064615",
+   "accepted"
+  ],
+  "old": [
+   "20220820155839",
+   "accepted"
+  ]
+ },
+ "kegy1": {
+  "done": true,
+  "rat2023": [
+   "20231223073108",
+   "accepted"
+  ],
+  "old": [
+   "20230325153936",
+   "accepted"
+  ]
+ },
+ "keec1": {
+  "done": true,
+  "rat2023": [
+   "20231223084036",
+   "accepted"
+  ],
+  "old": [
+   "20220802175732",
+   "accepted"
+  ]
+ },
+ "kech1": {
+  "done": true,
+  "rat2023": [
+   "20231223073727",
+   "accepted"
+  ],
+  "old": [
+   "20230114105119",
+   "accepted"
+  ]
+ },
+ "kech2": {
+  "done": true,
+  "rat2023": [
+   "20231223073326",
+   "accepted"
+  ],
+  "old": [
+   "20230228030142",
+   "accepted"
+  ]
+ },
+ "leps1": {
+  "done": true,
+  "rat2023": [
+   "20231223073115",
+   "accepted"
+  ],
+  "old": [
+   "20230325094632",
+   "accepted"
+  ]
+ },
+ "leps2": {
+  "done": true,
+  "rat2023": [
+   "20231223073326",
+   "accepted"
+  ],
+  "old": [
+   "20230325094639",
+   "accepted"
+  ]
+ },
+ "legy2": {
+  "done": true,
+  "rat2023": [
+   "20231223073800",
+   "accepted"
+  ],
+  "old": [
+   "20230325094631",
+   "accepted"
+  ]
+ },
+ "lech1": {
+  "done": true,
+  "rat2023": [
+   "20231223073326",
+   "accepted"
+  ],
+  "old": [
+   "20230311140746",
+   "accepted"
+  ]
+ },
+ "lech2": {
+  "done": true,
+  "rat2023": [
+   "20231223073358",
+   "accepted"
+  ],
+  "old": [
+   "20230311143411",
+   "accepted"
+  ]
+ },
+ "leph1": {
+  "done": true,
+  "rat2023": [
+   "20231223073912",
+   "accepted"
+  ],
+  "old": [
+   "20230228041245",
+   "accepted"
+  ]
+ },
+ "leph2": {
+  "done": true,
+  "rat2023": [
+   "20231223074017",
+   "accepted"
+  ],
+  "old": [
+   "20230325105221",
+   "accepted"
+  ]
+ },
+ "lhhs1": {
+  "done": true,
+  "rat2023": [
+   "20231223073056",
+   "accepted"
+  ],
+  "old": [
+   "20220513033142",
+   "accepted"
+  ]
+ },
+ "lhps1": {
+  "done": true,
+  "rat2023": [
+   "20231223073713",
+   "accepted"
+  ],
+  "old": [
+   "20210818001902",
+   "accepted"
+  ]
+ },
+ "fess2": {
+  "done": true,
+  "rat2023": [
+   "20231223073358",
+   "accepted"
+  ],
+  "old": [
+   "20200616142231",
+   "accepted"
+  ]
+ },
+ "fess3": {
+  "done": true,
+  "rat2023": [
+   "20231223073750",
+   "accepted"
+  ],
+  "old": [
+   "20200616082100",
+   "accepted"
+  ]
+ },
+ "hess3": {
+  "done": true,
+  "rat2023": [
+   "20231223073449",
+   "accepted"
+  ],
+  "old": [
+   "20220802180114",
+   "accepted"
+  ]
+ },
+ "hesc1": {
+  "done": true,
+  "rat2023": [
+   "20231223073433",
+   "accepted"
+  ],
+  "old": [
+   "20220802182350",
+   "accepted"
+  ]
+ },
+ "iess2": {
+  "done": true,
+  "rat2023": [
+   "20231223073916",
+   "accepted"
+  ],
+  "old": [
+   "20220801154016",
+   "accepted"
+  ]
+ },
+ "iesc1": {
+  "done": true,
+  "rat2023": [
+   "20231223074109",
+   "accepted"
+  ],
+  "old": [
+   "20220909215434",
+   "accepted"
+  ]
+ },
+ "jess1": {
+  "done": true,
+  "rat2023": [
+   "20231223073535",
+   "accepted"
+  ],
+  "old": [
+   "20200517011208",
+   "accepted"
+  ]
+ },
+ "jess2": {
+  "done": true,
+  "rat2023": [
+   "20230428160841",
+   "accepted"
+  ],
+  "old": [
+   "20220801153945",
+   "accepted"
+  ]
+ },
+ "jess4": {
+  "done": true,
+  "rat2023": [
+   "20231223074046",
+   "accepted"
+  ],
+  "old": [
+   "20220803135039",
+   "accepted"
+  ]
+ },
+ "kegy2": {
+  "done": true,
+  "rat2023": [
+   "20231229225831",
+   "accepted"
+  ],
+  "old": [
+   "20220821064619",
+   "accepted"
+  ]
+ },
+ "kebo1": {
+  "done": true,
+  "rat2023": [
+   "20230512082219",
+   "accepted"
+  ],
+  "old": [
+   "20230113162941",
+   "accepted"
+  ]
+ },
+ "keph1": {
+  "done": true,
+  "rat2023": [
+   "20231223074001",
+   "accepted"
+  ],
+  "old": [
+   "20220803135009",
+   "accepted"
+  ]
+ },
+ "keph2": {
+  "done": true,
+  "rat2023": [
+   "20231223073233",
+   "accepted"
+  ],
+  "old": [
+   "20230228041225",
+   "accepted"
+  ]
+ },
+ "lehs1": {
+  "done": true,
+  "rat2023": [
+   "20231223074033",
+   "accepted"
+  ],
+  "old": [
+   "20210819024536",
+   "accepted"
+  ]
+ },
+ "lehs2": {
+  "done": true,
+  "rat2023": [
+   "20231223073658",
+   "accepted"
+  ],
+  "old": [
+   "20211009192313",
+   "accepted"
+  ]
+ },
+ "lehs3": {
+  "done": true,
+  "rat2023": [
+   "20231223084036",
+   "accepted"
+  ],
+  "old": [
+   "20210816134432",
+   "accepted"
+  ]
+ },
+ "lesy1": {
+  "done": true,
+  "rat2023": [
+   "20231223073209",
+   "accepted"
+  ],
+  "old": [
+   "20210818043623",
+   "accepted"
+  ]
+ },
+ "lesy2": {
+  "done": true,
+  "rat2023": [
+   "20231223073155",
+   "accepted"
+  ],
+  "old": [
+   "20210816042718",
+   "accepted"
+  ]
+ },
+ "legy1": {
+  "done": true,
+  "rat2023": [
+   "20231223073246",
+   "accepted"
+  ],
+  "old": [
+   "20211009192135",
+   "accepted"
+  ]
+ },
+ "leec1": {
+  "done": true,
+  "rat2023": [
+   "20230428160841",
+   "accepted"
+  ],
+  "old": [
+   "20211009190730",
+   "accepted"
+  ]
+ },
+ "leec2": {
+  "done": true,
+  "rat2023": [
+   "20231223073517",
+   "accepted"
+  ],
+  "old": [
+   "20210819030910",
+   "accepted"
+  ]
+ },
+ "lebo1": {
+  "done": true,
+  "rat2023": [
+   "20231223073230",
+   "accepted"
+  ],
+  "old": [
+   "20211009191819",
+   "accepted"
+  ]
+ },
+ "lhhs2": {
+  "done": true,
+  "rat2023": [
+   "20231223073931",
+   "accepted"
+  ],
+  "old": [
+   "20220605174429",
+   "accepted"
+  ]
+ },
+ "lhhs3": {
+  "done": true,
+  "rat2023": [
+   "20231223073056",
+   "accepted"
+  ],
+  "old": [
+   "20220420062525",
+   "accepted"
+  ]
+ },
+ "lhps2": {
+  "done": true,
+  "rat2023": [
+   "20231223073056",
+   "accepted"
+  ],
+  "old": [
+   "20211009192335",
+   "accepted"
+  ]
+ }
+}

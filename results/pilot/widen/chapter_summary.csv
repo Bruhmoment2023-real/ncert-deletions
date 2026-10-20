@@ -1,0 +1,40 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+jess4,Democratic Politics II (Class 10),old,rat2023,jess401,0,jess401,jess401,0.9757,0,412,0,0.0,0,4194,3817,48,0,0,0
+jess4,Democratic Politics II (Class 10),old,rat2023,jess402,0,jess402,jess402,0.9749,0,359,0,0.0,0,5281,4980,58,0,0,0
+jess4,Democratic Politics II (Class 10),old,rat2023,jess403,0,,jess401,0.0162,1,308,298,0.9675,10,0,0,0,0,0,31
+jess4,Democratic Politics II (Class 10),old,rat2023,jess404,0,jess403,jess403,0.9075,0,519,23,0.0443,7,5584,5133,69,1,1,4
+jess4,Democratic Politics II (Class 10),old,rat2023,jess405,0,,jess403,0.0112,1,445,440,0.9888,5,0,0,0,1,0,42
+jess4,Democratic Politics II (Class 10),old,rat2023,jess406,0,jess404,jess404,0.9741,0,501,4,0.008,0,5877,5387,50,0,0,2
+jess4,Democratic Politics II (Class 10),old,rat2023,jess407,0,jess405,jess405,0.9532,0,598,19,0.0318,0,3908,3360,61,1,0,2
+jess4,Democratic Politics II (Class 10),old,rat2023,jess408,0,,jess405,0.0524,1,191,174,0.911,17,0,0,0,2,1,18
+jess4,Democratic Politics II (Class 10),old,rat2023,jess4ps,1,jess4 ps,jess4 ps,0.8834,0,883,28,0.0317,0,3224,2410,67,5,0,1
+kehs1,Themes in World History (Class 11),old,rat2023,kehs101,0,,kehs101,0.2586,1,6896,5226,0.7578,1670,0,0,0,7,121,427
+kehs1,Themes in World History (Class 11),old,rat2023,kehs102,0,kehs101,kehs101,0.9985,0,5215,8,0.0015,0,10887,2288,345,2,0,1
+kehs1,Themes in World History (Class 11),old,rat2023,kehs103,0,kehs102,kehs102,0.7939,0,9019,95,0.0105,1746,8179,983,417,4,94,36
+kehs1,Themes in World History (Class 11),old,rat2023,kehs104,0,,kehs103,0.0021,1,9341,9254,0.9907,87,0,0,0,0,0,529
+kehs1,Themes in World History (Class 11),old,rat2023,kehs105,0,kehs103,kehs103,0.9995,0,5957,0,0.0,0,7312,1305,308,0,0,0
+kehs1,Themes in World History (Class 11),old,rat2023,kehs106,0,kehs104,kehs104,0.9992,0,7939,5,0.0006,0,8925,946,540,0,0,1
+kehs1,Themes in World History (Class 11),old,rat2023,kehs107,0,kehs105,kehs105,0.9974,0,4630,8,0.0017,0,6071,1437,266,2,0,2
+kehs1,Themes in World History (Class 11),old,rat2023,kehs108,0,,kehs106,0.0058,1,5909,5841,0.9885,68,0,0,0,1,0,369
+kehs1,Themes in World History (Class 11),old,rat2023,kehs109,0,,kehs107,0.0055,1,5800,5749,0.9912,51,0,0,0,1,0,324
+kehs1,Themes in World History (Class 11),old,rat2023,kehs110,0,kehs106,kehs106,1.0,0,4671,0,0.0,0,9314,4506,276,0,0,0
+kehs1,Themes in World History (Class 11),old,rat2023,kehs111,0,kehs107,kehs107,0.9818,0,10483,148,0.0141,5,12089,1683,688,5,0,34
+kehs1,Themes in World History (Class 11),old,rat2023,kehs1ps,1,kehs1ps,kehs1ps,0.9246,0,2865,127,0.0443,0,3055,265,211,16,0,20
+jesc1,Science (Class 10),old,rat2023,jesc101,0,jesc101,jesc101,1.0,0,5123,0,0.0,0,5123,0,485,0,0,0
+jesc1,Science (Class 10),old,rat2023,jesc102,0,jesc102,jesc102,1.0,0,6444,0,0.0,0,6444,0,557,0,0,0
+jesc1,Science (Class 10),old,rat2023,jesc103,0,jesc103,jesc103,1.0,0,7027,0,0.0,0,7027,0,646,0,0,0
+jesc1,Science (Class 10),old,rat2023,jesc104,0,jesc104,jesc104,1.0,0,7449,0,0.0,0,7449,0,608,0,0,0
+jesc1,Science (Class 10),old,rat2023,jesc105,0,,jesc103,0.0273,1,4800,4606,0.9596,194,0,0,0,2,4,317
+jesc1,Science (Class 10),old,rat2023,jesc106,0,jesc105,jesc105,0.9939,0,8658,19,0.0022,1,8658,19,619,9,0,0
+jesc1,Science (Class 10),old,rat2023,jesc107,0,jesc106,jesc106,0.9929,0,5075,16,0.0032,0,5081,21,385,7,0,0
+jesc1,Science (Class 10),old,rat2023,jesc108,0,jesc107,jesc107,0.9889,0,6107,15,0.0025,0,6107,16,442,5,0,1
+jesc1,Science (Class 10),old,rat2023,jesc109,0,jesc108,jesc108,0.344,0,7572,4802,0.6342,98,2624,12,231,12,0,333
+jesc1,Science (Class 10),old,rat2023,jesc110,0,jesc109,jesc109,0.9875,0,10212,54,0.0053,6,10212,64,832,24,2,2
+jesc1,Science (Class 10),old,rat2023,jesc111,0,jesc110,jesc110,0.8404,0,5169,754,0.1459,37,4368,30,339,19,0,44
+jesc1,Science (Class 10),old,rat2023,jesc112,0,jesc111,jesc111,0.9496,0,8072,298,0.0369,14,7830,82,625,20,0,15
+jesc1,Science (Class 10),old,rat2023,jesc113,0,jesc112,jesc112,0.6622,0,7533,2393,0.3177,82,4884,43,385,38,0,176
+jesc1,Science (Class 10),old,rat2023,jesc114,0,,jesc107,0.0072,1,5574,5481,0.9833,93,0,0,0,2,1,381
+jesc1,Science (Class 10),old,rat2023,jesc115,0,jesc113,jesc113,0.9928,0,3197,9,0.0028,0,3197,9,241,3,0,1
+jesc1,Science (Class 10),old,rat2023,jesc116,0,,jesc104,0.0102,1,6108,5972,0.9777,136,0,0,0,3,4,348
+jesc1,Science (Class 10),old,rat2023,jesc1an,1,jesc1an,jesc1an,0.8046,0,394,55,0.1396,0,341,18,58,5,0,4
+jesc1,Science (Class 10),old,rat2023,jesc1ps,1,jesc1ps,jesc1ps,0.9367,0,2498,57,0.0228,0,2622,216,197,7,0,8

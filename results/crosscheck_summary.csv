@@ -1,0 +1,5 @@
+﻿pipeline_label,present(>=97),partial(69-96),absent(<=68),n
+kept,16512,288,0,16800
+reworded,112,588,142,842
+moved,467,30,0,497
+deleted,1,1026,14322,15349

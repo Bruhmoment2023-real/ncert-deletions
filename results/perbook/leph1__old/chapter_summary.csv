@@ -1,0 +1,11 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+leph1,Physics Part I,old,rat2023,leph101,0,leph101,leph101,0.8481,0,21822,2930,0.1343,48,18808,197,1460,33,2,175
+leph1,Physics Part I,old,rat2023,leph102,0,leph102,leph102,0.861,0,16378,2003,0.1223,91,14009,84,1257,33,2,148
+leph1,Physics Part I,old,rat2023,leph103,0,leph103,leph103,0.6648,0,14917,4290,0.2876,126,10306,206,929,79,0,363
+leph1,Physics Part I,old,rat2023,leph104,0,leph104,leph104,0.6918,0,17473,4892,0.28,258,11891,138,989,51,0,359
+leph1,Physics Part I,old,rat2023,leph105,0,leph105,leph105,0.5223,0,12814,5432,0.4239,366,6624,91,557,64,0,453
+leph1,Physics Part I,old,rat2023,leph106,0,leph106,leph106,0.7488,0,10834,2386,0.2202,135,8228,97,681,29,1,191
+leph1,Physics Part I,old,rat2023,leph107,0,leph107,leph107,0.6796,0,13015,3609,0.2773,164,8822,110,881,59,0,321
+leph1,Physics Part I,old,rat2023,leph108,0,leph108,leph108,0.7171,0,8088,2095,0.259,91,5795,47,449,12,1,129
+leph1,Physics Part I,old,rat2023,leph1an,1,,leph1an,0.1992,1,7229,5553,0.7682,1676,0,0,0,27,81,531
+leph1,Physics Part I,old,rat2023,leph1ps,1,leph1ps,leph1ps,0.9046,0,3931,97,0.0247,0,4004,244,253,8,0,4

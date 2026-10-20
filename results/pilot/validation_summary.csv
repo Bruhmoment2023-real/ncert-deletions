@@ -1,0 +1,11 @@
+round,stratum,population_units,sampled,pipeline_label_confirmed,not_confirmed,uncertain,error_rate
+round1_development (pipeline v1),deleted,403,40,39,1,0,0.025
+round1_development (pipeline v1),deleted_dropped_chapter,2745,10,10,0,0,0.0
+round1_development (pipeline v1),kept,11283,20,20,0,0,0.0
+round1_development (pipeline v1),moved,3,3,0,3,0,1.0
+round1_development (pipeline v1),reworded,91,20,8,12,0,0.6
+"round2_fresh_sample (pipeline v2, final)",deleted,395,40,40,0,0,0.0
+"round2_fresh_sample (pipeline v2, final)",deleted_dropped_chapter,2738,10,10,0,0,0.0
+"round2_fresh_sample (pipeline v2, final)",kept,11307,20,20,0,0,0.0
+"round2_fresh_sample (pipeline v2, final)",moved,3,3,0,3,0,1.0
+"round2_fresh_sample (pipeline v2, final)",reworded,43,20,10,7,3,0.35

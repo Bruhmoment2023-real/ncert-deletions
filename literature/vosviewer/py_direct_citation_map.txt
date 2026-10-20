@@ -1,0 +1,199 @@
+id	label	description	url	cluster	weight<Local citations>	weight<Global citations>	score<Pub. year>
+1	qazi (2021)	Exploring the role of India’s secondary school compulsory curriculum textbooks in students’ national identity constructions in an overseas school	https://doi.org/10.1002/berj.3703	2	0	3	2021
+2	yadav (2026)	Curricular discourses of inclusion in India: A content analysis of the Class 7 textbook ‘exploring society—India and beyond’	https://doi.org/10.1002/curj.70041	2	0	0	2026
+3	kumar (2018)	Indian Social Studies Curriculum in Transition: Effects of a Paradigm Shift in Curriculum Discourse	https://doi.org/10.1007/978-3-030-01983-9_6	3	0	11	2018
+4	lebedeva (2021)	Corpus-Based Evaluation of Textbook Content: A Case of Russian Language Primary School Textbooks for Migrants	https://doi.org/10.1007/978-3-030-66022-2_12	1	0	4	2021
+5	suresh (2015)	Automatic Generation of Multimodal Learning Objects from Electronic Textbooks	https://doi.org/10.1007/978-81-322-2671-0_41	1	0	0	2015
+6	banerjee (2016)	The Portrayal of “The Other” in Pakistani and Indian School Textbooks	https://doi.org/10.1007/978-94-6300-509-8_7	2	1	5	2016
+7	tripathi (2018)	Manufacturing Enemy: The Presentation of India in Pakistani Textbooks	https://doi.org/10.1007/978-981-13-1547-3_6	2	2	8	2018
+8	banerjee (2019)	Challenges in School Mathematics Curriculum Reform in India: Transforming Teacher Practices Through Pedagogical Innovations	https://doi.org/10.1007/978-981-13-6312-2_12	3	0	4	2019
+9	chowdhuri (2022)	Exploring modes of engagement within reform-oriented primary mathematics textbooks in India	https://doi.org/10.1007/s10649-021-10135-z	2	1	5	2022
+10	chhabra (2017)	A human rights and history education model for teaching about historical events of mass violence: The 1947 British India Partition	https://doi.org/10.1007/s11125-018-9424-2	2	0	7	2017
+11	brock (2024)	Using Text Mining to Identify Teleological Explanations in Physics and Biology Textbooks: An Exploratory Study	https://doi.org/10.1007/s11191-024-00513-3	1	0	1	2024
+12	suwarno (2021)	Gender Construction in the Indonesian Government-Distributed English Textbook: Combining Critical Discourse Analysis and Corpus Linguistics	https://doi.org/10.1007/s12119-021-09870-5	1	0	21	2021
+13	košir (2024)	Manifestation of Women’s Rights in School Textbooks? Evidence from Social Science Textbooks in India	https://doi.org/10.1007/s12142-024-00726-7	2	1	3	2024
+14	chan (2020)	Revisiting the notion of ESL: A corpus-based analysis of English textbook instructional language	https://doi.org/10.1016/j.amper.2020.100066	1	0	9	2020
+15	skorczynska (2009)	A corpus-based evaluation of metaphors in a business English textbook	https://doi.org/10.1016/j.esp.2009.05.003	1	1	102	2009
+16	košir (2020)	Inclusion of ‘generations of human rights’ in social science textbooks	https://doi.org/10.1016/j.ijedudev.2020.102295	2	3	12	2020
+17	green (2019)	A multilevel description of textbook linguistic complexity across disciplines: Leveraging NLP to support disciplinary literacy	https://doi.org/10.1016/j.linged.2019.100748	1	1	23	2019
+18	chen (2016)	A critical evaluation of text difficulty development in ELT textbook series: A corpus-based approach using variability neighbor clustering	https://doi.org/10.1016/j.system.2016.03.011	1	3	53	2016
+19	khory (2026)	“Safe Space” Hindutva? Hindu Nationalism in the United States Today	https://doi.org/10.1017/pub.2026.10226	2	0	0	2026
+20	haas (2023)	My History or Our History? Historical Revisionism and Entitlement to Lead	https://doi.org/10.1017/s000305542300117x	2	0	15	2023
+21	chhabra (2017)	Text and Contexts: Pedagogical Practices for a History Textbook Lesson on the 1947 British India Partition	https://doi.org/10.1057/978-1-137-55432-1_5	2	1	3	2017
+22	chacko (2015)	Schooling as Counter-Socialization	https://doi.org/10.1057/9781137477156_3	2	1	3	2015
+23	sheng (2025)	A corpus-based assessment of vocabulary in interpreting textbooks	https://doi.org/10.1057/s41599-025-05152-9	1	0	2	2025
+24	foll (2024)	Textbook English	https://doi.org/10.1075/scl.116	1	0	8	2024
+25	römer (2004)	Comparing real and ideal language learner input: The use of an EFL textbook corpus in corpus linguistics and language teaching	https://doi.org/10.1075/scl.17.12rom	1	6	106	2004
+26	bhattacharya (2019)	‘My school is a big school’: imagined communities, inclusion, and ideology in Indian textbooks	https://doi.org/10.1080/00220272.2019.1567822	2	1	4	2019
+27	wangdu (2019)	Decoloniality, power and ideology in the social studies textbooks of Tibetan exile schools	https://doi.org/10.1080/00220272.2019.1657958	2	0	9	2019
+28	qazi (2020)	Exploring links between national education and students’ militaristic national identity constructions – a case study of Pakistani state schools in Islamabad	https://doi.org/10.1080/00220272.2020.1755997	2	1	17	2020
+29	nayak (2021)	Caste biases in school textbooks: a case study from Odisha, India	https://doi.org/10.1080/00220272.2021.1947389	2	2	6	2021
+30	lakshminarayanan (2025)	Political narratives and the authorship of history textbooks-a case study from India	https://doi.org/10.1080/00220272.2025.2486093	2	0	1	2025
+31	patel (2024)	Inclusive or exclusionary? A study of representation of disability in Indian primary school textbooks	https://doi.org/10.1080/03004279.2024.2412696	2	1	2	2024
+32	kamat (2004)	Postcolonial aporias, or what does fundamentalism have to do with globalization? the contradictory consequences of education reform in India	https://doi.org/10.1080/0305006042000231383	3	3	20	2004
+33	kamat (2010)	Religion, education and the politics of recognition: a critique and a counter‐proposal	https://doi.org/10.1080/03050068.2010.503746	2	1	12	2010
+34	lall (2007)	Educate to hate: the use of education in the creation of antagonistic national identities in India and Pakistan	https://doi.org/10.1080/03057920701467834	2	4	120	2007
+35	syeed (2018)	Conflict between covers: Confronting official curriculum in Indian textbooks	https://doi.org/10.1080/03626784.2018.1546099	2	2	11	2018
+36	košir (2022)	Do visual constructs in social science textbooks evince gender stereotypes and bias? A case study from India	https://doi.org/10.1080/09540253.2022.2144626	2	3	19	2022
+37	jose (2024)	Artistic mutilation of genitalia: an interpretive analysis of representations of genitalia in Indian school science textbooks	https://doi.org/10.1080/09540253.2024.2384733	2	0	1	2024
+38	liu (2015)	Schooling and politics: textbooks and national identity in the Tibetan schools in India	https://doi.org/10.1080/09584935.2015.1090949	2	1	4	2015
+39	seethalakshmi (2022)	NEP 2020 and school education – Through the eyes of academicians from Tamil Nadu	https://doi.org/10.1080/09720510.2022.2079236	3	1	5	2022
+40	d’apice (2023)	Climate change discourse in U.S. history textbooks from California and Texas	https://doi.org/10.1080/13504622.2023.2206595	1	1	16	2023
+41	bhog (2014)	Writing gender in: reflections on writing middle-school political science textbooks in India	https://doi.org/10.1080/13552074.2014.891830	2	3	20	2014
+42	sarkar (2023)	Learning for all? Ableism, education policy, and the 'global learning crisis' in India	https://doi.org/10.1080/13603116.2023.2274109	3	0	5	2023
+43	mahajan (2023)	Knowledge and power in a girls’ madrasa in India: a critical analysis of textbook and curriculum	https://doi.org/10.1080/13617672.2023.2288479	2	0	2	2023
+44	anand (2022)	The debate between secularism and Hindu nationalism – how India’s textbooks have become the government’s medium for political communication	https://doi.org/10.1080/14736489.2021.2018203	2	1	28	2022
+45	chan (2020)	A corpus-based approach to comparing English textbook pedagogies: The case of Hong Kong and the People’s Republic of China	https://doi.org/10.1080/1554480x.2020.1763799	1	1	5	2020
+46	topdar (2015)	Duties of a ‘good citizen’: colonial secondary school textbook policies in late nineteenth-century India	https://doi.org/10.1080/19472498.2015.1030877	2	1	47	2015
+47	bergström (2022)	Do textbooks support incidental vocabulary learning? – a corpus-based study of Swedish intermediate EFL materials	https://doi.org/10.1080/20004508.2022.2163050	1	1	15	2022
+48	biseko (2025)	Vocabulary learning in EFL context: do primary school English Subject textbooks provide structured support?	https://doi.org/10.1080/2331186x.2025.2455047	1	0	6	2025
+49	advani (2009)	Schooling the National Imagination	https://doi.org/10.1093/acprof:oso/9780198062752.001.0001	2	3	45	2009
+50	bhattacharya (2009)	Teaching History in Schools: the Politics of Textbooks in India	https://doi.org/10.1093/hwj/dbn050	4	9	40	2009
+51	thapar (2009)	The History Debate and School Textbooks in India: a Personal Memoir	https://doi.org/10.1093/hwj/dbn054	4	10	38	2009
+52	ruzzetti (2024)	Using Distributional Models for Studying the Influence of School Textbooks in Children Bias	https://doi.org/10.1109/access.2024.3413291	1	0	1	2024
+53	larrañaga (2013)	Automatic Generation of the Domain Module from Electronic Textbooks: Method and Validation	https://doi.org/10.1109/tkde.2013.36	1	2	27	2013
+54	larrañaga (2022)	A Qualitative Case Study on the Validation of Automatically Generated Multiple-Choice Questions From Science Textbooks	https://doi.org/10.1109/tlt.2022.3171589	1	0	9	2022
+55	stanton (2014)	The Curricular Indian Agent: Discursive Colonization and Indigenous (Dys)Agency in U.S. History Textbooks	https://doi.org/10.1111/curi.12064	2	1	70	2014
+56	guichard (2012)	The I ndian nation and selective amnesia: representing conflicts and violence in I ndian history textbooks	https://doi.org/10.1111/j.1469-8129.2012.00556.x	2	1	9	2012
+57	muralidharan (2021)	India's new National Education Policy: Evidence and challenges	https://doi.org/10.1126/science.abf6655	3	2	41	2021
+58	meunier (2007)	The treatment of phraseology in ELT textbooks	https://doi.org/10.1163/9789401203906_009	1	1	58	2007
+59	naseem (2010)	Construction of the ‘Other’ in History Textbooks in India and Pakistan	https://doi.org/10.1163/9789460912498_004	2	1	5	2010
+60	yadav (2025)	A Content Analysis of Inclusion in NCERT’s Exploring Society: India and Beyond (Class 6 Social Science Textbook)	https://doi.org/10.11648/j.ijse.20250901.11	2	1	1	2025
+61	bhardwaj (2024)	Curriculum and NEP 2020: Perspectives and Inter-connections	https://doi.org/10.1177/00195561241230244	3	2	11	2024
+62	lu (2020)	A Corpus-based Study of Vocabulary in the New Concept English Textbook Series	https://doi.org/10.1177/0033688220964162	1	3	56	2020
+63	salam (2025)	Occlusive Narratives: School Textbooks and National Identities	https://doi.org/10.1177/00380229241310464	2	0	1	2025
+64	raveendran (2015)	Reproducing Values: A Feminist Critique of a Higher Secondary Biology Textbook Chapter on Reproductive Health	https://doi.org/10.1177/0971521515578244	2	1	10	2015
+65	menon (2003)	Prejudice and Pride: School Histories of the Freedom Struggle in India and Pakistan	https://doi.org/10.1177/097318490300100107	2	2	22	2003
+66	george (2013)	Illustrating Social Studies in School Textbooks	https://doi.org/10.1177/0973184912465230	2	2	2	2013
+67	hegde (2018)	Curriculum under Siege	https://doi.org/10.1177/0973184918781218	2	1	6	2018
+68	george (2018)	Political Science and Images in Schooling: Personal Reflections on Textbook Making Process	https://doi.org/10.1177/0973184918799429	2	0	0	2018
+69	chowdhuri (2021)	Textures of Transaction: Exploring the Heterogeneity in Primary Teachers’ Engagements with Mathematics Textbooks in Delhi	https://doi.org/10.1177/0973184920984517	2	1	2	2021
+70	gupta (2021)	The Role of Pedagogy in Developing Life Skills	https://doi.org/10.1177/0973801020974786	2	1	31	2021
+71	behera (2023)	From Problem Solving to Problem Posing: Navigating in Indian School Mathematics	https://doi.org/10.1177/10567879231217488	2	0	0	2023
+72	parodi (2010)	The rhetorical organization of the Textbook genre across disciplines: A ‘colony-in-loops’?	https://doi.org/10.1177/1461445609356500	1	1	35	2010
+73	hu (2021)	Lexical Coverage and Readability of Science Textbooks for English-Medium Instruction Secondary Schools in Hong Kong	https://doi.org/10.1177/21582440211001867	1	1	25	2021
+74	li (2022)	Improving Modal Verb Treatment in English Textbooks Used by Chinese Learners: A Corpus-Based Approach	https://doi.org/10.1177/21582440221079918	1	0	4	2022
+75	bose (2022)	Cultural Representations in Indian English Language Teaching Textbooks	https://doi.org/10.1177/21582440221082102	2	1	34	2022
+76	lucy (2020)	Content Analysis of Textbooks via Natural Language Processing: Findings on Gender, Race, and Ethnicity in Texas U.S. History Textbooks	https://doi.org/10.1177/2332858420940312	1	7	119	2020
+77	patil (2020)	Hegemonic Past: Exclusion of Subaltern Histories in NCERT Textbooks	https://doi.org/10.1177/2455632719880622	2	0	1	2020
+78	wahlberg (2018)	Conceptual Demography in Upper Secondary Chemistry and Biology Textbooks’ Descriptions of Protein Synthesis: A Matter of Context?	https://doi.org/10.1187/cbe.17-12-0274	1	1	17	2018
+79	oktavianti (2020)	An Analysis of Conversations in Curriculum-based EFL Textbooks for Senior High School in Indonesia and the Comparison with Corpus-based English Textbooks	https://doi.org/10.13189/ujer.2020.080941	1	2	2	2020
+80	crawfurd (2024)	Sexist textbooks: Automated analysis of gender bias in 1,255 books from 34 countries	https://doi.org/10.1371/journal.pone.0310366	1	1	16	2024
+81	kumar (2015)	From 'Following' to Going Beyond the Textbook: Inservice Indian Mathematics Teachers' Professional Development for Teaching Integers	https://doi.org/10.14221/ajte.2015v40n12.7	2	1	11	2015
+82	kumar (2015)	A Synoptic View of Curriculum Studies in South Africa	https://doi.org/10.14288/jaaacs.v6i2.187701	3	1	8	2015
+83	khokhar (2020)	Portrayal of Invaders and Conquerors of Indian Subcontinent: Analysis of History Textbooks Studied in Pakistani Schools	https://doi.org/10.14425/jice.2020.9.2.0612	2	0	2	2020
+84	신동광 (2011)	A Corpus-based Analysis of Curriculum-based Elementary and Secondary English Textbooks	https://doi.org/10.15702/mall.2011.14.1.145	1	2	6	2011
+85	choi (2012)	A Corpus-based Analysis of Collocations in Tenth Grade High School English Textbooks	https://doi.org/10.15702/mall.2012.15.2.41	1	1	5	2012
+86	cancellaro (2015)	Investigating the Gap between L2 Grammar Textbooks and Authentic Speech: Corpus-Based Comparisons of Reported Speech	https://doi.org/10.17323/2411-7390-2015-1-1-6-11	1	0	2	2015
+87	ardi (2023)	Lexical Bundles in Indonesian EFL Textbooks: A Corpus Analysis	https://doi.org/10.17323/jle.2023.16305	1	0	4	2023
+88	norberg (2018)	A Corpus-based Study of Lexis in L2 English Textbooks	https://doi.org/10.17507/jltr.0903.03	1	2	16	2018
+89	rahmat (2021)	Investigating vocabulary coverage and load in an Indonesian EFL textbook series	https://doi.org/10.17509/ijal.v10i3.31768	1	1	17	2021
+90	parizoska (2017)	Idiom Variation in Business English Textbooks: A Corpus-Based Study	https://doi.org/10.18485/esptoday.2017.5.1.3	1	0	9	2017
+91	tzu (2016)	A Corpus-Based Analysis of Discourse Markers in Curriculum-Based English Textbooks and the English Entrance Exam in Taiwan	https://doi.org/10.18823/asiatefl.2016.13.4.2.262	1	0	1	2016
+92	aithal (2020)	Analysis of the Indian National Education Policy 2020 towards Achieving its Objectives	https://doi.org/10.2139/ssrn.3676074	3	3	37	2020
+93	oktavianti (2020)	A Corpus-Based Analysis of Future Tense Markers in Indonesian EFL Textbooks for Senior High School	https://doi.org/10.21462/ijefl.v5i2.250	1	0	4	2020
+94	salvi (2022)	AN ANALYSIS OF INDIAN NATIONAL EDUCATION POLICY 2020	https://doi.org/10.21922/srjis.v9i70.10084	3	1	1	2022
+95	saini (2022)	Analysis of NEP 2020 in the Light of NAAC Accreditation: An Analytical Study of Academicians Opinion	https://doi.org/10.22214/ijraset.2022.48020	3	0	1	2022
+96	das (2025)	Disability and Representation in the School Curriculum: A Study of NCERT English Textbooks up to the Middle School Level	https://doi.org/10.22521/edupij.2025.18.496	2	1	1	2025
+97	ashley (1999)	Superficiality and Bias: The (Mis)Treatment of Native Americans in U. S. Government Textbooks	https://doi.org/10.2307/1185828	2	1	70	1999
+98	ghosh (1995)	Image Ideology and Inequality: Cultural Domination, Hegemony and Schooling in India	https://doi.org/10.2307/2759796	2	1	39	1995
+99	devi (2020)	A Study on Awareness about the Impact of National Education Policy-2020 Among the Stakeholder of Commerce and Management Disciplinary	https://doi.org/10.24018/ejbmr.2020.5.6.640	3	2	24	2020
+100	dassanayake (2024)	TRANSLANGUAGING PRACTICES AND RECONTEXTUALIZING LEARNING MATERIAL: A CORPUS-BASED STUDY OF GLOBAL CHINESE LANGUAGE TEXTBOOKS USED IN SRI LANKA	https://doi.org/10.24071/llt.v27i1.7523	1	0	1	2024
+101	shubha (2021)	Exploration of Phrasal Verbs in ELT Textbooks: A Corpus-Based Analysis of Lower Secondary Level Bangladeshi Books	https://doi.org/10.24256/foster-jelt.v2i4.55	1	0	0	2021
+102	intamanjana (2024)	A Corpus-Based Analysis of Lexical Collocation in Conversation Texts of English Textbooks	https://doi.org/10.26418/jefle.v2i2.51634	1	0	0	2024
+103	singh (2023)	The Exclusion of Bahujan Schoolchildren: An Anti-Caste Critique of the National Education Policy 2020, India	https://doi.org/10.26812/caste.v4i1.411	3	0	6	2023
+104	tungoe (2024)	CURRICULUM AND PEDAGOGICAL DEVELOPMENT IN ELEMENTARY EDUCATION IN INDIA UNDER NEP 2020	https://doi.org/10.29121/granthaalayah.v12.i4.2024.5595	3	0	0	2024
+105	parmar (2024)	PHYSICAL LITERACY AS A CATALYST FOR INCLUSIVE EDUCATION IN FOUNDATIONAL STAGE ALIGNS WITH NEP 2020	https://doi.org/10.29121/shodhkosh.v5.i1.2024.3184	3	0	2	2024
+106	tamrakar (2024)	MULTIDISCIPLINARY EDUCATION: NEW PARADIGMS UNDER NEP 2020	https://doi.org/10.29121/shodhkosh.v5.i2.2024.2221	3	0	2	2024
+107	bose (2008)	Hindutva Abroad: The California Textbook Controversy	https://doi.org/10.2979/gso.2008.2.1.11	2	4	48	2008
+108	nandi (2024)	Gender Representation in English Language Textbooks of Primary Education	https://doi.org/10.31098/jefltr.v4i2.2592	2	1	3	2024
+109	sahoo (2026)	Competency-Based Learning in NCERT Secondary English Textbooks: A Content Analysis in the Light of NEP-2020 And NCFSE 2023	https://doi.org/10.31305/rrijm.2026.v11.n01.034	2	0	0	2026
+110	shajeena (2025)	Integrating Indian Knowledge System and Self-Regulated Learning: A Linguistic Exploration in Malayalam Medium Curriculum Resources	https://doi.org/10.31305/rrjiks.2025.v2.n2.006	3	0	0	2025
+111	bouhlal (2018)	Modality in ESL Textbooks: Insights from a Contrastive Corpus-Based Analysis	https://doi.org/10.3138/cmlr.3075	1	1	5	2018
+112	chhabra (2015)	Memory Practices in History Education about the 1947 British India Partition	https://doi.org/10.3167/jemms.2015.070202	2	1	2	2015
+113	idnani (2021)	Pandemic, policy, and pedagogy: analyzing the tripartite role of covid 19 pandemics, national education policy 2020, and pedagogical innovations vis-a-vis educational implications	https://doi.org/10.33750/ijhi.v4i3.121	3	0	2	2021
+114	yang (2023)	Analyzing the Alignment between AI Curriculum and AI Textbooks through Text Mining	https://doi.org/10.3390/app131810011	1	0	19	2023
+115	radha (2023)	Integrating the Sustainable Development Goals (SDGs) in the Curriculum and Strengthening Teacher Training Programs to Align with NEP 2020	https://doi.org/10.34293/education.v11i4.6302	3	1	20	2023
+116	maruthavanan (2020)	A Study on the Awareness on New Education Policy (2019) among the Secondary School Teachers in Madurai District	https://doi.org/10.34293/education.v8i3.2438	3	2	19	2020
+117	- (2022)	A Critical Study on the Holistic and Multidisciplinary Approach of National Educational Policy 2020 (NEP 2020) in India	https://doi.org/10.36948/ijfmr.2022.v04i06.971	3	1	4	2022
+118	bhattacharyya (2025)	National Education Policy (NEP) 2020: Prospects and Challenges	https://doi.org/10.36948/ijfmr.2025.v07i02.43086	3	0	0	2025
+119	banerjee (2021)	NATIONAL EDUCATION POLICY (2020): A CRITICAL ANALYSIS	https://doi.org/10.37867/te130334	3	1	9	2021
+120	sumalatha (2004)	Sex Bias in Secondary School Social Studies Textbooks:A Case study in India	https://doi.org/10.3844/ajassp.2004.62.63	2	1	28	2004
+121	al‐mahrooqi (2018)	An Evaluation of Preposition Representation in the Omani Basic Education ELT Textbooks	https://doi.org/10.4018/978-1-5225-5846-0.ch018	1	0	0	2018
+122	priya (2016)	Health camps in schools and content analysis of the school textbooks: A cross-sectional study in Tamil Nadu	https://doi.org/10.4103/0970-4388.186756	2	5	13	2016
+123	atodaria (2026)	Content Analysis of School Textbooks for Oral Health Promotion Information, among Six States/Union Territories of North India: A Mixed-method Study	https://doi.org/10.4103/ccd.ccd_100_26	2	0	0	2026
+124	kakodkar (2024)	Transformation in the Teachers’ Role According to the National Education Policy 2020 Guidelines in the Indian Context	https://doi.org/10.4103/jiaphd.jiaphd_214_23	3	1	5	2024
+125	borovina (2008)	Reported Speech: Corpus-Based Findings vs. EFL Textbook Presentations	https://doi.org/10.4312/elope.5.1-2.199-213	1	1	11	2008
+126	anon. (2007)	Textbooks, nationalism and history writing in India and Pakistan	https://doi.org/10.4324/9780203015919-15	2	1	11	2007
+127	anon. (2012)	The Imperial Curriculum	https://doi.org/10.4324/9780203804179	2	1	65	2012
+128	biswas (2020)	Pedagogical Curricula and Educational Media: The Malignancy of Saffronised Otherisation in India	https://doi.org/10.4467/2543408xzop.20.006.13008	2	0	3	2020
+129	singh (2023)	Can There be a Paradigm Shift in the Indian Education System? An Analysis of Socio-Economic Challenges in Implementing National Education Policy 2020	https://doi.org/10.47836/pjssh.31.2.14	3	1	6	2023
+130	bharadwaj (2023)	A Lucid Analysis of the New Education Policy 2020	https://doi.org/10.47992/ijaeml.2581.7000.0185	3	0	0	2023
+131	gandhi (2021)	Review on the Key Features of the National Education Policy 2020 in the Context to Pre-school Education and its Expected Impact	https://doi.org/10.47992/ijmts.2581.6012.0143	3	0	5	2021
+132	le (2022)	Vocabulary Coverage in a High School Vietnamese EFL Textbook: A Corpus-based Preliminary Investigation	https://doi.org/10.52296/vje.2022.187	1	0	4	2022
+133	parihar (2024)	National Education Policy 2020 and Gender Inclusiveness	https://doi.org/10.52783/jier.v4i1.527	2	0	2	2024
+134	prabhakar (2023)	The Intersection of Traditional Wisdom and Modern Education: Unpacking the Potential of Folk Pedagogy in the Context of India’s National Education Policy 2020	https://doi.org/10.53032/tcl.2023.8.2.15	3	1	11	2023
+135	hisar (2022)	Perceived Opportunities of National Education Policy-2020	https://doi.org/10.54986/irjee/2022/jul_sep/145-149	3	0	2	2022
+136	mukundan (2012)	Distribution of Articles in Malaysian Secondary School English Language Textbooks	https://doi.org/10.5539/ells.v2n2p62	1	2	30	2012
+137	mukundan (2009)	Textbook Representation of Prepositions	https://doi.org/10.5539/elt.v2n4p13	1	7	53	2009
+138	mukundan (2011)	Modal Auxiliary Verbs in Prescribed Malaysian English Textbooks	https://doi.org/10.5539/elt.v4n1p79	1	7	41	2011
+139	khojasteh (2012)	Non-empirically Based Teaching Materials Can be Positively Misleading: A Case of Modal Auxiliary Verbs in Malaysian English Language Textbooks	https://doi.org/10.5539/elt.v5n3p62	1	1	6	2012
+140	zarifi (2012)	Phrasal Verbs in Malaysian ESL Textbooks	https://doi.org/10.5539/elt.v5n5p9	1	5	35	2012
+141	alavi (2014)	Analyzing Idioms and Their Frequency in Three Advanced ILI Textbooks: A Corpus-Based Study	https://doi.org/10.5539/elt.v8n1p170	1	1	10	2014
+142	zhang (2018)	Corpus-based Evaluation on Instrumental Texts in Textbook	https://doi.org/10.5539/hes.v8n3p104	1	1	3	2018
+143	nandi (2024)	Gender Stereotypes and Bias in Imagery Depiction of Textbooks prescribed by West Bengal Board of Primary Education, India	https://doi.org/10.56916/jirpe.v3i2.755	2	2	4	2024
+144	verma (2023)	ANALYSIS OF NATIONAL EDUCATION POLICY 2020 IN ATTAINING BETTER PERFORMANCE IN HEIS	https://doi.org/10.56975/ijnrd.v8i3.188136	3	1	2	2023
+145	khojasteh (2015)	The “Permission/Possibility/Ability” Modals in Malaysian English Textbooks: A Corpus-Based Analysis	https://doi.org/10.5782/2223-2621.2014.18.2.56	1	1	1	2015
+146	meitei (2024)	Practical Pedagogical Approaches: Integrating Play-based and Experiential Learning at Pre-Primary Education as per NEP 2020 and NCF-FS 2022	https://doi.org/10.59231/edumania/9082	3	1	5	2024
+147	lissen (2020)	National Education Policy 2020. Construyendo un nuevo sistema educativo en la India	https://doi.org/10.5944/reec.37.2021.29048	3	1	3	2020
+148	parashar (2020)	Evaluating Gender Representation in NCERT Textbooks: A Content Analysis	https://doi.org/10.5958/2321-5828.2020.00051.0	2	2	4	2020
+149	hariramani (2024)	EVALUATING EDUCATORS' PERSPECTIVES ON NEP 2020	https://doi.org/10.62737/8qw4kd91	3	0	1	2024
+150	nandi (2026)	Gender bias in a Grade 7 CBSE English textbook: A content analysis of NCERT’s Honeycomb	https://doi.org/10.63697/jessp.2026.10103	2	0	0	2026
+151	pir (2025)	Cultural Representation in ELT Textbooks in Kashmir: A Case Study	https://doi.org/10.66121/yphwmy74	2	0	0	2025
+152	upadhyay (2026)	Bharatiya Education System Through the Lens of Vedantic Thought: Exploring the Vision of Swami Vivekananda and NEP 2020	https://doi.org/10.66275/pgj.v3i2.18	3	0	0	2026
+153	sharma (2025)	NEP 2020 to NEP 2025: A Review of Policy Shifts and Structural Reforms	https://doi.org/10.69968/ijisem.2025v4i2196-201	3	0	2	2025
+154	zamin (2019)	A Corpus-based Study on the use of Phrasal Verbs in Malaysian Secondary School Textbooks	https://doi.org/10.7575/aiac.ijalel.v.8n.6p.76	1	0	3	2019
+155	majumdar (2025)	NEP 2020: A New Era Of The Indian Education System	https://doi.org/10.9790/0837-3003073541	3	1	1	2025
+156	simpson (2014)	The Marshall Trilogy and Federal Indian Law in 21ˢᵗ Century High School U.S. History Textbooks: Progress (?) Yet Little Has Changed	https://openalex.org/W1498143248	2	0	1	2014
+157	shadowwalker (2012)	Where have all the Indians gone? American Indian representation in secondary history textbooks	https://openalex.org/W1562730127	2	0	2	2012
+158	witzel (2009)	The Hindutva View of History: Rewriting Textbooks in India and the United States	https://openalex.org/W2161966627	2	3	79	2009
+159	hsieh (2011)	A Corpus-Based Analysis Comparing Vocabulary Input from Storybooks and Textbooks	https://openalex.org/W2181529703	1	1	14	2011
+160	sánchez (2012)	LEXICAL FREQUENCY, TEXTBOOKS AND LEARNING FROM A COGNITIVE PERSPECTIVE. A CORPUS-BASED SAMPLE ANALYSIS OF ELT MATERIALS	https://openalex.org/W2183458047	1	2	12	2012
+161	khojasteh (2014)	SEMANTIC FUNCTIONS OF "OBLIGATION/NECESSITY" AND "VOLITION/PREDICTION" MODALS IN MALAYSIAN ENGLISH TEXTBOOKS: A CORPUS-BASED ANALYSIS	https://openalex.org/W2184114554	1	0	0	2014
+162	zarifi (2015)	A Corpus-Based Study of Semantic Treatment of Phrasal Verbs in Malaysian ESL Secondary School Textbooks	https://openalex.org/W2263373378	1	1	1	2015
+163	he (2007)	Corpus-based Analysis on EFL Textbooks	https://openalex.org/W2379390556	1	1	4	2007
+164	kelly (2016)	California's Hindu Textbook Controversy: Redefining Hindu American Identity	https://openalex.org/W2607120628	2	0	1	2016
+165	parhar (1999)	Pedagogical Analysis of Instructional Material in School Education.	https://openalex.org/W275515817	2	1	2	1999
+166	manjrekar (2007)	Ideal child in the ideal nation : gender, class and work in a school lesson	https://openalex.org/W2788423398	2	2	2	2007
+167	zarifi (2013)	Establishing and evaluating phrasal verb use in a Malaysian ESL secondary school textbook corpus	https://openalex.org/W2799440610	1	1	6	2013
+168	siricharoen (2020)	A Corpus-Based Comparative Study of Lexical Bundles in Authentic and Textbook English Business Emails.	https://openalex.org/W3093010269	1	1	34	2020
+169	ghosh (2012)	Activating Citizenship – the nation‟s use of education to create notions of identity and citizenship in south Asia	https://openalex.org/W335940511	2	1	12	2012
+170	juhel (1996)	A Review of the Portrayal of American Indians in a Selection of U.S. History Textbooks and Recommendations for a Supplementary Curriculum.	https://openalex.org/W36115909	2	1	6	1996
+171	menon (2009)	Corpus-Based Analysis of Lexical Patterns in Malaysian Secondary School Science and English for Science and Technology Textbooks	https://openalex.org/W56559917	1	3	13	2009
+172	javaid (2012)	Rife Manifestations of Gender Segregation in Indian Society: Evidence from Textbooks	https://openalex.org/W613096301	2	1	4	2012
+173	mukundan (2009)	Loading and distribution of the 2000 high frequency words in Malaysian English language textbooks for Form 1 to Form 5	https://openalex.org/W93023343	1	2	10	2009
+174	anon. (2011)	A Pedagogic Corpus Analysis: Modal Auxiliary Verbs In Malaysian English Textbooks	https://doi.org/10.26634/jelt.1.2.1460	1	0	3	2011
+175	chen (2020)	Conducting Content Analysis for Chemistry Safety Education Terms and Topics in Chinese Secondary School Curriculum Standards, Textbooks, and Lesson Plans Shows Increased Safety Awareness	https://doi.org/10.1021/acs.jchemed.9b00809	1	1	14	2020
+176	singh (2025)	From policy to practice: Challenges and pathway for advancing multilingual education through India’s national education policy 2020	https://doi.org/10.1177/14782103251320532	3	0	11	2025
+177	lee (2016)	Gender representation in Japanese EFL textbooks – a corpus study	https://doi.org/10.1080/09540253.2016.1214690	1	2	117	2016
+178	wang (2016)	Learning or becoming: Ideology and national identity in textbooks for international learners of Chinese	https://doi.org/10.1080/2331186x.2016.1140361	1	1	35	2016
+179	pareek (2025)	Capitalistic curricula and pedagogies: A comparative study of Indian knowledge systems in English textbooks of Central Board and Rajasthan Board Schools	https://doi.org/10.37074/jalt.2025.8.s1.6	2	1	3	2025
+180	mukherjee (2025)	Pedagogical Perspective on English Language through the Lens of NEP 2020: An Analytical Study	https://doi.org/10.70798/ijomr/020040049	3	1	2	2025
+181	das (2025)	Exploring the Rendition of English Language in NEP 2020: A Qualitative Study	https://doi.org/10.70798/tgjct/01020003	3	1	1	2025
+182	guichard (2010)	The Construction of History and Nationalism in India	https://doi.org/10.4324/9780203848579	2	7	54	2010
+183	flåten (2016)	Hindu Nationalism, History and Identity in India	https://doi.org/10.4324/9781315617695	2	2	45	2016
+184	gupta (2014)	Making reflective citizens: India’s new textbooks for Social and Political Life	https://doi.org/10.4324/9780203734087-13	2	1	6	2014
+185	esfahani (2024)	Content Analysis of Textbooks via Natural Language Processing	https://doi.org/10.47672/ajep.2252	1	0	9	2024
+186	choi (2025)	“Othering” Through War: Depiction of Asians/Asian Americans in U.S. History Textbooks	https://doi.org/10.3102/0013189x251327190	1	0	3	2025
+187	parandhama (2026)	Erasing and shaping national memory: cognitive biases and curriculum politics under right-wing populism in India	https://doi.org/10.3389/fpos.2025.1731252	2	0	0	2026
+188	ku (2018)	The Controversies over Indian History Textbooks and the Description of UNESCO World Heritages in Textbooks of Different Periods	https://doi.org/10.21758/jis.2018.23.1.1	2	0	0	2018
+189	joshi (2010)	Contesting histories and nationalist geographies: a comparison of school textbooks in India and Pakistan	https://doi.org/10.1080/19472498.2010.485379	2	3	20	2010
+190	ide (2017)	Terrorism in the textbook: a comparative analysis of terrorism discourses in Germany, India, Kenya and the United States based on school textbooks	https://doi.org/10.1080/09557571.2017.1293611	2	1	16	2017
+191	jain (2015)	Curriculum Studies in India	https://doi.org/10.1057/9781137477156_5	2	2	6	2015
+192	tripathi (2019)	Portraying the “Other” in Textbooks and Movies: The Mental Borders and Their Implications for India–Pakistan Relations	https://doi.org/10.1080/08865655.2019.1646151	2	0	10	2019
+193	durrani (2021)	National Identity and the History Curriculum	https://doi.org/10.1007/978-981-13-3309-5_41-2	2	0	1	2021
+194	zhao (2025)	Gender disparities in Chinese middle school science textbooks: A semiotic analysis	https://doi.org/10.1016/j.wsif.2025.103192	1	0	1	2025
+195	saxena (2023)	Content Analysis of Oral Health Information in Science Textbooks: A Cross-sectional Study in Schools of Bareilly City, India	https://doi.org/10.5005/jp-journals-10077-3263	2	0	0	2023
+196	bhandari (2023)	Content Analysis of Oral Health Information in Science Textbooks: A Cross-sectional Study in State Boards of Northeast, India	https://doi.org/10.5005/jp-journals-10077-3254	2	0	0	2023
+197	kakodkar (2020)	Content analysis of oral health information in science textbooks: A cross sectional study in schools of Pune, India	https://doi.org/10.4103/jiaphd.jiaphd_49_20	2	3	6	2020
+198	subburaman (2017)	Oral health information in the Science, Tamil, and English samacheer textbooks of upper primary and secondary schools in Tamilnadu – A content analysis	https://doi.org/10.1016/j.jpfa.2017.03.004	1	0	1	2017

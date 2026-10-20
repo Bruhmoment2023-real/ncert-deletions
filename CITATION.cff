@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Counting what was cut: a word-level measurement of the 2022-23 rationalisation of NCERT textbooks (code and data)"
+type: software
+authors:
+  - family-names: "Solano Paul"
+    given-names: "Sean"
+    affiliation: "Independent researcher"
+date-released: 2026-10-20
+license: MIT
+abstract: "Code, count tables and figures for a word-level comparison of 56 NCERT textbooks before and after the 2022-23 rationalisation, including a check of NCERT's official lists against the books."
+keywords:
+  - textbooks
+  - NCERT
+  - curriculum change
+  - text comparison
+  - India
+repository-code: "https://github.com/Bruhmoment2023-real/ncert-deletions"

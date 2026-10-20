@@ -1,0 +1,16 @@
+get https://web.archive.org/web/20210819024536id_/https://ncert.nic.in/textbook/pdf/lehs1dd.zip
+get https://web.archive.org/web/20211009000000id_/https://ncert.nic.in/textbook/pdf/lehs2dd.zip
+get https://web.archive.org/web/20210816000000id_/https://ncert.nic.in/textbook/pdf/lehs3dd.zip
+get https://web.archive.org/web/20210815000000id_/https://ncert.nic.in/textbook/pdf/leps1dd.zip
+get https://web.archive.org/web/20200616000000id_/https://ncert.nic.in/textbook/pdf/leps2dd.zip
+get https://web.archive.org/web/20231223074033id_/https://ncert.nic.in/textbook/pdf/lehs1dd.zip
+get https://web.archive.org/web/20231223000000id_/https://ncert.nic.in/textbook/pdf/lehs2dd.zip
+get https://web.archive.org/web/20231223000000id_/https://ncert.nic.in/textbook/pdf/lehs3dd.zip
+get https://web.archive.org/web/20231223000000id_/https://ncert.nic.in/textbook/pdf/leps1dd.zip
+get https://web.archive.org/web/20231223000000id_/https://ncert.nic.in/textbook/pdf/leps2dd.zip
+get https://web.archive.org/web/20260507000000id_/https://ncert.nic.in/textbook/pdf/leps2dd.zip
+get https://web.archive.org/web/20260507000000id_/https://ncert.nic.in/textbook/pdf/leps1dd.zip
+get https://web.archive.org/web/20260507181900id_/https://ncert.nic.in/textbook/pdf/lehs1dd.zip
+get https://web.archive.org/web/20260507000000id_/https://ncert.nic.in/textbook/pdf/lehs2dd.zip
+get https://web.archive.org/web/20260507000000id_/https://ncert.nic.in/textbook/pdf/lehs3dd.zip
+  retry 1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non

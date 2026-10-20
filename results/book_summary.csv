@@ -1,0 +1,57 @@
+﻿book,title,old_edition,new_edition,old_chapters,new_chapters,chapters_dropped,old_words,new_words,removed_words,share_removed,removed_words_in_dropped_chapters,removed_words_in_surviving_chapters,added_words,moved_words
+fess1,Our Pasts I,old,rat2023,11,10,1,33266,25067,5655,0.17,1757,3898,290,3634
+fess2,The Earth: Our Habitat,old,rat2023,8,7,2,15447,12014,3461,0.2241,3413,48,35,119
+fess3,Social and Political Life I,old,rat2023,10,9,1,24250,21780,2464,0.1016,1838,626,84,85
+fesc1,Science,old,rat2023,16,11,5,58458,44057,13880,0.2374,13507,373,354,876
+gess1,Our Pasts II,old_alt,rat2023,10,8,2,35094,23433,11593,0.3303,6664,4929,238,202
+gess2,Our Environment,old,rat2023,9,7,2,18977,14663,4294,0.2263,4254,40,16,36
+gess3,Social and Political Life II,old_alt,rat2023,9,8,1,29324,27480,4308,0.1469,2219,2089,209,487
+gesc1,Science,old,rat2023,19,13,6,66526,47389,18939,0.2847,18625,314,285,464
+hess2,Our Pasts III,old,rat2023,10,8,2,47395,36815,10398,0.2194,8955,1443,59,273
+hess3,Social and Political Life III,old_alt,rat2023,10,8,1,40620,34842,5451,0.1342,3639,1812,60,297
+hess4,Resources and Development,old,rat2023,6,5,1,17860,13421,4344,0.2432,3502,842,21,81
+hesc1,Science,old,rat2023,18,13,5,74071,52776,20751,0.2802,20272,479,388,902
+iess1,Contemporary India I,old,rat2023,6,6,0,21034,18052,2861,0.136,0,2861,16,30
+iess2,Economics,old,rat2023,4,4,0,21142,21162,0,0.0,0,0,20,0
+iess3,India and the Contemporary World I,old,rat2023,5,5,0,37966,37966,0,0.0,0,0,0,0
+iess4,Democratic Politics I,old_alt,rat2023,5,5,0,37787,37787,1,0.0,0,1,0,0
+iesc1,Science,old,rat2023,15,12,3,89411,63719,25469,0.2849,18138,7331,297,542
+jess1,Contemporary India II,old,rat2023,7,7,0,30940,26513,4918,0.159,0,4918,497,55
+jess2,Understanding Economic Development,old,rat2023,5,5,0,33116,33116,0,0.0,0,0,0,0
+jess3,India and the Contemporary World II,old_alt,rat2023,5,5,0,44010,44012,0,0.0,0,0,1,0
+jess4,Democratic Politics II,old_alt,rat2023,8,5,3,36706,24844,11635,0.317,11050,585,87,379
+jesc1,Science,old,rat2023,16,13,3,104120,79004,24419,0.2345,16059,8360,296,661
+kehs1,Themes in World History,old_alt,rat2023,11,7,4,94430,62777,31919,0.338,31630,289,666,6232
+keps1,Political Theory,old,rat2023,10,8,2,49008,40040,8755,0.1786,8755,0,0,213
+keps2,Indian Constitution at Work,old,rat2023,10,10,0,64961,66951,1,0.0,0,1,1915,0
+kesy1,Introducing Sociology,old,rat2023,5,5,0,37282,37282,0,0.0,0,0,0,0
+kesy2,Understanding Society,old,rat2023,5,5,0,38132,36782,1345,0.0353,0,1345,23,0
+kegy1,Fundamentals of Physical Geography,old,rat2023,7,6,1,37844,27045,10369,0.274,3272,7097,30,338
+kegy2,India: Physical Environment,old,rat2023,16,14,2,55318,48258,6899,0.1247,5068,1831,126,238
+keec1,Indian Economic Development,old,rat2023,10,8,2,67346,48084,14989,0.2226,14883,106,84,4350
+kebo1,Biology,old,rat2023,22,19,3,108978,77583,30627,0.281,15123,15504,334,1219
+kech1,Chemistry Part I,old,rat2023,7,7,1,111890,104240,12414,0.1109,10772,1642,1042,538
+kech2,Chemistry Part II,old,rat2023,7,3,4,72508,37973,34790,0.4798,33682,1108,1026,527
+keph1,Physics Part I,old,rat2023,8,7,1,108765,75613,30338,0.2789,7825,22513,1037,1465
+keph2,Physics Part II,old,rat2023,7,7,0,83290,68334,14519,0.1743,0,14519,899,356
+lehs1,Themes in Indian History Part I,old,rat2023,4,4,0,35580,35580,0,0.0,0,0,0,0
+lehs2,Themes in Indian History Part II,old,rat2023,5,4,1,47144,36865,10163,0.2156,10163,0,79,728
+lehs3,Themes in Indian History Part III,old,rat2023,6,4,2,62600,42592,19807,0.3164,19592,215,111,326
+leps1,Contemporary World Politics,old,rat2023,9,7,2,51524,39821,11940,0.2317,11861,79,506,556
+leps2,Politics in India since Independence,old2122,rat2023,9,8,1,61962,48016,13673,0.2207,7045,6628,244,304
+lesy1,Indian Society,old,rat2023,7,7,0,54712,49000,9278,0.1696,0,9278,520,139
+lesy2,Social Change and Development in India,old,rat2023,8,8,0,59490,46521,14228,0.2392,0,14228,603,140
+legy1,Fundamentals of Human Geography,old,rat2023,10,8,2,35799,26702,8829,0.2466,5916,2913,60,240
+legy2,India: People and Economy,old,rat2023,12,9,3,49400,34722,14197,0.2874,13005,1192,376,540
+leec1,Introductory Macroeconomics (file-code order unverified),old,rat2023,6,6,0,47449,47218,2819,0.0594,0,2819,235,3
+leec2,Introductory Microeconomics (file-code order unverified),old,rat2023,6,5,1,45640,39712,6652,0.1457,6651,1,36,584
+lebo1,Biology,old,rat2023,16,13,3,96591,76074,20534,0.2126,15470,5064,529,1215
+lech1,Chemistry Part I,old,rat2023,9,5,4,104639,55375,49110,0.4693,48394,716,827,956
+lech2,Chemistry Part II,old,rat2023,7,5,2,45531,36878,8795,0.1932,8445,350,324,175
+leph1,Physics Part I,old,rat2023,8,8,0,115341,84483,27637,0.2396,0,27637,970,1279
+leph2,Physics Part II,old,rat2023,6,6,0,87408,52481,33108,0.3788,0,33108,501,801
+lhhs1,Bharatiya Itihas ke Kuchh Vishay I,old,rat2023,4,4,0,49177,49165,0,0.0,0,0,0,12
+lhhs2,Bharatiya Itihas ke Kuchh Vishay II,old,rat2023,5,4,1,62888,61400,13382,0.2128,13382,0,25,1307
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,6,4,2,87412,60186,26524,0.3034,26261,263,154,1439
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,9,7,2,76673,59270,15665,0.2043,15633,32,244,1999
+lhps2,Swatantra Bharat mein Rajniti,old,rat2023,9,8,1,85446,66912,17012,0.1991,8819,8193,71,1257

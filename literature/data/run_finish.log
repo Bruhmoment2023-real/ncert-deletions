@@ -1,0 +1,56 @@
+
+[07:03:21] R bibliometrix
+[keywords] ok
+[trend_topics] ok
+[cooccurrence_network] ok
+[thematic_map] ok
+[thematic_evolution] ok
+[cocitation_references] ok
+[cocitation_sources] ok
+[bibliographic_coupling] ok
+[historiograph] FAILED: arguments imply differing number of rows: 0, 1
+[collaboration_authors] ok
+[collaboration_institutions] ok
+[collaboration_countries] ok
+[three_field_plot] ok
+There were 50 or more warnings (use warnings() to see the first 50)
+R analysis finished: 26 ok of 27 
+[07:13:21] python figures
+prisma ok
+year_sub ok
+timeline ok
+db ok
+geography ok
+citation_network ok
+main_path ok
+cocitation ok
+vosviewer: VOSviewer command line produced layouts for: keyword_cooccurrence, coauthorship_authors. py_cocitation_references: VOSviewer command line timed out. 
+captions.md written with 45 entries
+[07:17:40] topic chart
+D:\Research-Publishing\_tools\biblio-kit\topic_chart_07.py:55: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+  cnt = {c: int(txtB.str.contains("|".join(p), regex=True).sum()) for c, p in alias.items()}
+29 countries; 25 states
+[07:18:27] law supplement
+[07:18:27] evidence select
+54 evidence rows; 10 prior-work papers in corpus; quotas {'A_textbook_politics_india': 15, 'B_computational_textbook_analysis': 14, 'C_nep_curriculum_reform': 18}
+[07:18:31] pdf download
+FAILED: HTTP 403 at onlinelibrary.wiley.com | Curricular discourses of inclusion in India: A content analysis of the
+downloaded | The Role of History in the Acceptance of Gomutra: How YouTube's Cow Ur
+downloaded | Integrating Corpus Insights in Representation of Phrasal Verbs for ESL
+FAILED: HTTP 404 at jisem-journal.com | Technology Enhanced Learning and National Education Policy 2020: Analy
+FAILED: HTTP 404 at www.asiatefl.org | Culture and Interculture in Saudi EFL Textbooks : A Corpus-Based Analy
+FAILED: not a PDF (HTML landing page) at doi.org | A Corpus-based Analysis of Curriculum-based Elementary and Secondary E
+FAILED: HTTP 403 at www.sciencedirect.com | Revisiting the notion of ESL: A corpus-based analysis of English textb
+FAILED: not a PDF (HTML landing page) at doi.org | A Systematic Review of Corpus-Based Methodologies in Textbook Analyses
+FAILED: not a PDF (HTML landing page) at doi.org | Quantitative Analysis on Awareness About NEP 2020 Policy In First Year
+FAILED: HTTP 403 at research.acer.edu.au | Educators' reflections on competency-based learning: Reflecting 5 year
+FAILED: HTTP 500 at rrijm.com | A study of an Emphasis on Sanskrit Language in New Education Policy (N
+FAILED: not a PDF (HTML landing page) at doi.org | Integrating Indian Knowledge System and Self-Regulated Learning: A Lin
+FAILED: not a PDF (HTML landing page) at doi.org | Educational Inequality among Street Children in Metropolitan India: As
+FAILED: HTTP 404 at poornaprajnapublication.com | Envisioning a Scientific, Sustainable, Holistic, Spiritual and All-rou
+PDFs: 20/54 core papers; folder size 9.8 MB
+[07:19:35] evidence table
+evidence-table.csv: 54 rows
+[07:19:36] docs
+docs written: D:\Research-Publishing\07-ncert-deletions\bibliometrics\search-protocol.md D:\Research-Publishing\07-ncert-deletions\bibliometrics\README.md
+[07:19:38] FINISHED

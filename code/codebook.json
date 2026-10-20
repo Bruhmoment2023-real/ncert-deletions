@@ -1,0 +1,100 @@
+{
+  "_version_log": "v0.1 (2026-10-13): written before any passage was categorised. v0.2 (2026-10-13, AFTER the first agreement check showed period kappa 0.35): chapter_periods.csv added as the fallback for period. Theme rules unchanged.",
+  "_about": "Pre-written descriptive codebook, version 0.1 (written 2026-10-13, BEFORE any removed passage was categorised). Categories describe what a passage is about. They say nothing about why it was removed. Change log must be kept: any later edit to a rule is a new version and both versions are reported.",
+  "unit": "passage = all removed sentence units that sit in the same text block of the old edition (same chapter file, page, block)",
+  "assignment": "THEME: count keyword hits per theme (case-insensitive, whole words, each distinct keyword counted once); the theme with most distinct hits wins; ties are broken by the order of themes in this file; zero hits = 'unclassified'. All themes with >=1 hit are also stored (multi-label). PERIOD: explicit keyword rule first, otherwise the median of all years (1000-2029 CE, or 'BCE' markers) mentioned in the passage, otherwise the period assigned to the chapter in chapter_periods.csv, otherwise 'no_period'. FORM: regular-expression rules below, first match wins.",
+  "themes": {
+    "religion_communal": {
+      "definition": "Religious communities, religious practice or institutions, relations and conflict between religious communities, secularism.",
+      "keywords": ["hindu", "hindus", "muslim", "muslims", "islam", "islamic", "sikh", "sikhs", "christian", "christians", "buddhist", "buddhism", "jain", "jainism", "religion", "religious", "communal", "communalism", "secular", "secularism", "mosque", "masjid", "temple", "temples", "church", "sufi", "bhakti", "vedas", "vedic", "brahmanical", "hindutva", "minority", "minorities", "riots", "riot", "ayodhya", "babri"],
+      "include_example": "a paragraph on Hindu-Muslim relations after Partition",
+      "exclude_example": "a paragraph on temple architecture with no reference to worship or community (code art_culture)"
+    },
+    "caste_social_hierarchy": {
+      "definition": "Caste, varna, jati, untouchability, Dalits, Adivasis/tribes, reservation, social discrimination by birth.",
+      "keywords": ["caste", "castes", "varna", "varnas", "jati", "jatis", "dalit", "dalits", "untouchable", "untouchables", "untouchability", "brahmana", "brahmanas", "brahmin", "brahmins", "shudra", "shudras", "kshatriya", "adivasi", "adivasis", "tribal", "tribals", "tribe", "tribes", "obc", "obcs", "backward", "reservation", "reservations", "mandal", "discrimination"],
+      "include_example": "sentences on the hereditary nature of varnas",
+      "exclude_example": "a list of freedom fighters that mentions a person's caste in passing only if no other caste keyword occurs"
+    },
+    "gender": {
+      "definition": "Women, gender relations, patriarchy, women's movements, family and marriage norms.",
+      "keywords": ["women", "woman", "gender", "female", "patriarchy", "patriarchal", "feminist", "widow", "widows", "dowry", "sati", "purdah", "girls", "matriliny"],
+      "include_example": "a box on the anti-arrack women's movement (also movements_protest)",
+      "exclude_example": "a biography of a woman ruler with no discussion of gender"
+    },
+    "state_politics_institutions": {
+      "definition": "Government, constitution, parliament, courts, elections, political parties, leaders acting in office, federalism, emergency powers.",
+      "keywords": ["government", "parliament", "constitution", "constitutional", "election", "elections", "electoral", "party", "parties", "congress", "minister", "ministers", "president", "court", "courts", "judiciary", "legislature", "cabinet", "coalition", "democracy", "democratic", "emergency", "federalism", "federal", "opposition", "lok", "sabha", "bjp", "jana", "sangh", "communist", "socialist", "vote", "voters", "commission"],
+      "include_example": "the section 'Controversies regarding Emergency'",
+      "exclude_example": "a description of a medieval court's ceremony (code rulers_court_empire)"
+    },
+    "rulers_court_empire": {
+      "definition": "Pre-modern and early-modern rulers, dynasties, courts, chronicles, imperial administration and nobility.",
+      "keywords": ["emperor", "emperors", "empire", "sultan", "sultans", "sultanate", "mughal", "mughals", "akbar", "babur", "humayun", "jahangir", "shah", "aurangzeb", "badshah", "padshah", "dynasty", "dynasties", "king", "kings", "kingdom", "kingdoms", "court", "courtiers", "nobles", "nobility", "mansabdar", "mansabdars", "chronicle", "chronicles", "akbarnama", "raja", "rajas", "maharaja", "nawab", "nawabs", "imperial", "throne"],
+      "include_example": "a paragraph on the Akbar Nama and Mughal chronicles",
+      "exclude_example": "British imperial policy after 1757 (code colonial_rule)"
+    },
+    "colonial_rule": {
+      "definition": "The East India Company and British Raj: conquest, administration, colonial economy, colonial knowledge and town planning.",
+      "keywords": ["british", "colonial", "colonialism", "company", "raj", "viceroy", "governor", "englishmen", "europeans", "presidency", "cantonment", "cantonments", "census", "railways", "plantation", "zamindar", "zamindars", "revenue", "ryot", "ryots"],
+      "include_example": "a section on town planning in colonial Calcutta",
+      "exclude_example": "nationalist responses to colonial rule (code nationalism_freedom)"
+    },
+    "nationalism_freedom": {
+      "definition": "The national movement, its leaders and organisations, independence and the making of the nation, Partition.",
+      "keywords": ["nationalist", "nationalists", "nationalism", "freedom", "independence", "satyagraha", "gandhi", "gandhiji", "mahatma", "nehru", "patel", "jinnah", "league", "partition", "refugees", "swaraj", "khilafat", "non-cooperation", "noncooperation", "azad", "ambedkar", "bose", "godse", "assassination"],
+      "include_example": "the paragraph on reactions to Gandhi's assassination",
+      "exclude_example": "post-1950 party competition (code state_politics_institutions)"
+    },
+    "movements_protest": {
+      "definition": "Collective action outside formal party politics: social, peasant, labour, environmental, students' and regional movements, agitations and strikes.",
+      "keywords": ["movement", "movements", "protest", "protests", "agitation", "agitations", "strike", "strikes", "andolan", "chipko", "narmada", "naxalite", "naxalites", "peasants", "peasant", "workers", "unions", "union", "struggle", "struggles", "rebellion", "revolt", "activists", "demonstrations", "satyagrahis", "panthers"],
+      "include_example": "the chapter 'Rise of Popular Movements'",
+      "exclude_example": "the 1857 revolt as a military event with no reference to participants' aims (still code here if 'revolt'/'rebellion' is the only hit)"
+    },
+    "economy_development": {
+      "definition": "Economic policy and conditions: planning, agriculture, industry, trade, poverty, land reform, globalisation.",
+      "keywords": ["economy", "economic", "planning", "plan", "plans", "industry", "industries", "industrial", "agriculture", "agricultural", "farmers", "land", "poverty", "development", "trade", "market", "markets", "capitalist", "capitalism", "socialism", "growth", "income", "cooperative", "cooperatives", "green", "revolution", "banks", "nationalised", "globalisation", "liberalisation", "investment"],
+      "include_example": "the eight pages on the Five Year Plans",
+      "exclude_example": "the Russian Revolution as a political event (code international_war)"
+    },
+    "international_war": {
+      "definition": "Relations between states, wars, alliances, international organisations, the Cold War, foreign policy, world history outside South Asia.",
+      "keywords": ["war", "wars", "cold", "soviet", "ussr", "usa", "america", "american", "china", "pakistan", "nato", "alliance", "alliances", "nuclear", "treaty", "treaties", "united", "nations", "un", "hegemony", "superpower", "superpowers", "foreign", "non-aligned", "nonaligned", "nam", "bloc", "blocs", "europe", "european", "iraq", "vietnam", "cuba", "missile", "security", "army", "military", "troops"],
+      "include_example": "the chapter 'The Cold War Era'",
+      "exclude_example": "wars between pre-modern Indian kingdoms (code rulers_court_empire)"
+    },
+    "art_culture_knowledge": {
+      "definition": "Art, architecture, literature, film, language, education, science and ideas treated as culture.",
+      "keywords": ["painting", "paintings", "architecture", "architectural", "buildings", "poem", "poems", "poet", "poets", "literature", "film", "films", "cinema", "music", "language", "languages", "manuscript", "manuscripts", "calligraphy", "novel", "art", "artists", "culture", "cultural", "sculpture", "monuments", "books", "translated", "translation"],
+      "include_example": "the box on the film Pather Panchali",
+      "exclude_example": "religious texts discussed for doctrine (code religion_communal)"
+    },
+    "science_environment": {
+      "definition": "Natural science content, technology, environment and natural resources.",
+      "keywords": ["evolution", "species", "fossils", "darwin", "elements", "periodic", "mendeleev", "atomic", "energy", "electric", "magnetic", "environment", "environmental", "forests", "forest", "pollution", "resources", "biodiversity", "climate", "dam", "dams", "water", "coal", "petroleum", "solar", "genes", "inherited", "traits"],
+      "include_example": "the section 'Evolution and Classification'",
+      "exclude_example": "the Narmada dam protests (also movements_protest; whichever has more hits wins)"
+    }
+  },
+  "periods": {
+    "p1_prehistory_harappan": {"definition": "Before c. 1500 BCE", "keywords": ["harappa", "harappan", "harappans", "mohenjodaro", "indus valley"]},
+    "p2_early_india": {"definition": "c. 1500 BCE - 600 CE", "keywords": ["mauryan", "mauryas", "asoka", "ashoka", "gupta", "guptas", "mahabharata", "mahajanapadas", "buddha", "stupa", "sanchi", "satavahana", "kushana"]},
+    "p3_early_medieval": {"definition": "c. 600 - 1200 CE", "keywords": ["chola", "cholas", "pallava", "rashtrakuta", "alvars", "nayanars", "al-biruni"]},
+    "p4_sultanate_mughal": {"definition": "c. 1200 - 1750 CE", "keywords": ["sultanate", "mughal", "mughals", "akbar", "babur", "aurangzeb", "jahangir", "vijayanagara", "khalji", "tughlaq", "lodi", "ain-i akbari", "akbarnama"], "years": [1200, 1749]},
+    "p5_colonial": {"definition": "1750 - 1946", "keywords": ["east india company", "british raj", "viceroy", "1857"], "years": [1750, 1946]},
+    "p6_partition_founding": {"definition": "1947 - 1951 (Independence, Partition, Constitution, first election preparations)", "keywords": ["partition", "constituent assembly"], "years": [1947, 1951]},
+    "p7_1952_1974": {"definition": "1952 - 1974", "keywords": ["five year plan", "green revolution"], "years": [1952, 1974]},
+    "p8_emergency_1975_77": {"definition": "1975 - 1977", "keywords": ["emergency", "shah commission"], "years": [1975, 1977]},
+    "p9_1978_1990": {"definition": "1978 - 1990", "keywords": ["mandal", "anti-sikh", "operation blue star"], "years": [1978, 1990]},
+    "p10_1991_present": {"definition": "1991 onwards", "keywords": ["ayodhya", "babri", "gujarat riots", "liberalisation", "globalisation", "nda", "upa"], "years": [1991, 2029]},
+    "world_non_south_asia": {"definition": "Passage is about places outside South Asia and names no South Asian period marker", "keywords": ["cold war", "soviet union", "ussr", "european union", "united states", "mexico", "belgium", "sri lanka"]},
+    "no_period": {"definition": "No period can be assigned by the rules", "keywords": []}
+  },
+  "forms": {
+    "exercise_question": "ends with '?' or starts with a number/bullet followed by an imperative (Discuss, Explain, Write, Find out, Compare, Describe, Mention, State, Why, What, How, Which, Do you)",
+    "credit_reference": "matches Fig\\. ?\\d|Credit:|Source: |University Press|Publications?,|\\(ed\\.?\\)|pp?\\. ?\\d",
+    "heading_label": "fewer than 6 words and no full stop",
+    "body_or_box_text": "everything else (font name in the units file separates main text from boxes; see README)"
+  }
+}

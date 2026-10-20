@@ -1,0 +1,43 @@
+﻿=== 07-ncert-deletions :: search
+  crossref_B_computational_textbook_analysis_01: total=6758138 retrieved=250 ok
+  crossref_B_computational_textbook_analysis_02: total=9760199 retrieved=250 ok
+  crossref_B_computational_textbook_analysis_03: total=2635178 retrieved=250 ok
+  crossref_B_computational_textbook_analysis_04: total=734175 retrieved=250 ok
+  crossref_B_computational_textbook_analysis_05: total=12358061 retrieved=250 ok
+  crossref_B_computational_textbook_analysis_06: total=9035828 retrieved=250 ok
+  crossref_B_computational_textbook_analysis_07: total=801613 retrieved=250 ok
+  s2_B_computational_textbook_analysis_01: total=1281 retrieved=800 ok
+  s2_B_computational_textbook_analysis_02: total=670 retrieved=670 ok
+  s2_B_computational_textbook_analysis_03: total=409 retrieved=409 ok
+  s2_B_computational_textbook_analysis_04: total=155 retrieved=155 ok
+  s2_B_computational_textbook_analysis_05: total=1199 retrieved=800 ok
+  eric_B_computational_textbook_analysis_01: total=77 retrieved=77 ok
+  arxiv_B_computational_textbook_analysis_01: total=1 retrieved=1 ok
+  arxiv_B_computational_textbook_analysis_02: total=29 retrieved=29 ok
+  crossref_A_textbook_politics_india_01: total=25098 retrieved=250 ok
+  crossref_A_textbook_politics_india_02: total=2314666 retrieved=250 ok
+  crossref_A_textbook_politics_india_03: total=2246744 retrieved=250 ok
+  crossref_A_textbook_politics_india_04: total=2230953 retrieved=250 ok
+  crossref_A_textbook_politics_india_05: total=34235 retrieved=250 ok
+  crossref_A_textbook_politics_india_06: total=2915814 retrieved=250 ok
+  crossref_A_textbook_politics_india_07: total=2165464 retrieved=250 ok
+  s2_A_textbook_politics_india_01: total=267 retrieved=267 ok
+  s2_A_textbook_politics_india_02: total=853 retrieved=800 ok
+  s2_A_textbook_politics_india_03: total=726 retrieved=726 ok
+  s2_A_textbook_politics_india_04: total=192 retrieved=191 ok
+  s2_A_textbook_politics_india_05: total=1 retrieved=1 ok
+  eric_A_textbook_politics_india_01: total=40 retrieved=34 ok
+  eric_A_textbook_politics_india_02: total=58 retrieved=48 ok
+  crossref_C_nep_curriculum_reform_01: total=13534179 retrieved=250 ok
+  crossref_C_nep_curriculum_reform_02: total=11081290 retrieved=250 ok
+  crossref_C_nep_curriculum_reform_03: total=6412351 retrieved=250 ok
+  crossref_C_nep_curriculum_reform_04: total=2357365 retrieved=250 ok
+  s2_C_nep_curriculum_reform_01: total=1422 retrieved=800 ok
+  s2_C_nep_curriculum_reform_02: total=228 retrieved=227 ok
+  eric_C_nep_curriculum_reform_01: total=80 retrieved=80 ok
+  eric_C_nep_curriculum_reform_02: total=7 retrieved=6 ok
+  seed title not matched: The Hindutva View of History: Rewriting Textbooks in India and the United States
+  seed title not matched: Hindu Nationalism, History and Identity in India: Narrating a Hindu past under the BJP
+  seed title not matched: Curriculum as Destiny: Forging National Identity in India, Pakistan, and Bangladesh
+search: 10629 hits from 48 queries
+=== search done in 275s

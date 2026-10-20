@@ -1,0 +1,10 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+kech2,Chemistry Part II,old,rat2023,kech201,0,kech201,kech201,0.9632,0,10815,224,0.0207,4,10758,219,804,64,1,14
+kech2,Chemistry Part II,old,rat2023,kech202,0,,kech203,0.015,1,7553,7382,0.9774,171,0,0,0,6,1,641
+kech2,Chemistry Part II,old,rat2023,kech203,0,,kech203,0.0106,1,8609,8460,0.9827,149,0,0,0,6,2,637
+kech2,Chemistry Part II,old,rat2023,kech204,0,,kech202,0.009,1,9385,9242,0.9848,143,0,0,0,5,1,782
+kech2,Chemistry Part II,old,rat2023,kech205,0,kech202,kech202,0.9592,0,14771,303,0.0205,0,14697,267,1071,44,0,35
+kech2,Chemistry Part II,old,rat2023,kech206,0,kech203,kech203,0.9211,0,12717,581,0.0457,0,12518,540,939,80,0,54
+kech2,Chemistry Part II,old,rat2023,kech207,0,,kech201,0.004,1,8658,8598,0.9931,60,0,0,0,2,1,613
+kech2,Chemistry Part II,old,rat2023,kech2an,1,,kech2an,0.2103,1,1878,1481,0.7886,397,0,0,0,7,20,71
+kech2,Chemistry Part II,old,rat2023,kech2ps,1,kech2ps,kech2ps,0.77,0,1974,380,0.1925,0,1830,262,120,7,0,5

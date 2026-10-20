@@ -1,0 +1,20 @@
+"name","group","label","slice","color","id","sum","freq"
+"english textbooks","1991-2020","english textbooks--1991-2020","1","#E41A1C80",0,0.310185185185185,423
+"gender representation","1991-2020","gender representation--1991-2020","1","#377EB880",1,0.0972222222222222,38
+"history textbooks","1991-2020","history textbooks--1991-2020","1","#A6562880",2,0.194444444444444,277
+"india","1991-2020","india--1991-2020","1","#4DAF4A80",3,0.305555555555556,226
+"language textbooks","1991-2020","language textbooks--1991-2020","1","#F781BF80",4,0.00925925925925926,18
+"native americans","1991-2020","native americans--1991-2020","1","#66C2A580",5,0.00925925925925926,52
+"textbook content analysis","1991-2020","textbook content analysis--1991-2020","1","#FC8D6280",6,0.0740740740740741,79
+"curriculum development","2021-2024","curriculum development--2021-2024","2","#8DA0CB80",7,0.0875576036866359,80
+"english textbooks","2021-2024","english textbooks--2021-2024","2","#E41A1C80",8,0.154377880184332,146
+"inclusive education","2021-2024","inclusive education--2021-2024","2","#E78AC380",9,0.131336405529954,115
+"national education policy 2020","2021-2024","national education policy 2020--2021-2024","2","#984EA380",10,0.377880184331797,378
+"school textbooks","2021-2024","school textbooks--2021-2024","2","#377EB880",11,0.149769585253456,222
+"teacher professional development","2021-2024","teacher professional development--2021-2024","2","#FF7F0080",12,0.0990783410138249,125
+"english textbooks","2025-2026","english textbooks--2025-2026","3","#E41A1C80",13,0.162094763092269,200
+"india","2025-2026","india--2025-2026","3","#4DAF4A80",14,0.408977556109726,488
+"multilingual education","2025-2026","multilingual education--2025-2026","3","#A6D85480",15,0.027431421446384,89
+"national education policy 2020","2025-2026","national education policy 2020--2025-2026","3","#984EA380",16,0.28927680798005,475
+"teacher professional development","2025-2026","teacher professional development--2025-2026","3","#FF7F0080",17,0.107231920199501,176
+"digital learning platforms","2025-2026","digital learning platforms--2025-2026","3","#FFD92F80",18,0.00498753117206983,18

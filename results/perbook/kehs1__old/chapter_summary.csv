@@ -1,0 +1,13 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+kehs1,Themes in World History,old,rat2023,kehs101,0,,kehs101,0.2586,1,6896,5226,0.7578,1670,0,0,0,7,121,427
+kehs1,Themes in World History,old,rat2023,kehs102,0,kehs101,kehs101,0.9985,0,5215,8,0.0015,0,10887,2288,345,2,0,1
+kehs1,Themes in World History,old,rat2023,kehs103,0,kehs102,kehs102,0.7939,0,9019,95,0.0105,1746,8179,983,417,4,94,36
+kehs1,Themes in World History,old,rat2023,kehs104,0,,kehs103,0.0021,1,9341,9254,0.9907,87,0,0,0,0,0,529
+kehs1,Themes in World History,old,rat2023,kehs105,0,kehs103,kehs103,0.9995,0,5957,0,0.0,0,7312,1305,308,0,0,0
+kehs1,Themes in World History,old,rat2023,kehs106,0,kehs104,kehs104,0.9992,0,7939,5,0.0006,0,8925,946,540,0,0,1
+kehs1,Themes in World History,old,rat2023,kehs107,0,kehs105,kehs105,0.9974,0,4630,8,0.0017,0,6071,1437,266,2,0,2
+kehs1,Themes in World History,old,rat2023,kehs108,0,,kehs106,0.0058,1,5909,5841,0.9885,68,0,0,0,1,0,369
+kehs1,Themes in World History,old,rat2023,kehs109,0,,kehs107,0.0055,1,5800,5749,0.9912,51,0,0,0,1,0,324
+kehs1,Themes in World History,old,rat2023,kehs110,0,kehs106,kehs106,1.0,0,4671,0,0.0,0,9314,4506,276,0,0,0
+kehs1,Themes in World History,old,rat2023,kehs111,0,kehs107,kehs107,0.9818,0,10483,148,0.0141,5,12089,1683,688,5,0,34
+kehs1,Themes in World History,old,rat2023,kehs1ps,1,kehs1ps,kehs1ps,0.9246,0,2865,127,0.0443,0,3055,265,211,16,0,20

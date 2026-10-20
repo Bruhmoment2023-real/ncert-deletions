@@ -1,0 +1,11 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps101,0,,lhps105,0.0594,1,8159,6936,0.8501,1223,0,0,0,6,1,198
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps102,0,lhps101,lhps101,0.9999,0,8307,1,0.0001,0,8307,1,158,1,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps103,0,,lhps101,0.0323,1,9473,8697,0.9181,776,0,0,0,0,2,219
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps104,0,lhps102,lhps102,0.9993,0,6974,3,0.0004,0,6974,3,200,2,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps105,0,lhps103,lhps103,0.9999,0,8764,1,0.0001,0,8764,1,173,1,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps106,0,lhps104,lhps104,0.9968,0,9446,12,0.0013,0,9461,24,216,3,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps107,0,lhps105,lhps105,0.9999,0,9220,1,0.0001,0,9220,1,192,1,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps108,0,lhps106,lhps106,0.9998,0,9739,2,0.0002,0,9741,4,195,1,0,0
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps109,0,lhps107,lhps107,0.9982,0,6591,12,0.0018,0,6803,210,171,1,0,2
+lhps1,Samkalin Vishwa Rajniti,old,rat2023,lhps1ps,1,lhps1ps,lhps1ps,0.9573,0,4220,83,0.0197,9,4534,396,74,12,0,3

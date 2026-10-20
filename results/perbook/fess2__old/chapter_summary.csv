@@ -1,0 +1,10 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+fess2,The Earth: Our Habitat,old,rat2023,fess201,0,fess201,fess201,0.9996,0,2802,0,0.0,0,2801,0,293,0,0,0
+fess2,The Earth: Our Habitat,old,rat2023,fess202,0,fess202,fess202,0.9996,0,2339,0,0.0,0,2338,0,185,0,0,0
+fess2,The Earth: Our Habitat,old,rat2023,fess203,0,fess203,fess203,0.9994,0,1554,0,0.0,0,1553,0,138,0,0,0
+fess2,The Earth: Our Habitat,old,rat2023,fess204,0,fess204,fess204,0.9993,0,1535,0,0.0,0,1534,0,144,0,0,0
+fess2,The Earth: Our Habitat,old,rat2023,fess205,0,fess205,fess205,0.9986,0,2217,2,0.0009,0,2215,1,207,1,0,0
+fess2,The Earth: Our Habitat,old,rat2023,fess206,0,,fess205,0.0264,1,1780,1731,0.9725,49,0,0,0,3,2,197
+fess2,The Earth: Our Habitat,old,rat2023,fess207,0,fess206,fess206,0.9598,0,1468,46,0.0313,0,1440,20,140,7,0,3
+fess2,The Earth: Our Habitat,old,rat2023,fess208,0,,Appendix,0.0679,1,1752,1682,0.96,70,0,0,0,1,10,186
+fess2,The Earth: Our Habitat,old,rat2023,fess2ps,1,fess2ps,fess2ps,0.8564,0,1602,148,0.0924,0,1698,240,114,10,0,18

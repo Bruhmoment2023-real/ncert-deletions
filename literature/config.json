@@ -1,0 +1,209 @@
+{
+  "paper_id": "07-ncert-deletions",
+  "paper_title": "A measured text comparison of India's NCERT textbooks before and after the 2022-23 rationalisation",
+  "year_min": 1990,
+  "year_max": 2026,
+  "n_per_query": {
+    "crossref": 250,
+    "s2": 800,
+    "eric": 300,
+    "arxiv": 100
+  },
+  "snowball_n_central": 25,
+  "snowball_max_forward": 150,
+  "sublits": {
+    "B_computational_textbook_analysis": {
+      "label": "Computational text analysis of textbooks (any country)",
+      "include": [
+        "((textbooks?|schoolbooks?|school books?|curricul(um|a|ar) (materials?|documents?|texts?|standards)|children'?s books).{0,220}(text mining|natural language processing|\\bnlp\\b|computational (text |content |linguistic )?(analys[ie]s|methods?|approach\\w*|tools?)|topic model\\w*|word embeddings?|corpus[- ](based|linguistic\\w*|analysis|driven)|corpus linguistics|quantitative text analysis|text[- ]as[- ]data|automated (content|text) analysis|sentiment analysis|readability|lexical (diversity|density|coverage)|digital humanities|large language models?|machine learning)|(text mining|natural language processing|\\bnlp\\b|computational (text |content |linguistic )?(analys[ie]s|methods?|approach\\w*|tools?)|topic model\\w*|word embeddings?|corpus[- ](based|linguistic\\w*|analysis|driven)|corpus linguistics|quantitative text analysis|text[- ]as[- ]data|automated (content|text) analysis|sentiment analysis|readability|digital humanities).{0,220}(textbooks?|schoolbooks?|school books?|children'?s books))"
+      ],
+      "title_any": "(textbooks?|schoolbooks?|children'?s books).{0,100}(text mining|natural language|computational|topic model|word embedding|corpus|quantitative|automated|sentiment|readab|content analysis|editions?|machine learning)|(text mining|natural language|computational|topic model|word embedding|corpus|quantitative|automated|sentiment|readab|content analysis|machine learning).{0,100}(textbooks?|schoolbooks?|children'?s books)",
+      "crossref": [
+        "computational text analysis of textbooks",
+        "natural language processing school textbooks content analysis",
+        "topic modeling history textbooks",
+        "word embeddings gender bias textbooks",
+        "corpus-based analysis of school textbooks",
+        "quantitative content analysis textbook editions changes over time",
+        "text mining curriculum documents"
+      ],
+      "s2": [
+        "(textbook | textbooks | schoolbooks) + (\"text mining\" | \"natural language processing\" | \"topic modeling\" | \"topic modelling\" | \"word embeddings\" | \"computational text analysis\" | \"quantitative text analysis\" | \"text as data\" | \"corpus linguistics\" | \"corpus-based\")",
+        "(textbooks | \"history textbooks\" | \"school textbooks\") + \"content analysis\" + (computational | automated | quantitative | corpus)",
+        "textbooks + (gender | race | bias | representation) + (\"word embeddings\" | \"natural language processing\" | computational | \"machine learning\" | \"text analysis\")",
+        "(\"history textbooks\" | \"social studies textbooks\" | \"civics textbooks\") + (quantitative | corpus | \"text analysis\" | digital) + analysis",
+        "(textbook | textbooks) + (editions | revision | revisions | longitudinal) + (\"content analysis\" | \"text analysis\" | corpus | comparison)"
+      ],
+      "eric": [
+        "textbooks AND \"content analysis\" AND (computational OR \"text mining\" OR \"natural language processing\" OR corpus)"
+      ],
+      "arxiv": [
+        "all:textbooks AND (all:\"content analysis\" OR all:\"text analysis\" OR all:\"word embeddings\") AND (all:gender OR all:history OR all:bias OR all:curriculum)",
+        "ti:textbooks AND (all:\"natural language processing\" OR all:computational)"
+      ],
+      "title_must": [
+        "(textbooks?|schoolbooks?|school books?|curricul\\w+|children'?s books|teaching materials?)"
+      ]
+    },
+    "A_textbook_politics_india": {
+      "label": "Textbook revision, curriculum politics and history-textbook controversies in India",
+      "include": [
+        "((textbooks?|ncert|school history|history (teaching|curriculum|education)).{0,160}\\b(india\\w*|hindutva|saffron\\w*|ncert|hindu nationalis\\w+)\\b|\\b(india\\w*|hindutva|saffron\\w*|ncert|hindu nationalis\\w+)\\b.{0,160}(textbooks?|ncert|school history|history (teaching|curriculum|education))|\\bncert\\b)"
+      ],
+      "title_any": "(textbook|ncert|curricul|syllab|school history|history teaching).{0,100}(india|hindutva|saffron|hindu|ncert)|(india|hindutva|saffron|hindu|ncert).{0,100}(textbook|curricul|syllab|school history|history teaching)|\\bncert\\b",
+      "crossref": [
+        "NCERT textbooks",
+        "history textbook controversy India",
+        "rewriting history textbooks India Hindutva",
+        "politics of school textbooks India nationalism",
+        "NCERT rationalisation textbooks deletions",
+        "National Curriculum Framework India textbooks",
+        "representation gender caste Indian school textbooks"
+      ],
+      "s2": [
+        "(NCERT | \"National Council of Educational Research and Training\") + (textbook | textbooks | curriculum | syllabus)",
+        "(India | Indian) + (\"history textbooks\" | \"history textbook\" | \"textbook controversy\" | \"textbook controversies\" | \"textbook revision\" | \"rewriting history\" | saffronisation | saffronization)",
+        "(India | Indian) + textbooks + (politics | nationalism | Hindutva | ideology | identity | secularism | communalism | gender | caste)",
+        "(India | Indian) + (\"curriculum politics\" | \"politics of curriculum\" | \"National Curriculum Framework\" | \"curriculum reform\") + (school | schools | textbooks)",
+        "(\"textbook rationalisation\" | \"textbook rationalization\" | \"rationalised content\" | \"syllabus rationalisation\" | \"deleted chapters\" | \"textbook deletions\") + (NCERT | India | CBSE)"
+      ],
+      "eric": [
+        "NCERT OR \"National Council of Educational Research and Training\"",
+        "India AND textbooks AND (history OR politics OR nationalism OR \"content analysis\")"
+      ],
+      "title_must": [
+        "(textbooks?|ncert|curricul\\w+|syllab\\w+|history|school\\w*|education\\w*|pedagog\\w+|hindutva|saffron\\w*)"
+      ]
+    },
+    "C_nep_curriculum_reform": {
+      "label": "Curriculum reform and the National Education Policy 2020",
+      "include": [
+        "(national education policy|nep[- ]?2020|\\bnep\\b|national curriculum framework|\\bncf\\b|curricul\\w+ reforms?|rationali[sz]ation of (the )?(syllabus|curriculum|content|textbooks?)|curriculum (load|burden)|learning without burden|education(al)? reforms?)",
+        "\\b(india\\w*|ncert|cbse)\\b",
+        "\\b(schools?|schooling|textbooks?|curricul\\w+|syllab\\w+|secondary|elementary|primary|classroom)\\b"
+      ],
+      "title_any": "(national education policy|nep[- ]?2020|\\bnep\\b|national curriculum framework|curricul\\w+ reform)",
+      "crossref": [
+        "National Education Policy 2020 India school curriculum",
+        "NEP 2020 curriculum reform school education",
+        "National Curriculum Framework India school education reform",
+        "curriculum load reduction rationalisation India school syllabus"
+      ],
+      "s2": [
+        "(\"National Education Policy 2020\" | \"NEP 2020\" | \"National Education Policy\") + (India | Indian) + (curriculum | school | schools | textbooks | reform)",
+        "(\"National Curriculum Framework\" | \"curriculum reform\" | \"curricular reform\" | \"curriculum load\") + (India | Indian | NCERT) + (school | schools)"
+      ],
+      "eric": [
+        "\"National Education Policy\" AND India",
+        "India AND \"curriculum reform\" AND (school OR secondary OR elementary)"
+      ],
+      "title_must": [
+        "(national education policy|\\bnep\\b|nep[- ]?2020|curricul\\w+|\\bncf\\b|reform\\w*|syllab\\w+|education policy|rationali[sz]\\w+)"
+      ]
+    }
+  },
+  "exclude": "(\\bmedical|\\bnursing|\\bdental|pharmac|engineering|\\bmbbs|clinical|physiotherap|management education|\\bmba\\b|librar|agricultur|veterinar|ayurved|homeopath|higher education|universit|teacher education|\\bcolleges?\\b|undergraduate|legal education|question (answering|generation)|chatbot|tutoring system|knowledge tracing|\\bocr\\b|speech recognition)",
+  "core_terms": {
+    "\\bncert\\b": 3,
+    "textbooks?": 2,
+    "rationali[sz]\\w+|delet\\w+|omission|removed|revision\\w*|rewrit\\w+|editions?": 2.5,
+    "history|social science|political science|civics": 1.5,
+    "text mining|natural language processing|computational|corpus|quantitative|topic model|word embedding|text analysis|content analysis": 2.5,
+    "national education policy|\\bnep\\b|national curriculum framework": 1.5,
+    "india\\w*": 1.5,
+    "hindutva|nationalis\\w+|ideolog\\w+|politic\\w+": 1
+  },
+  "seed_titles": [
+    "Content Analysis of Textbooks via Natural Language Processing: Findings on Gender, Race, and Ethnicity in Texas U.S. History Textbooks",
+    "What We Teach About Race and Gender: Representation in Images and Text of Children's Books",
+    "Sexist textbooks: Automated analysis of gender bias in 1,255 books from 34 countries",
+    "Educate to hate: the use of education in the creation of antagonistic national identities in India and Pakistan",
+    "Teaching History in Schools: the Politics of Textbooks in India",
+    "The History Debate and School Textbooks in India: a Personal Memoir",
+    "The Hindutva View of History: Rewriting Textbooks in India and the United States",
+    "The Construction of History and Nationalism in India: Textbooks, Controversies and Politics",
+    "Prejudice and Pride: School Histories of the Freedom Struggle in India and Pakistan",
+    "Hindu Nationalism, History and Identity in India: Narrating a Hindu past under the BJP",
+    "Curriculum as Destiny: Forging National Identity in India, Pakistan, and Bangladesh"
+  ],
+  "seed_dois": [],
+  "seed_arxiv": [],
+  "manual_exclude": {
+    "W2884836845": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2905211726": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2976789667": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4283734474": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W4393254572": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W1976108746": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2004404161": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W2076362449": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W2085981492": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W1999061568": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W2022273486": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W2068213429": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W7213464469": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2478262787": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W4386500695": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W1975128030": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W4315786427": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W4413999175": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2098804606": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4396875150": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4403124165": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W7153071602": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7160498903": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7125910770": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4409735296": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4413585848": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7171819825": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W7139046245": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4415303107": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7196951825": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4412870877": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7117406773": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W3132359752": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4402273522": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4309602367": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4366459384": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W7117540762": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W7171996658": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W7204943299": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7213337017": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7214308447": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4415653475": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4410045876": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7128495364": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7143348622": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4404756705": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2289041434": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7169663300": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4417144149": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7204960284": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7167910465": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7167924730": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7167914415": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7165041675": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7165679985": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7160694005": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4411825714": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W7168286938": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W1504894013": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2270443521": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2330893728": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2604694820": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2735994048": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W2782387885": "B: not computational analysis of textbook content (ELT/ESP materials, ed-tech, LLM benchmark, instructor opinion)",
+    "W2907886648": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W3093152336": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W3095608416": "A: not about textbooks/school history (ed-tech, pedagogy or general education)",
+    "W4319077794": "A: not about textbooks/school history (ed-tech, pedagogy or general education)"
+  },
+  "max_refs_resolve": 5000,
+  "evidence_relation": {
+    "A_textbook_politics_india": "Textbook revision, curriculum politics and history-textbook controversies in India: the context of the 2022-23 rationalisation (described neutrally).",
+    "B_computational_textbook_analysis": "Computational text analysis of textbooks in any country: method precedents for a before/after text comparison.",
+    "C_nep_curriculum_reform": "Curriculum reform and the National Education Policy 2020: the policy frame of the rationalisation.",
+    "seed": "Named in the paper's own prior-work notes; core comparison for the design."
+  },
+  "india_states": true
+}

@@ -1,0 +1,12 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+gess1,Our Pasts II,old_ocr,rat2023,gess101,0,gess101,gess101,0.953,0,3491,128,0.0367,0,3406,59,296,13,0,15
+gess1,Our Pasts II,old_ocr,rat2023,gess102,0,gess102,gess102,0.8861,0,3098,327,0.1056,0,2807,45,272,15,0,47
+gess1,Our Pasts II,old_ocr,rat2023,gess103,0,gess103,gess103,0.5432,0,3577,1484,0.4149,6,2075,81,190,31,0,162
+gess1,Our Pasts II,old_ocr,rat2023,gess104,0,gess104,gess104,0.5415,0,3852,1714,0.445,13,2180,81,205,18,0,173
+gess1,Our Pasts II,old_ocr,rat2023,gess105,0,,gess102,0.0054,1,3309,3250,0.9822,59,0,0,0,0,0,355
+gess1,Our Pasts II,old_ocr,rat2023,gess106,0,,gess107,0.0114,1,3600,3520,0.9778,80,0,0,0,4,0,345
+gess1,Our Pasts II,old_ocr,rat2023,gess107,0,gess105,gess105,0.9088,0,3059,255,0.0834,5,2818,23,341,11,0,35
+gess1,Our Pasts II,old_ocr,rat2023,gess108,0,gess106,gess106,0.9222,0,4291,290,0.0676,5,4152,151,387,9,0,50
+gess1,Our Pasts II,old_ocr,rat2023,gess109,0,gess107,gess107,0.8778,0,3471,388,0.1118,0,3169,94,255,18,0,40
+gess1,Our Pasts II,old_ocr,rat2023,gess110,0,gess108,gess108,0.6541,0,4233,1393,0.3291,24,2826,23,209,3,0,97
+gess1,Our Pasts II,old_ocr,rat2023,gess1ps,1,gess1ps,gess1ps,0.8195,0,2382,279,0.1171,0,2378,317,279,25,0,51

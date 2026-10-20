@@ -1,0 +1,10 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+lesy1,Indian Society,old,rat2023,lesy101,0,lesy101,lesy101,0.646,0,2367,824,0.3481,5,1544,5,87,2,0,43
+lesy1,Indian Society,old,rat2023,lesy102,0,lesy102,lesy102,0.9602,0,10138,312,0.0308,15,9862,47,593,3,1,17
+lesy1,Indian Society,old,rat2023,lesy103,0,lesy103,lesy103,0.7933,0,8565,1715,0.2002,31,6844,14,432,3,1,86
+lesy1,Indian Society,old,rat2023,lesy104,0,lesy104,lesy104,0.8387,0,7063,1091,0.1545,19,5933,14,363,5,0,71
+lesy1,Indian Society,old,rat2023,lesy105,0,lesy105,lesy105,0.8277,0,12417,2079,0.1674,31,10352,44,672,4,0,128
+lesy1,Indian Society,old,rat2023,lesy106,0,lesy106,lesy106,0.7274,0,11140,2962,0.2659,38,8150,49,457,8,0,173
+lesy1,Indian Society,old,rat2023,lesy107,0,lesy107,lesy107,0.8974,0,3022,295,0.0976,0,6315,347,163,3,0,21
+lesy1,Indian Society,old,rat2023,lesy1gl,1,lesy107,lesy107,0.9976,0,3286,8,0.0024,0,6315,347,233,0,0,8
+lesy1,Indian Society,old,rat2023,lesy1ps,1,lesy1ps,lesy1ps,0.9747,0,3160,30,0.0095,0,3388,281,256,6,0,0

@@ -1,0 +1,8 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs301,0,lhhs301,lhhs301,0.9977,0,16520,37,0.0022,0,16694,48,250,0,0,0
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs302,0,lhhs302,lhhs302,0.9981,0,13806,24,0.0017,0,14005,31,201,0,0,1
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs303,0,,lhhs301,0.0267,1,14097,13334,0.9459,763,0,0,0,0,5,205
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs304,0,lhhs303,lhhs303,0.9937,0,16093,72,0.0045,12,16107,30,246,4,0,2
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs305,0,,lhhs303,0.0254,1,13585,12927,0.9516,658,0,0,0,2,5,197
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs306,0,lhhs304,lhhs304,0.9853,0,13311,130,0.0098,6,13380,45,185,8,0,11
+lhhs3,Bharatiya Itihas ke Kuchh Vishay III,old,rat2023,lhhs3ps,1,lhhs3ps,lhhs3ps,0.9534,0,4055,117,0.0289,0,4814,622,101,4,0,5

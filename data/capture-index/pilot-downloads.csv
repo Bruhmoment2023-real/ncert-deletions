@@ -1,0 +1,32 @@
+book,edition_label,requested_ts,final_url,bytes,sha256,n_files
+lehs1,old,20210819024536,https://web.archive.org/web/20210819024536id_/https://ncert.nic.in/textbook/pdf/lehs1dd.zip,18361151,54379f91517e6c93c66b1b8b0e378cd3ecdd07684a89e008de976061a853041a,5
+lehs2,old,20211009000000,https://web.archive.org/web/20211009192313id_/https://ncert.nic.in/textbook/pdf/lehs2dd.zip,21371468,fc76140223b69fde87dc47fa953a90ef9fb5288dc0b4c57e3f4e9ce45a0e9a36,6
+lehs3,old,20210816000000,https://web.archive.org/web/20210816134432id_/https://ncert.nic.in/textbook/pdf/lehs3dd.zip,30352800,895b00aa90560a2e17e351ca8025e0ae55a88b678ff577fbe87ed70e0870e639,7
+leps1,old,20210815000000,https://web.archive.org/web/20210815053649id_/https://ncert.nic.in/textbook/pdf/leps1dd.zip,21504469,47628e842a51057d63d88b1a7c968650ce663a1a0d8ed3de829ae24a523e4ebb,10
+leps2,old,20200616000000,https://web.archive.org/web/20200616194110id_/http://ncert.nic.in/textbook/pdf/leps2dd.zip,40653766,62a873962b9e7a0dce71655feb479057da007171c5992d067e5158c5b552a6aa,10
+lehs1,rat2023,20231223074033,https://web.archive.org/web/20231223074033id_/https://ncert.nic.in/textbook/pdf/lehs1dd.zip,22405219,95f6568bca20f94a7103975fd255cc0ad85dd83477b4d600d93f6d1d8b634edd,5
+lehs2,rat2023,20231223000000,https://web.archive.org/web/20231223073658id_/https://ncert.nic.in/textbook/pdf/lehs2dd.zip,19589684,67e97dcc9f7cba5c09e3d7f84560858f41397566954759440c73f37bc184fd67,5
+lehs3,rat2023,20231223000000,https://web.archive.org/web/20231223084036id_/https://ncert.nic.in/textbook/pdf/lehs3dd.zip,14942345,81e3ecb3de1be0bd2016ffdd3a92e9b733c57d27344e2706e7233eafa2940171,5
+leps1,rat2023,20231223000000,https://web.archive.org/web/20231223073115id_/https://ncert.nic.in/textbook/pdf/leps1dd.zip,42552542,0c253e4569c5d38d823525ce36e2241e96bfdacf8c19324cf70d3555eac109eb,8
+leps2,rat2023,20231223000000,https://web.archive.org/web/20231223073326id_/https://ncert.nic.in/textbook/pdf/leps2dd.zip,41841426,d4228f84ff868b791ec0dcd6ab492f02e43ee581ccdd19417ce3730eb3f04397,9
+leps2,latest,20260507000000,https://web.archive.org/web/20260507181903id_/https://ncert.nic.in/textbook/pdf/leps2dd.zip,40873539,84d8f9f6d72a6ce5dc3aca086addd0426ee64a7be4d6835494efdd8f11426039,9
+leps1,latest,20260507000000,https://web.archive.org/web/20260507181902id_/https://ncert.nic.in/textbook/pdf/leps1dd.zip,42004000,d18c633d0dc2875a386eacc7993bfdb34d9e72f071fb4c1366fe5e58d350f678,8
+lehs1,latest,20260507181900,https://web.archive.org/web/20260507181900id_/https://ncert.nic.in/textbook/pdf/lehs1dd.zip,26500683,b0c7cedf5af31c85293b64aa0430061392579238c5a3a70bdb94dde3f62d81bb,5
+lehs2,latest,20260507000000,https://web.archive.org/web/20260507181901id_/https://ncert.nic.in/textbook/pdf/lehs2dd.zip,24034378,5644e2d294b06690a61536370e8ae46e416d275f81e66259911988171aed906b,5
+lehs3,latest,20260507000000,https://web.archive.org/web/20260507181901id_/https://ncert.nic.in/textbook/pdf/lehs3dd.zip,15820340,aa2935b2eabc46f8d2a9e2ca3d8a8659551d8a607a16241c33f714240216b53e,5
+leps2/leps201.pdf,old2122,20211018000000,per-chapter capture (see log),6026266,2da59dafedf723b723ae2e9cd6dbb827a558f121ae0103b7dd8c5c46279310cb,1
+leps2/leps202.pdf,old2122,20211018000000,per-chapter capture (see log),3147909,62d7e96cc16373b39cbbd94a2dcde12c4426a1f077a462867470020b76f79b49,1
+leps2/leps203.pdf,old2122,20211018000000,per-chapter capture (see log),3217564,a9c7d64eabfd7990237c053dca364c7db82d97c65489766be8b9b6794454c10f,1
+leps2/leps204.pdf,old2122,20211018000000,per-chapter capture (see log),3798888,116fd436c3022eccbd5e7087745ef5ce30a611ac76f1e879c00316c3c5e4dcfd,1
+leps2/leps205.pdf,old2122,20211018000000,per-chapter capture (see log),3409691,870dde3d755cfe8a8fe9e139885337ab14447a8ba7281f739f667a23a1125dd5,1
+leps2/leps206.pdf,old2122,20211018000000,per-chapter capture (see log),5234633,f45bd957e5c6cd4af8fcf9041467d9daa23e662441d2de80f195ac16dd9b89f5,1
+leps2/leps207.pdf,old2122,20211018000000,per-chapter capture (see log),3973722,72603159ed54dca71e3b7d0cc8ec111e8b42234938cd02500b4890370e174d1c,1
+leps2/leps208.pdf,old2122,20211018000000,per-chapter capture (see log),6119078,25f12ce35468d49633cf81cee6efa8eef835fe5b6fd709306dad76afebf92c6f,1
+leps2/leps209.pdf,old2122,20211018000000,per-chapter capture (see log),6596664,139272eedb77d227de44dcf3a52ec15c4d09c2b018892df3ec87477a32ca2a87,1
+leps2/leps2ps.pdf,old2122,20211018000000,per-chapter capture (see log),1204574,6fa2ead05cefee55bd9f0ea780e5ef6f0f663fc614af74def951ebc0566d0d22,1
+jess4,old,20220803000000,https://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip,20989698,4800d13fcb212705fa9b10e6e3d8f7f08816c4c8cbe4689e6d29e58c2df1f91e,9
+jess4,rat2023,20231223000000,https://web.archive.org/web/20231223074046id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip,12332525,4509394074e80626d7f17716159825e84033aba11ea4c8e6343aa829bb08bab7,6
+kehs1,old,20220802235959,https://web.archive.org/web/20220802234409id_/https://ncert.nic.in/textbook/pdf/kehs1dd.zip,44153169,ce7a07a3dd461a731a84f27ea870fe3c2bbb234bfd7e99e259349d7be31d539c,12
+kehs1,rat2023,20231223000000,https://web.archive.org/web/20231223073237id_/https://ncert.nic.in/textbook/pdf/kehs1dd.zip,22673329,2dbc4e9cf55beaeaa8630ee5433e19de55fcbe7e4bb67b6df25c5718f0329c30,8
+jesc1,old,20220802000000,https://web.archive.org/web/20220802195955id_/https://ncert.nic.in/textbook/pdf/jesc1dd.zip,73892854,9f97350f7084ab40c0ac610f72bee3b68762e4d69f3fc826c6d8ad5db2f9a1f7,18
+jesc1,rat2023,20231223000000,https://web.archive.org/web/20231223074000id_/https://ncert.nic.in/textbook/pdf/jesc1dd.zip,60095214,93505a07354a00efdb574c6c478089414f9afe208ece381f66fe8ce5ebefe9e0,15

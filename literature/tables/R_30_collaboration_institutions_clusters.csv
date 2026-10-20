@@ -1,0 +1,30 @@
+"vertex","cluster","btw_centrality","clos_centrality","pagerank_centrality"
+"universiti putra malaysia",1,0,0.25,0.0304251991963707
+"universiti teknologi mara",1,0.75,0.333333333333333,0.0515727961647971
+"universitas ahmad dahlan",1,0,0.25,0.0179003772706343
+"universiti teknologi mara system",1,0.25,0.333333333333333,0.0380326618509564
+"university of kalyani",2,0,1,0.0344827586206896
+"kazi nazrul university",2,0,1,0.0344827586206896
+"central university of karnataka",3,0,1,0.0344827586206896
+"indian institute of technology kharagpur",3,0,1,0.0344827586206896
+"shanghai jiao tong university",4,0,0.05,0.0344827586206897
+"australian national university",4,0,0.05,0.0344827586206896
+"canadian institute for theoretical astrophysics",4,0,0.05,0.0344827586206897
+"catholic university of america",4,0,0.05,0.0344827586206897
+"center for astrophysics harvard & smithsonian",4,0,0.05,0.0344827586206897
+"flatiron institute",4,0,0.05,0.0344827586206897
+"goddard space flight center",4,0,0.05,0.0344827586206897
+"institucio catalana de recerca i estudis avancats",4,0,0.05,0.0344827586206897
+"institut de ciencies del cosmos",4,0,0.05,0.0344827586206897
+"institute for advanced study",4,0,0.05,0.0344827586206897
+"massachusetts institute of technology",4,0,0.05,0.0344827586206896
+"northwestern university",4,0,0.05,0.0344827586206897
+"princeton university",4,0,0.05,0.0344827586206896
+"space telescope science institute",4,0,0.05,0.0344827586206897
+"the nsf ai institute for artificial intelligence and fundamental interactions",4,0,0.05,0.0344827586206897
+"the university of texas at austin",4,0,0.05,0.0344827586206897
+"universitat de barcelona",4,0,0.05,0.0344827586206897
+"university of cincinnati",4,0,0.05,0.0344827586206897
+"university of manchester",4,0,0.05,0.0344827586206897
+"university of toronto",4,0,0.05,0.0344827586206897
+"westlake university",4,0,0.05,0.0344827586206897

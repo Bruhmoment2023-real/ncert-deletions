@@ -1,0 +1,9 @@
+﻿=== 07-ncert-deletions :: enrich
+enrich: hits=10629 unique=8227 pass title pre-screen=2060
+  openalex 400/2060 (72s)
+  openalex 800/2060 (145s)
+  openalex 1200/2060 (216s)
+  openalex 1600/2060 (292s)
+  openalex 2000/2060 (382s)
+enrich: {"date": "2026-10-13", "records_identified": 10629, "by_db": {"s2": 5846, "crossref": 4500, "eric": 245, "arxiv": 30, "seed": 8}, "duplicates_removed_identifiers": 2402, "unique_records": 8227, "removed_title_prescreen": 6167, "sent_to_openalex": 2060, "duplicates_removed_openalex": 19, "excluded_reasons": {"offtopic_fails_inclusion_rule": 987, "no_openalex_record (no DOI / not indexed)": 174, "type_excluded": 103, "language_not_english": 22, "year_out_of_range": 1, "paratext_or_container_record": 1, "offtopic_exclusion_term_in_title": 1}, "included_after_search_screen": 752}
+=== enrich done in 478s

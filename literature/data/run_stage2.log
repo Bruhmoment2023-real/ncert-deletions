@@ -1,0 +1,20 @@
+=== 07-ncert-deletions :: snowball
+snowball: central=25 backward candidates=425 forward candidates=179
+  snowball 400/603 (47s)
+snowball: {'central_papers': 25, 'backward_candidates': 425, 'forward_candidates': 178, 'snowball_screened': 603, 'snowball_duplicates': 4, 'snowball_excluded_reasons': {'offtopic_fails_inclusion_rule': 447, 'type_excluded': 57, 'year_out_of_range': 38, 'no_openalex_record': 16, 'offtopic_exclusion_term_in_title': 11, 'language_not_english': 6, 'paratext_or_container_record': 2}, 'snowball_included': 22, 'backward_included': 6, 'forward_included': 16, 'final_corpus': 774}
+=== snowball done in 102s
+=== 07-ncert-deletions :: refs
+refs: distinct cited works=9461 to resolve=5000 (cap 5000)
+  refs 2000/5000 (255s)
+  refs 4000/5000 (520s)
+refs: resolved 4893/5000
+=== refs done in 650s
+=== 07-ncert-deletions :: master
+  crossref-check 500/693 (110s)
+master: corpus=774 edges=241 refs_labelled=5666 manual_removed=0
+sublit
+C_nep_curriculum_reform              282
+A_textbook_politics_india            276
+B_computational_textbook_analysis    212
+seed                                   4
+=== master done in 464s

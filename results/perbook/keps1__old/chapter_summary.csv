@@ -1,0 +1,12 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+keps1,Political Theory,old,rat2023,keps101,0,keps101,keps101,1.0,0,4557,0,0.0,0,4557,0,352,0,0,0
+keps1,Political Theory,old,rat2023,keps102,0,keps102,keps102,1.0,0,5149,0,0.0,0,5149,0,298,0,0,0
+keps1,Political Theory,old,rat2023,keps103,0,keps103,keps103,1.0,0,6407,0,0.0,0,6407,0,413,0,0,0
+keps1,Political Theory,old,rat2023,keps104,0,keps104,keps104,1.0,0,4672,0,0.0,0,4672,0,249,0,0,0
+keps1,Political Theory,old,rat2023,keps105,0,keps105,keps105,1.0,0,3895,0,0.0,0,3895,0,226,0,0,0
+keps1,Political Theory,old,rat2023,keps106,0,keps106,keps106,1.0,0,5636,0,0.0,0,5636,0,363,0,0,0
+keps1,Political Theory,old,rat2023,keps107,0,keps107,keps107,1.0,0,4214,0,0.0,0,4214,0,275,0,0,0
+keps1,Political Theory,old,rat2023,keps108,0,keps108,keps108,1.0,0,5510,0,0.0,0,5510,0,426,0,0,0
+keps1,Political Theory,old,rat2023,keps109,0,,keps106,0.0042,1,4330,4276,0.9875,54,0,0,0,1,2,296
+keps1,Political Theory,old,rat2023,keps110,0,,keps104,0.0129,1,4638,4479,0.9657,159,0,0,0,5,2,276
+keps1,Political Theory,old,rat2023,keps1ps,1,keps1ps,keps1ps,0.9607,0,2444,43,0.0176,0,2641,261,129,5,0,4

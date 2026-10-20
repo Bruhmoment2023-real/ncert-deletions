@@ -1,0 +1,11 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+gess2,Our Environment,old,rat2023,gess201,0,gess201,gess201,1.0,0,1501,0,0.0,0,1501,0,170,0,0,0
+gess2,Our Environment,old,rat2023,gess202,0,gess202,gess202,1.0,0,1240,0,0.0,0,1240,0,150,0,0,0
+gess2,Our Environment,old,rat2023,gess203,0,gess203,gess203,1.0,0,2072,0,0.0,0,2072,0,260,0,0,0
+gess2,Our Environment,old,rat2023,gess204,0,gess204,gess204,1.0,0,2817,0,0.0,0,2817,0,311,0,0,0
+gess2,Our Environment,old,rat2023,gess205,0,gess205,gess205,1.0,0,2296,0,0.0,0,2296,0,212,0,0,0
+gess2,Our Environment,old,rat2023,gess206,0,,gess206,0.014,1,2350,2334,0.9932,16,0,0,0,1,0,228
+gess2,Our Environment,old,rat2023,gess207,0,,gess203,0.0134,1,1940,1920,0.9897,20,0,0,0,3,0,201
+gess2,Our Environment,old,rat2023,gess208,0,gess206,gess206,0.9764,0,2711,36,0.0133,0,2689,14,262,10,0,2
+gess2,Our Environment,old,rat2023,gess209,0,gess207,gess207,0.9951,0,2050,4,0.002,0,2048,2,192,3,0,2
+gess2,Our Environment,old,rat2023,gess2ps,1,gess2ps,gess2ps,0.8444,0,1645,138,0.0839,0,1662,206,114,12,0,10

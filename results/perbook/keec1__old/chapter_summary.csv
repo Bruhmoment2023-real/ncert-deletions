@@ -1,0 +1,12 @@
+﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
+keec1,Indian Economic Development,old,rat2023,keec101,0,keec101,keec101,0.9962,0,4232,15,0.0035,0,4218,2,304,0,0,1
+keec1,Indian Economic Development,old,rat2023,keec102,0,keec102,keec102,0.9996,0,7531,3,0.0004,0,7531,1,473,2,0,0
+keec1,Indian Economic Development,old,rat2023,keec103,0,keec103,keec103,0.9998,0,6544,1,0.0002,0,6543,0,525,0,0,0
+keec1,Indian Economic Development,old,rat2023,keec104,0,,keec106,0.0153,1,8082,7731,0.9566,351,0,0,0,5,5,570
+keec1,Indian Economic Development,old,rat2023,keec105,0,keec104,keec104,0.9952,0,5417,7,0.0013,0,5428,16,374,4,0,0
+keec1,Indian Economic Development,old,rat2023,keec106,0,keec105,keec105,0.993,0,5714,14,0.0025,1,5722,23,438,1,1,0
+keec1,Indian Economic Development,old,rat2023,keec107,0,keec106,keec106,0.9878,0,7296,41,0.0056,0,7280,24,624,10,0,1
+keec1,Indian Economic Development,old,rat2023,keec108,0,,keec106,0.016,1,7488,7152,0.9551,336,0,0,0,10,5,561
+keec1,Indian Economic Development,old,rat2023,keec109,0,keec107,keec107,0.9973,0,5868,4,0.0007,0,5869,5,411,0,0,0
+keec1,Indian Economic Development,old,rat2023,keec110,0,keec108,keec108,0.5972,0,9174,21,0.0023,3662,5493,13,406,5,179,5
+keec1,Indian Economic Development,old,rat2023,keec1ps,1,keec1ps,keec1ps,0.909,0,3253,130,0.04,0,3405,297,209,8,0,14

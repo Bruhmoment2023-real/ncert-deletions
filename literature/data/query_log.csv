@@ -1,0 +1,49 @@
+﻿qid,db,sublit,query,total_in_db,retrieved,status,date
+crossref_B_computational_textbook_analysis_01,crossref,B_computational_textbook_analysis,computational text analysis of textbooks,6758138.0,250,ok,2026-10-13
+crossref_B_computational_textbook_analysis_02,crossref,B_computational_textbook_analysis,natural language processing school textbooks content analysis,9760199.0,250,ok,2026-10-13
+crossref_B_computational_textbook_analysis_03,crossref,B_computational_textbook_analysis,topic modeling history textbooks,2635178.0,250,ok,2026-10-13
+crossref_B_computational_textbook_analysis_04,crossref,B_computational_textbook_analysis,word embeddings gender bias textbooks,734175.0,250,ok,2026-10-13
+crossref_B_computational_textbook_analysis_05,crossref,B_computational_textbook_analysis,corpus-based analysis of school textbooks,12358061.0,250,ok,2026-10-13
+crossref_B_computational_textbook_analysis_06,crossref,B_computational_textbook_analysis,quantitative content analysis textbook editions changes over time,9035828.0,250,ok,2026-10-13
+crossref_B_computational_textbook_analysis_07,crossref,B_computational_textbook_analysis,text mining curriculum documents,801613.0,250,ok,2026-10-13
+s2_B_computational_textbook_analysis_01,s2,B_computational_textbook_analysis,"(textbook | textbooks | schoolbooks) + (""text mining"" | ""natural language processing"" | ""topic modeling"" | ""topic modelling"" | ""word embeddings"" | ""computational text analysis"" | ""quantitative text analysis"" | ""text as data"" | ""corpus linguistics"" | ""corpus-based"")",1281.0,800,ok,2026-10-13
+s2_B_computational_textbook_analysis_02,s2,B_computational_textbook_analysis,"(textbooks | ""history textbooks"" | ""school textbooks"") + ""content analysis"" + (computational | automated | quantitative | corpus)",670.0,670,ok,2026-10-13
+s2_B_computational_textbook_analysis_03,s2,B_computational_textbook_analysis,"textbooks + (gender | race | bias | representation) + (""word embeddings"" | ""natural language processing"" | computational | ""machine learning"" | ""text analysis"")",409.0,409,ok,2026-10-13
+s2_B_computational_textbook_analysis_04,s2,B_computational_textbook_analysis,"(""history textbooks"" | ""social studies textbooks"" | ""civics textbooks"") + (quantitative | corpus | ""text analysis"" | digital) + analysis",155.0,155,ok,2026-10-13
+s2_B_computational_textbook_analysis_05,s2,B_computational_textbook_analysis,"(textbook | textbooks) + (editions | revision | revisions | longitudinal) + (""content analysis"" | ""text analysis"" | corpus | comparison)",1199.0,800,ok,2026-10-13
+eric_B_computational_textbook_analysis_01,eric,B_computational_textbook_analysis,"textbooks AND ""content analysis"" AND (computational OR ""text mining"" OR ""natural language processing"" OR corpus)",77.0,77,ok,2026-10-13
+arxiv_B_computational_textbook_analysis_01,arxiv,B_computational_textbook_analysis,"all:textbooks AND (all:""content analysis"" OR all:""text analysis"" OR all:""word embeddings"") AND (all:gender OR all:history OR all:bias OR all:curriculum)",1.0,1,ok,2026-10-13
+arxiv_B_computational_textbook_analysis_02,arxiv,B_computational_textbook_analysis,"ti:textbooks AND (all:""natural language processing"" OR all:computational)",29.0,29,ok,2026-10-13
+crossref_A_textbook_politics_india_01,crossref,A_textbook_politics_india,NCERT textbooks,25098.0,250,ok,2026-10-13
+crossref_A_textbook_politics_india_02,crossref,A_textbook_politics_india,history textbook controversy India,2314666.0,250,ok,2026-10-13
+crossref_A_textbook_politics_india_03,crossref,A_textbook_politics_india,rewriting history textbooks India Hindutva,2246744.0,250,ok,2026-10-13
+crossref_A_textbook_politics_india_04,crossref,A_textbook_politics_india,politics of school textbooks India nationalism,2230953.0,250,ok,2026-10-13
+crossref_A_textbook_politics_india_05,crossref,A_textbook_politics_india,NCERT rationalisation textbooks deletions,34235.0,250,ok,2026-10-13
+crossref_A_textbook_politics_india_06,crossref,A_textbook_politics_india,National Curriculum Framework India textbooks,2915814.0,250,ok,2026-10-13
+crossref_A_textbook_politics_india_07,crossref,A_textbook_politics_india,representation gender caste Indian school textbooks,2165464.0,250,ok,2026-10-13
+s2_A_textbook_politics_india_01,s2,A_textbook_politics_india,"(NCERT | ""National Council of Educational Research and Training"") + (textbook | textbooks | curriculum | syllabus)",267.0,267,ok,2026-10-13
+s2_A_textbook_politics_india_02,s2,A_textbook_politics_india,"(India | Indian) + (""history textbooks"" | ""history textbook"" | ""textbook controversy"" | ""textbook controversies"" | ""textbook revision"" | ""rewriting history"" | saffronisation | saffronization)",853.0,800,ok,2026-10-13
+s2_A_textbook_politics_india_03,s2,A_textbook_politics_india,(India | Indian) + textbooks + (politics | nationalism | Hindutva | ideology | identity | secularism | communalism | gender | caste),726.0,726,ok,2026-10-13
+s2_A_textbook_politics_india_04,s2,A_textbook_politics_india,"(India | Indian) + (""curriculum politics"" | ""politics of curriculum"" | ""National Curriculum Framework"" | ""curriculum reform"") + (school | schools | textbooks)",192.0,191,ok,2026-10-13
+s2_A_textbook_politics_india_05,s2,A_textbook_politics_india,"(""textbook rationalisation"" | ""textbook rationalization"" | ""rationalised content"" | ""syllabus rationalisation"" | ""deleted chapters"" | ""textbook deletions"") + (NCERT | India | CBSE)",1.0,1,ok,2026-10-13
+eric_A_textbook_politics_india_01,eric,A_textbook_politics_india,"NCERT OR ""National Council of Educational Research and Training""",40.0,34,ok,2026-10-13
+eric_A_textbook_politics_india_02,eric,A_textbook_politics_india,"India AND textbooks AND (history OR politics OR nationalism OR ""content analysis"")",58.0,48,ok,2026-10-13
+crossref_C_nep_curriculum_reform_01,crossref,C_nep_curriculum_reform,National Education Policy 2020 India school curriculum,13534179.0,250,ok,2026-10-13
+crossref_C_nep_curriculum_reform_02,crossref,C_nep_curriculum_reform,NEP 2020 curriculum reform school education,11081290.0,250,ok,2026-10-13
+crossref_C_nep_curriculum_reform_03,crossref,C_nep_curriculum_reform,National Curriculum Framework India school education reform,6412351.0,250,ok,2026-10-13
+crossref_C_nep_curriculum_reform_04,crossref,C_nep_curriculum_reform,curriculum load reduction rationalisation India school syllabus,2357365.0,250,ok,2026-10-13
+s2_C_nep_curriculum_reform_01,s2,C_nep_curriculum_reform,"(""National Education Policy 2020"" | ""NEP 2020"" | ""National Education Policy"") + (India | Indian) + (curriculum | school | schools | textbooks | reform)",1422.0,800,ok,2026-10-13
+s2_C_nep_curriculum_reform_02,s2,C_nep_curriculum_reform,"(""National Curriculum Framework"" | ""curriculum reform"" | ""curricular reform"" | ""curriculum load"") + (India | Indian | NCERT) + (school | schools)",228.0,227,ok,2026-10-13
+eric_C_nep_curriculum_reform_01,eric,C_nep_curriculum_reform,"""National Education Policy"" AND India",80.0,80,ok,2026-10-13
+eric_C_nep_curriculum_reform_02,eric,C_nep_curriculum_reform,"India AND ""curriculum reform"" AND (school OR secondary OR elementary)",7.0,6,ok,2026-10-13
+seed_title,seed,,"Content Analysis of Textbooks via Natural Language Processing: Findings on Gender, Race, and Ethnicity in Texas U.S. History Textbooks",,1,matched 10.1177/2332858420940312,2026-10-13
+seed_title,seed,,What We Teach About Race and Gender: Representation in Images and Text of Children's Books,,1,matched 10.2139/ssrn.4416772,2026-10-13
+seed_title,seed,,"Sexist textbooks: Automated analysis of gender bias in 1,255 books from 34 countries",,1,matched 10.1371/journal.pone.0310366,2026-10-13
+seed_title,seed,,Educate to hate: the use of education in the creation of antagonistic national identities in India and Pakistan,,1,matched 10.1080/03057920701467834,2026-10-13
+seed_title,seed,,Teaching History in Schools: the Politics of Textbooks in India,,1,matched 10.1093/hwj/dbn050,2026-10-13
+seed_title,seed,,The History Debate and School Textbooks in India: a Personal Memoir,,1,matched 10.1093/hwj/dbn054,2026-10-13
+seed_title,seed,,The Hindutva View of History: Rewriting Textbooks in India and the United States,,0,NOT MATCHED in Crossref,2026-10-13
+seed_title,seed,,"The Construction of History and Nationalism in India: Textbooks, Controversies and Politics",,1,matched 10.1080/09584935.2013.856606,2026-10-13
+seed_title,seed,,Prejudice and Pride: School Histories of the Freedom Struggle in India and Pakistan,,1,matched 10.1177/097318490300100107,2026-10-13
+seed_title,seed,,"Hindu Nationalism, History and Identity in India: Narrating a Hindu past under the BJP",,0,NOT MATCHED in Crossref,2026-10-13
+seed_title,seed,,"Curriculum as Destiny: Forging National Identity in India, Pakistan, and Bangladesh",,0,NOT MATCHED in Crossref,2026-10-13
