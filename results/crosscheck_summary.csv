@@ -1,5 +1,5 @@
 ﻿pipeline_label,present(>=97),partial(69-96),absent(<=68),n
 kept,16512,288,0,16800
-reworded,112,588,142,842
-moved,467,30,0,497
-deleted,1,1026,14322,15349
+reworded,112,592,147,851
+moved,395,29,0,424
+deleted,1,1036,14376,15413
