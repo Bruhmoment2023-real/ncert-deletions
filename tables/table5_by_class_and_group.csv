@@ -1,6 +1,6 @@
 ﻿group,books,old_words,new_words,removed_words,added_words_adj,old_chapter_files,chapter_files_dropped,removed_in_dropped_chapters,removed_in_surviving_chapters,surv_listed_pages,surv_unlisted_pages,surv_page_not_testable,books_zero_removal,share_removed
 Class 06 | Science,1,58458,44057,13880,354,16,5,13507,373,17,22,334,0,0.2374
-Class 06 | Social science,3,72963,58861,11580,409,29,4,7008,4572,3172,1400,0,0,0.1587
+Class 06 | Social science,3,72963,58861,11580,409,29,4,7008,4572,3594,978,0,0,0.1587
 Class 07 | Science,1,66526,47389,18939,285,19,6,18625,314,0,1,313,0,0.2847
 Class 07 | Social science,3,83395,65576,20195,418,28,5,13137,7058,2674,2255,2129,0,0.2422
 Class 08 | Science,1,74071,52776,20751,388,18,5,20272,479,0,479,0,0,0.2802

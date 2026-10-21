@@ -11,8 +11,20 @@ from pathlib import Path
 import pymupdf
 
 
+CHAPTER_RE = re.compile(r"^[a-z]{4}\d(\d{2,3})$")   # NCERT: <4-letter subject code><volume digit><chapter>, e.g. fess103
+
+
+def chapter_order(stem: str):
+    """Sort key: numeric chapter order. NCERT names chapter files <book><2-digit chapter> (fess101 .. fess109), but some
+    file sets use three digits past 9 (fess1010, fess1011), so plain string sorting put chapters 10-11 before 2.
+    Files whose names do not follow the scheme (e.g. 'World Map _ SDGs', fess3rf) go after the numbered chapters."""
+    m = CHAPTER_RE.match(stem.lower())
+    return (0, int(m.group(1)), stem) if m else (1, 0, stem)
+
+
 def body_files(folder: Path):
-    return sorted(p for p in folder.glob("*.pdf") if not re.search(r"(ps|an|gl|ap|a\d|in|sm|cc)$", p.stem))
+    files = [p for p in folder.glob("*.pdf") if not re.search(r"(ps|an|gl|ap|a\d|in|sm|cc)$", p.stem)]
+    return sorted(files, key=lambda p: chapter_order(p.stem))
 
 
 def anchor(folder: Path):

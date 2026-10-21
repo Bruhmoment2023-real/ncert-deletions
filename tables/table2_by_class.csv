@@ -1,5 +1,5 @@
 ﻿group,books,old_words,new_words,removed_words,added_words_adj,old_chapter_files,chapter_files_dropped,removed_in_dropped_chapters,removed_in_surviving_chapters,surv_listed_pages,surv_unlisted_pages,surv_page_not_testable,books_zero_removal,share_removed
-Class 06,4,131421,102918,25460,763,45,9,20515,4945,3189,1422,334,0,0.1937
+Class 06,4,131421,102918,25460,763,45,9,20515,4945,3611,1000,334,0,0.1937
 Class 07,4,149921,112965,39134,703,47,11,31762,7372,2674,2256,2442,0,0.261
 Class 08,4,179946,137854,40944,528,44,9,36368,4576,3550,1026,0,0,0.2275
 Class 09,5,207340,178686,28331,333,35,3,18138,10193,2748,3496,3949,3,0.1366

@@ -25,7 +25,7 @@ Measures how many words each NCERT textbook lost between its last pre-rationalis
 | 11 | `code\run_diff.py code\corpus_pairs.csv --k 4 --out results\sensitivity\k4` (also `--k 8`, `--no-fuzzy --out results\sensitivity\nofuzzy`) | sensitivity |
 | 12 | `code\ocr_quality.py 8 11` | OCR control sample, `results\ocr_quality.csv` |
 | 13 | `code\aggregate.py`, `code\aggregate_sens.py`, `code\aggregate_extra.py` | all tables and figures |
-| - | `-m pytest code\tests -q` | 11 tests pass |
+| - | `-m pytest code\tests -q` | 13 tests pass (2 on the chapter order used by the page anchor) |
 
 ## What was added to the pack's code (new files only; the pack's own scripts are unmodified copies)
 `acquire.py`, `fetch_alt.py`, `prep_special.py`, `ocr_pdf.py`, `ocr_quality.py`, `make_pairs.py`, `run_corpus.py`, `page_anchor.py`, `compare_official2.py`, `qa_pairs.py`, `adjudicate_validation.py`, `aggregate*.py`, `official_codes.csv`.

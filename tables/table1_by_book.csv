@@ -1,6 +1,6 @@
 ﻿book,class,subject,group,language,title,old_print_stamp,old_capture,old_source,new_print_stamp,new_capture,old_words,new_words,removed_words,share_removed,added_words_adj,old_chapter_files,chapter_files_dropped,removed_in_dropped_chapters,removed_in_surviving_chapters,surv_listed_pages,surv_unlisted_pages,surv_page_not_testable,official_full_chapter_entries,official_no_change,official_rows,qa_flags
 fess2,6,Geography,Social science,English,The Earth: Our Habitat,2020-21,20200616,old,Rationalised 2023-24,20231223,15447,12014,3461,0.2241,35,8,2,3413,48,0,48,0,2,0,4,
-fess1,6,History,Social science,English,Our Pasts I,2020-21,20200616,old,Rationalised 2023-24,20231223,33266,25067,5655,0.17,290,11,1,1757,3898,2670,1228,0,0,0,70,
+fess1,6,History,Social science,English,Our Pasts I,2020-21,20200616,old,Rationalised 2023-24,20231223,33266,25067,5655,0.17,290,11,1,1757,3898,3092,806,0,0,0,70,
 fess3,6,Political Science,Social science,English,Social and Political Life I,2020-21,20200616,old,Rationalised 2023-24,20231223,24250,21780,2464,0.1016,84,10,1,1838,626,502,124,0,1,0,4,
 fesc1,6,Science,Science,English,Science,2022-23,20220803,old,Rationalised 2023-24,20231223,58458,44057,13880,0.2374,354,16,5,13507,373,17,22,334,5,0,10,
 gess2,7,Geography,Social science,English,Our Environment,2022-23,20220802,old,Rationalised 2023-24,20231223,18977,14663,4294,0.2263,16,9,2,4254,40,0,0,40,2,0,2,
