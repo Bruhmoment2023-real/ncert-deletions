@@ -1,4 +1,4 @@
-# Counting what was cut: a word-level measurement of the 2022-23 rationalisation of NCERT textbooks
+# How much text did NCERT remove? A word-level count of the 2022-23 rationalisation
 
 Sean Solano Paul, Independent researcher, Bengaluru, India. Funding: none. Competing interests: none.
 
@@ -59,4 +59,4 @@ Code is MIT (`LICENSE`). The author's derived data, tables and figures are CC BY
 
 ## Citation
 
-See `CITATION.cff`. Solano Paul, S. (2026). *Counting what was cut: a word-level measurement of the 2022-23 rationalisation of NCERT textbooks* (code and data). Independent researcher, Bengaluru, India. Zenodo DOI to be added.
+See `CITATION.cff`. Solano Paul, S. (2026). *How much text did NCERT remove? A word-level count of the 2022-23 rationalisation* (code and data). Independent researcher, Bengaluru, India. Zenodo DOI to be added.
