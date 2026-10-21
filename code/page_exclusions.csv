@@ -1,0 +1,2 @@
+book,edition_label,chapter_file,exclude_pdf_pages,reason
+fess1,old,fess103,12-21,"NCERT's fess103.pdf in the 2020-21 capture (zip 20200616235132) holds chapter 3 (printed pp. 24-34, PDF pages 1-11) followed by a duplicate of chapter 4's printed pp. 36-45 (PDF pages 12-21), which are also in fess104.pdf. The duplicate pages are dropped so that their words are not counted twice."

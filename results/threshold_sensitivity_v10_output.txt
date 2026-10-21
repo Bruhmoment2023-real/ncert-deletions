@@ -1,4 +1,4 @@
-English chapter files: 465; removed words at any threshold: 622,576
+English chapter files: 465; removed words at any threshold: 622,329
 threshold 0.20: 76 dropped chapters holding 409,477 words, of which 395,870 removed (63.6% of all removed words)
 threshold 0.25: 77 dropped chapters holding 418,209 words, of which 402,907 removed (64.7% of all removed words)
 threshold 0.30: 79 dropped chapters holding 430,713 words, of which 411,444 removed (66.1% of all removed words)

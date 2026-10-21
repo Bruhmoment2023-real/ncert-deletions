@@ -17,18 +17,20 @@ Measures how many words each NCERT textbook lost between its last pre-rationalis
 | 3 | `code\fetch_alt.py <book> <ts> old_alt` | the seven books whose 2022-23 scan had no text layer: jess3 20200517154230, jess4 20200517045511, kehs1 20200615215721, hess3 20210814170507, gess1 20210813011729, gess3 20200508031850, iess4 20210814004017 |
 | 4 | `code\ocr_pdf.py data\books\old\<book> data\books\old_ocr\<book> --lang eng` | gess1 gess3 iess4 jess4 jess3 hess3 kehs1; ~10-25 s per page |
 | 5 | `code\make_pairs.py` | builds `code\corpus_pairs.csv` from `logs\pair_labels.csv` (which old edition is primary) |
+| 5b | `code\apply_page_exclusions.py` | drops the documented duplicate pages in `code\page_exclusions.csv` (fess1: fess103.pdf PDF pages 12-21, a copy of chapter 4) and keeps the original under `data\books\_excluded_originals` |
 | 6 | `code\run_corpus.py code\corpus_pairs.csv` | the pack's `run_diff.py`, one book at a time, below-normal priority advised; ~10 s per book. Alternatives: `code\alt_textlayer_pairs.csv`, `code\alt_ocr_pairs.csv` |
 | 7 | `code\qa_pairs.py` | flags incomplete old text and zero-change books |
+| 7b | `code\page_anchor.py code\corpus_pairs.csv` | printed page numbers read from the page text (folio) for chapters the pack's detector did not number -> `results\folio_offsets.csv` (a few minutes) |
 | 8 | `code\compare_official2.py code\corpus_pairs.csv` | listed vs unlisted (needs `02-official-listed-deletions.csv`, copied from the pack) |
 | 9 | `code\make_validation_sample.py code\pairs_english.csv 20261017 validation_fresh_WORKING.csv`, then `code\adjudicate_validation.py` | fresh sample (seed 20261017); adjudication recorded in code |
 | 10 | `code\crosscheck.py code\corpus_pairs.csv 300 1`; `code\classify_rules.py code\corpus_pairs.csv --sample 60 --seed 3` | independent matcher; keyword codebook |
 | 11 | `code\run_diff.py code\corpus_pairs.csv --k 4 --out results\sensitivity\k4` (also `--k 8`, `--no-fuzzy --out results\sensitivity\nofuzzy`) | sensitivity |
 | 12 | `code\ocr_quality.py 8 11` | OCR control sample, `results\ocr_quality.csv` |
 | 13 | `code\aggregate.py`, `code\aggregate_sens.py`, `code\aggregate_extra.py` | all tables and figures |
-| - | `-m pytest code\tests -q` | 13 tests pass (2 on the chapter order used by the page anchor) |
+| - | `-m pytest code\tests -q` | 15 tests pass (4 on the page anchor, folio reader and page exclusions) |
 
 ## What was added to the pack's code (new files only; the pack's own scripts are unmodified copies)
-`acquire.py`, `fetch_alt.py`, `prep_special.py`, `ocr_pdf.py`, `ocr_quality.py`, `make_pairs.py`, `run_corpus.py`, `page_anchor.py`, `compare_official2.py`, `qa_pairs.py`, `adjudicate_validation.py`, `aggregate*.py`, `official_codes.csv`.
+`acquire.py`, `fetch_alt.py`, `prep_special.py`, `ocr_pdf.py`, `ocr_quality.py`, `make_pairs.py`, `run_corpus.py`, `page_anchor.py`, `apply_page_exclusions.py` (with `page_exclusions.csv`), `compare_official2.py`, `qa_pairs.py`, `adjudicate_validation.py`, `aggregate*.py`, `official_codes.csv`.
 
 ## Known limits
 - The pack's STAMP_RE misses the stamp form "Rationalised-2023-24" (hyphen), used in some books. Removed-word counts are unaffected; added-word counts include 3 stamp words per page for those books, which `aggregate.py` subtracts (`added_words_adj`).

@@ -1,3 +1,3 @@
 ﻿group,books,old_words,new_words,removed_words,added_words_adj,old_chapter_files,chapter_files_dropped,removed_in_dropped_chapters,removed_in_surviving_chapters,surv_listed_pages,surv_unlisted_pages,surv_page_not_testable,books_zero_removal,share_removed
 Science,15,1327527,955979,365330,9109,181,40,226312,139018,93996,27986,17036,0,0.2752
-Social science,36,1520555,1266935,257246,7202,284,39,185132,72114,55144,14383,2587,8,0.1692
+Social science,36,1518149,1266935,256999,7202,284,39,185132,71867,60822,8458,2587,8,0.1693

@@ -1,7 +1,7 @@
 ﻿group,books,old_words,new_words,removed_words,added_words_adj,old_chapter_files,chapter_files_dropped,removed_in_dropped_chapters,removed_in_surviving_chapters,surv_listed_pages,surv_unlisted_pages,surv_page_not_testable,books_zero_removal,share_removed
 Science | Science,15,1327527,955979,365330,9109,181,40,226312,139018,93996,27986,17036,0,0.2752
 Social science | Economics,5,214693,189292,24460,375,31,3,21534,2926,2048,878,0,2,0.1139
-Social science | Geography,9,282619,221390,60172,1177,81,13,38430,21742,19198,2048,496,0,0.2129
-Social science | History,9,437485,345107,89535,1444,67,12,78761,10774,7122,3652,0,3,0.2047
+Social science | Geography,9,282619,221390,60172,1177,81,13,38430,21742,19357,1889,496,0,0.2129
+Social science | History,9,435079,345107,89288,1444,67,12,78761,10527,7303,3224,0,3,0.2052
 Social science | Political Science,9,396142,341561,58228,3060,80,11,46407,11821,8761,969,2091,2,0.147
-Social science | Sociology,4,189616,169585,24851,1146,25,0,0,24851,18015,6836,0,1,0.1311
+Social science | Sociology,4,189616,169585,24851,1146,25,0,0,24851,23353,1498,0,1,0.1311

@@ -1,4 +1,4 @@
 ﻿scope,books,books_with_page_test,removed_total,removed_in_dropped_chapters,surviving_removed_in_testable_books,of_which_on_listed_pages,of_which_on_unlisted_pages,share_unlisted_of_testable_surviving,surviving_removed_in_untestable_books
-all English,51,33,622576,411444,171438,135643,35795,0.2088,39694
+all English,51,33,622329,411444,171191,141321,29870,0.1745,39694
 Science,15,10,365330,226312,102647,80499,22148,0.2158,36371
-Social science,36,23,257246,185132,68791,55144,13647,0.1984,3323
+Social science,36,23,256999,185132,68544,60822,7722,0.1127,3323

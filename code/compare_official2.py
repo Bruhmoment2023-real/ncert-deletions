@@ -7,6 +7,11 @@ Additions (all flagged in the output):
   2. Printed page numbers missing from the pack's detector are filled from page_anchor.anchor() (contents-list anchor),
      only where the anchor is trustworthy (see page_anchor.py and ANCHOR_RULE below).  Units still without a page are
      reported as no_page_number, not as unlisted.
+     2b (21 Oct 2026). Before the anchor, a chapter's folio offset read from the page text (results/folio_offsets.csv,
+     written by `page_anchor.py code/corpus_pairs.csv`) is used when it exists (page_source "folio"); the contents
+     anchor is used only for chapters without one.  Both are used only in books where the anchor rule below holds, so
+     the set of books with placeable pages is unchanged.  The anchor had put fess1 chapters 1-3, all of hess4 and lesy1
+     (-1) and all of keec1 (+2) on the wrong pages.
   3. The count of NCERT "Full Chapter" entries is reported next to the number of chapter files measured as dropped.
 Usage: python -I code/compare_official2.py code/corpus_pairs.csv
 Output: results/official_vs_measured.csv, results/unlisted_units_WORKING.csv (textbook text: not for release)
@@ -32,8 +37,17 @@ def load_official():
             full[r["book_code"]][r["booklet_version"]].add(r["chapter"])
     return pages, full, cls
 
+def load_folios():
+    p = ROOT / "results/folio_offsets.csv"
+    if not p.exists():
+        return {}
+    return {(r["book"], r["edition"], r["chapter"]): int(r["folio_offset"])
+            for r in csv.DictReader(open(p, encoding="utf-8-sig")) if r["folio_offset"] != ""}
+
+
 def main(pairs_file):
     off, full, cls = load_official()
+    folio = load_folios()
     meta = {}
     for r in csv.DictReader(open(ROOT / "results/extraction_meta.csv", encoding="utf-8-sig")):
         if r["edition"] != "rat2023" and r["page_offset"] != "":
@@ -65,7 +79,10 @@ def main(pairs_file):
                     continue
                 pp = int(u["printed_page"]) if u["printed_page"] else None
                 src = "detected"
-                if pp is None and anchor_ok and u["chapter"] in cum:
+                fo = folio.get((book, row["old_label"], u["chapter"]))
+                if pp is None and anchor_ok and fo is not None:
+                    pp = int(u["pdf_page"]) + fo; src = "folio"
+                elif pp is None and anchor_ok and u["chapter"] in cum:
                     pp = cum[u["chapter"]] + delta + int(u["pdf_page"]) - 1; src = "anchored"
                 if pp is None:
                     c = "no_page_number"
@@ -82,7 +99,8 @@ def main(pairs_file):
                     "removed_in_surviving_chapters": agg["total"] - agg["dropped_chapter"],
                     "on_pages_listed_2022": agg["listed_2022"], "on_pages_listed_only_in_revised_booklet": agg["listed_later"],
                     "on_unlisted_pages": agg["unlisted"], "no_page_number": agg["no_page_number"],
-                    "words_page_from_detector": agg["src_detected"], "words_page_from_anchor": agg["src_anchored"],
+                    "words_page_from_detector": agg["src_detected"], "words_page_from_folio": agg["src_folio"],
+                    "words_page_from_anchor": agg["src_anchored"],
                     "anchor_used": int(anchor_ok), "anchor_votes": f"{votes}/{nch}",
                     "official_full_chapter_entries": len(fc), "measured_chapter_files_dropped": dropped,
                     "class11_live_used_as_first": int(bool(is11))})

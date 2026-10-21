@@ -1,5 +1,5 @@
 ﻿book,title,old_edition,new_edition,old_chapters,new_chapters,chapters_dropped,old_words,new_words,removed_words,share_removed,removed_words_in_dropped_chapters,removed_words_in_surviving_chapters,added_words,moved_words
-fess1,Our Pasts I,old,rat2023,11,10,1,33266,25067,5120,0.1539,1636,3484,246,3986
+fess1,Our Pasts I,old,rat2023,11,10,1,30860,25067,4920,0.1594,1636,3284,246,1875
 fess2,The Earth: Our Habitat,old,rat2023,8,7,2,15447,12014,3348,0.2167,3303,45,30,229
 fess3,Social and Political Life I,old,rat2023,10,9,1,24250,21780,2301,0.0949,1712,589,76,240
 fesc1,Science,old,rat2023,16,11,5,58458,44057,12444,0.2129,12088,356,335,2336
