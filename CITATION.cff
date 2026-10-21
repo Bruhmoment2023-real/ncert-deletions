@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: "Solano Paul"
     given-names: "Sean"
+    orcid: "https://orcid.org/0009-0002-8465-4468"
     affiliation: "Independent researcher"
 date-released: 2026-10-20
 license: MIT

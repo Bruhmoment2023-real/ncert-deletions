@@ -1,8 +1,20 @@
 {
-  "title": "Counting what was cut: a word-level measurement of the 2022-23 rationalisation of NCERT textbooks (code and data)",
+  "title": "How much text did NCERT remove? A word-level count of the 2022-23 rationalisation (code and data)",
   "upload_type": "software",
-  "creators": [{"name": "Solano Paul, Sean", "affiliation": "Independent researcher"}],
+  "creators": [
+    {
+      "name": "Solano Paul, Sean",
+      "affiliation": "Independent researcher",
+      "orcid": "0009-0002-8465-4468"
+    }
+  ],
   "license": "MIT",
   "description": "Code, count tables, figures and logs for a word-level comparison of 56 NCERT textbooks before and after the 2022-23 rationalisation, and a check of NCERT's official deletion lists against the books. Textbook text is not included.",
-  "keywords": ["textbooks", "NCERT", "curriculum change", "text comparison", "India"]
+  "keywords": [
+    "textbooks",
+    "NCERT",
+    "curriculum change",
+    "text comparison",
+    "India"
+  ]
 }
