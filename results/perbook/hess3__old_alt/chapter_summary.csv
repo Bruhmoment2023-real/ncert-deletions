@@ -1,12 +1,12 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
 hess3,Social and Political Life III,old_alt,rat2023,hess301,0,hess301,hess301,0.9936,0,5351,28,0.0052,6,5317,0,355,0,0,2
 hess3,Social and Political Life III,old_alt,rat2023,hess302,0,hess302,hess302,1.0,0,2492,0,0.0,0,2492,0,176,0,0,0
-hess3,Social and Political Life III,old_alt,rat2023,hess303,0,hess303,hess303,0.8849,0,3718,382,0.1027,39,5204,44,225,4,1,31
-hess3,Social and Political Life III,old_alt,rat2023,hess304,0,hess303,hess303,0.6684,0,2856,856,0.2997,76,5204,44,152,7,0,52
-hess3,Social and Political Life III,old_alt,rat2023,hess305,0,hess304,hess304,0.9202,0,4272,307,0.0719,28,3915,2,261,0,0,11
-hess3,Social and Political Life III,old_alt,rat2023,hess306,0,,hess304,0.0283,1,3782,3639,0.9622,143,0,0,0,6,0,280
-hess3,Social and Political Life III,old_alt,rat2023,hess307,0,hess305,hess305,0.9559,0,4855,206,0.0424,5,4646,6,328,0,0,15
-hess3,Social and Political Life III,old_alt,rat2023,hess308,0,hess306,hess306,0.9934,0,4102,27,0.0066,0,4076,2,235,0,0,2
-hess3,Social and Political Life III,old_alt,rat2023,hess309,0,hess307,hess307,0.9982,0,4439,3,0.0007,0,4439,3,357,1,0,0
-hess3,Social and Political Life III,old_alt,rat2023,hess310,0,hess308,hess308,0.9994,0,4753,3,0.0006,0,4753,3,340,0,0,1
-hess3,Social and Political Life III,old_alt,rat2023,hess3ps,1,hess3ps,hess3ps,0.965,0,3919,49,0.0125,1,4121,235,217,7,0,3
+hess3,Social and Political Life III,old_alt,rat2023,hess303,0,hess303,hess303,0.8857,0,3718,381,0.1025,39,5204,44,225,4,1,31
+hess3,Social and Political Life III,old_alt,rat2023,hess304,0,hess303,hess303,0.6688,0,2856,854,0.299,76,5204,44,153,7,0,51
+hess3,Social and Political Life III,old_alt,rat2023,hess305,0,hess304,hess304,0.9225,0,4272,303,0.0709,28,3915,0,262,0,0,10
+hess3,Social and Political Life III,old_alt,rat2023,hess306,0,,hess304,0.0309,1,3782,3618,0.9566,164,0,0,0,6,0,280
+hess3,Social and Political Life III,old_alt,rat2023,hess307,0,hess305,hess305,0.9567,0,4855,202,0.0416,5,4646,4,329,0,0,14
+hess3,Social and Political Life III,old_alt,rat2023,hess308,0,hess306,hess306,0.9939,0,4102,25,0.0061,0,4076,0,236,0,0,1
+hess3,Social and Political Life III,old_alt,rat2023,hess309,0,hess307,hess307,0.9993,0,4439,0,0.0,0,4439,0,358,0,0,0
+hess3,Social and Political Life III,old_alt,rat2023,hess310,0,hess308,hess308,1.0,0,4753,0,0.0,0,4753,0,341,0,0,0
+hess3,Social and Political Life III,old_alt,rat2023,hess3ps,1,hess3ps,hess3ps,0.9745,0,3919,46,0.0117,5,4121,227,218,6,0,3

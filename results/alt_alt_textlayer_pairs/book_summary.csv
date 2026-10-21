@@ -1,8 +1,8 @@
 ﻿book,title,old_edition,new_edition,old_chapters,new_chapters,chapters_dropped,old_words,new_words,removed_words,share_removed,removed_words_in_dropped_chapters,removed_words_in_surviving_chapters,added_words,moved_words
-gess1,Our Pasts II,old_alt,rat2023,10,8,2,35094,23433,11593,0.3303,6664,4929,238,202
-gess3,Social and Political Life II,old_alt,rat2023,9,8,1,29324,27480,4308,0.1469,2219,2089,209,487
+gess1,Our Pasts II,old_alt,rat2023,10,8,2,35094,23433,11560,0.3294,6656,4904,261,215
+gess3,Social and Political Life II,old_alt,rat2023,9,8,1,29324,27480,4246,0.1448,2209,2037,175,510
 iess4,Democratic Politics I,old_alt,rat2023,5,5,0,37787,37787,1,0.0,0,1,0,0
-hess3,Social and Political Life III,old_alt,rat2023,10,8,1,40620,34842,5451,0.1342,3639,1812,60,297
-jess3,India and the Contemporary World II,old_alt,rat2023,5,5,0,44010,44012,0,0.0,0,0,1,0
-jess4,Democratic Politics II,old_alt,rat2023,8,5,3,36706,24844,11635,0.317,11050,585,87,379
-kehs1,Themes in World History,old_alt,rat2023,11,7,4,94430,62777,31919,0.338,31630,289,666,6232
+hess3,Social and Political Life III,old_alt,rat2023,10,8,1,40620,34842,5411,0.1332,3618,1793,48,318
+jess3,India and the Contemporary World II,old_alt,rat2023,5,5,0,44010,44012,0,0.0,0,0,0,0
+jess4,Democratic Politics II,old_alt,rat2023,8,5,3,36706,24844,11608,0.3162,11040,568,76,389
+kehs1,Themes in World History,old_alt,rat2023,11,7,4,94430,62777,31796,0.3367,31532,264,364,6330

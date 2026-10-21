@@ -1,11 +1,11 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-kech1,Chemistry Part I,old,rat2023,kech101,0,kech101,kech101,0.9825,0,13738,174,0.0127,5,13721,48,1066,16,0,33
-kech1,Chemistry Part I,old,rat2023,kech102,0,kech102,kech102,0.982,0,22204,300,0.0135,0,22131,151,1377,54,0,31
-kech1,Chemistry Part I,old,rat2023,kech103,0,kech103,kech103,0.9648,0,11235,347,0.0309,4,11261,165,718,17,1,56
-kech1,Chemistry Part I,old,rat2023,kech104,0,kech104,kech104,0.9789,0,14828,180,0.0121,3,14793,148,961,19,0,19
-kech1,Chemistry Part I,old,rat2023,kech105,0,,kech106,0.0166,1,11289,10772,0.9542,517,0,0,0,16,2,960
-kech1,Chemistry Part I,old,rat2023,kech106,0,kech105,kech105,0.9713,0,14755,275,0.0186,4,14712,266,1221,67,1,16
-kech1,Chemistry Part I,old,rat2023,kech107,0,kech106,kech106,0.9786,0,23841,366,0.0154,5,23757,260,1767,75,1,12
-kech1,Chemistry Part I,old,rat2023,kech1a1,1,kech1a1,kech1a1,0.997,0,4638,8,0.0017,0,4632,7,189,1,0,2
-kech1,Chemistry Part I,old,rat2023,kech1an,1,Index,Index,0.5786,0,6533,1368,0.2094,1383,3865,4,62,27,112,97
-kech1,Chemistry Part I,old,rat2023,kech1ps,1,kech1ps,kech1ps,0.8965,0,1797,105,0.0584,0,2068,369,161,7,0,17
+kech1,Chemistry Part I,old,rat2023,kech101,0,kech101,kech101,0.9829,0,13738,170,0.0124,5,13721,48,1067,15,0,33
+kech1,Chemistry Part I,old,rat2023,kech102,0,kech102,kech102,0.9838,0,22204,255,0.0115,0,22131,130,1402,32,0,28
+kech1,Chemistry Part I,old,rat2023,kech103,0,kech103,kech103,0.9656,0,11235,337,0.03,4,11261,165,722,15,1,54
+kech1,Chemistry Part I,old,rat2023,kech104,0,kech104,kech104,0.9795,0,14828,170,0.0115,3,14793,142,963,19,0,17
+kech1,Chemistry Part I,old,rat2023,kech105,0,,kech106,0.0252,1,11289,10546,0.9342,743,0,0,0,25,2,951
+kech1,Chemistry Part I,old,rat2023,kech106,0,kech105,kech105,0.9841,0,14755,144,0.0098,7,14712,146,1273,22,1,9
+kech1,Chemistry Part I,old,rat2023,kech107,0,kech106,kech106,0.9914,0,23841,122,0.0051,11,23757,80,1815,35,2,3
+kech1,Chemistry Part I,old,rat2023,kech1a1,1,kech1a1,kech1a1,0.9985,0,4638,6,0.0013,0,4632,1,191,0,0,1
+kech1,Chemistry Part I,old,rat2023,kech1an,1,Index,Index,0.5786,0,6533,1223,0.1872,1481,3865,4,75,20,120,83
+kech1,Chemistry Part I,old,rat2023,kech1ps,1,kech1ps,kech1ps,0.9176,0,1797,103,0.0573,0,2068,362,165,3,0,17

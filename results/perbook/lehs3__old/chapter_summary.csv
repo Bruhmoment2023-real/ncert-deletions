@@ -1,8 +1,8 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-lehs3,Themes in Indian History Part III,old,rat2023,lehs301,0,lehs301,lehs301,0.9968,0,10848,27,0.0025,0,10853,33,716,4,0,0
-lehs3,Themes in Indian History Part III,old,rat2023,lehs302,0,lehs302,lehs302,0.9977,0,10216,18,0.0018,0,10216,18,624,1,0,0
-lehs3,Themes in Indian History Part III,old,rat2023,lehs303,0,,lehs301,0.0106,1,10185,10027,0.9845,158,0,0,0,0,2,716
-lehs3,Themes in Indian History Part III,old,rat2023,lehs304,0,lehs303,lehs303,0.9963,0,11491,40,0.0035,0,11470,19,717,2,0,1
-lehs3,Themes in Indian History Part III,old,rat2023,lehs305,0,,lehs303,0.0104,1,9733,9565,0.9827,168,0,0,0,2,4,607
-lehs3,Themes in Indian History Part III,old,rat2023,lehs306,0,lehs304,lehs304,0.981,0,10127,130,0.0128,0,10053,41,621,13,0,10
-lehs3,Themes in Indian History Part III,old,rat2023,lehs3ps,1,lehs3ps,lehs3ps,0.9565,0,2852,73,0.0256,0,3077,287,206,8,0,4
+lehs3,Themes in Indian History Part III,old,rat2023,lehs301,0,lehs301,lehs301,0.9997,0,10848,2,0.0002,0,10853,8,719,1,0,0
+lehs3,Themes in Indian History Part III,old,rat2023,lehs302,0,lehs302,lehs302,0.9999,0,10216,1,0.0001,0,10216,1,624,1,0,0
+lehs3,Themes in Indian History Part III,old,rat2023,lehs303,0,,lehs301,0.0123,1,10185,10011,0.9829,174,0,0,0,0,2,716
+lehs3,Themes in Indian History Part III,old,rat2023,lehs304,0,lehs303,lehs303,0.9979,0,11491,24,0.0021,0,11470,3,718,1,0,1
+lehs3,Themes in Indian History Part III,old,rat2023,lehs305,0,,lehs303,0.0132,1,9733,9514,0.9775,219,0,0,0,4,4,605
+lehs3,Themes in Indian History Part III,old,rat2023,lehs306,0,lehs304,lehs304,0.9855,0,10127,114,0.0113,0,10053,22,625,12,0,7
+lehs3,Themes in Indian History Part III,old,rat2023,lehs3ps,1,lehs3ps,lehs3ps,0.9607,0,2852,72,0.0252,0,3077,286,206,8,0,4

@@ -1,11 +1,11 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-lech2,Chemistry Part II,old,rat2023,lech201,0,lech201,lech201,0.9788,0,8980,108,0.012,2,8940,73,627,22,0,5
-lech2,Chemistry Part II,old,rat2023,lech202,0,lech202,lech202,0.9842,0,7797,70,0.009,4,7786,68,730,13,1,2
-lech2,Chemistry Part II,old,rat2023,lech203,0,lech203,lech203,0.9794,0,7275,77,0.0106,1,7278,86,597,9,0,5
-lech2,Chemistry Part II,old,rat2023,lech204,0,lech204,lech204,0.9868,0,5779,30,0.0052,0,5780,36,503,8,0,0
-lech2,Chemistry Part II,old,rat2023,lech205,0,lech205,lech205,0.9778,0,7087,65,0.0092,0,7094,61,641,8,0,1
-lech2,Chemistry Part II,old,rat2023,lech206,0,,lech203,0.0198,1,3283,3173,0.9665,110,0,0,0,2,1,266
-lech2,Chemistry Part II,old,rat2023,lech207,0,,lech202,0.0056,1,5330,5272,0.9891,58,0,0,0,1,1,446
-lech2,Chemistry Part II,old,rat2023,lech2an,1,lech2an,lech2an,0.3907,0,965,566,0.5865,5,417,23,62,1,0,41
+lech2,Chemistry Part II,old,rat2023,lech201,0,lech201,lech201,0.9914,0,8980,42,0.0047,4,8940,6,646,7,1,0
+lech2,Chemistry Part II,old,rat2023,lech202,0,lech202,lech202,0.9978,0,7797,6,0.0008,4,7786,3,744,1,1,0
+lech2,Chemistry Part II,old,rat2023,lech203,0,lech203,lech203,0.9923,0,7275,16,0.0022,4,7278,26,608,1,1,1
+lech2,Chemistry Part II,old,rat2023,lech204,0,lech204,lech204,0.9993,0,5779,1,0.0002,0,5780,1,510,1,0,0
+lech2,Chemistry Part II,old,rat2023,lech205,0,lech205,lech205,0.9921,0,7087,24,0.0034,0,7094,26,647,3,0,0
+lech2,Chemistry Part II,old,rat2023,lech206,0,,lech203,0.0228,1,3283,3127,0.9525,156,0,0,0,6,1,262
+lech2,Chemistry Part II,old,rat2023,lech207,0,,lech202,0.0092,1,5330,5243,0.9837,87,0,0,0,4,1,443
+lech2,Chemistry Part II,old,rat2023,lech2an,1,lech2an,lech2an,0.4176,0,965,548,0.5679,7,417,9,67,0,0,37
 lech2,Chemistry Part II,old,rat2023,lech2in,1,,,0.0,1,814,814,1.0,0,0,0,0,0,0,13
-lech2,Chemistry Part II,old,rat2023,lech2ps,1,lech2ps,lech2ps,0.852,0,2717,148,0.0545,0,2758,260,205,39,0,18
+lech2,Chemistry Part II,old,rat2023,lech2ps,1,lech2ps,lech2ps,0.8973,0,2717,139,0.0512,0,2758,224,231,9,0,22

@@ -1,8 +1,8 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
 hess4,Resources and Development,old,rat2023,hess401,0,hess401,hess401,1.0,0,1765,0,0.0,0,1765,0,172,0,0,0
 hess4,Resources and Development,old,rat2023,hess402,0,hess402,hess402,0.9992,0,3893,0,0.0,3,3885,0,360,0,1,0
-hess4,Resources and Development,old,rat2023,hess403,0,,hess401,0.0107,1,3549,3502,0.9868,47,0,0,0,2,0,402
-hess4,Resources and Development,old,rat2023,hess404,0,hess403,hess403,0.9864,0,2650,3,0.0011,0,2650,3,304,1,0,0
-hess4,Resources and Development,old,rat2023,hess405,0,hess404,hess404,0.7669,0,3647,799,0.2191,26,2805,8,251,1,0,66
-hess4,Resources and Development,old,rat2023,hess406,0,hess405,hess405,0.9775,0,2356,40,0.017,5,2316,10,241,0,0,3
-hess4,Resources and Development,old,rat2023,hess4ps,1,hess4ps,hess4ps,0.854,0,1562,111,0.0711,0,1665,269,92,12,0,6
+hess4,Resources and Development,old,rat2023,hess403,0,,hess401,0.0107,1,3549,3491,0.9837,58,0,0,0,4,0,400
+hess4,Resources and Development,old,rat2023,hess404,0,hess403,hess403,1.0,0,2650,0,0.0,0,2650,0,305,0,0,0
+hess4,Resources and Development,old,rat2023,hess405,0,hess404,hess404,0.7732,0,3647,787,0.2158,26,2805,1,251,2,0,65
+hess4,Resources and Development,old,rat2023,hess406,0,hess405,hess405,0.9843,0,2356,32,0.0136,5,2316,0,241,0,0,3
+hess4,Resources and Development,old,rat2023,hess4ps,1,hess4ps,hess4ps,0.8796,0,1562,99,0.0634,0,1665,259,94,11,0,5

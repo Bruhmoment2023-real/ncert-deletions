@@ -1,8 +1,8 @@
 ﻿book,title,old_edition,new_edition,old_chapters,new_chapters,chapters_dropped,old_words,new_words,removed_words,share_removed,removed_words_in_dropped_chapters,removed_words_in_surviving_chapters,added_words,moved_words
-gess1,Our Pasts II,old_ocr,rat2023,10,8,2,35981,23433,12749,0.3543,6770,5979,557,192
-gess3,Social and Political Life II,old_ocr,rat2023,9,8,1,28465,27480,4994,0.1754,2265,2729,1533,1235
-iess4,Democratic Politics I,old_ocr,rat2023,5,5,0,37612,37787,1506,0.04,0,1506,1625,0
-hess3,Social and Political Life III,old_ocr,rat2023,10,8,1,30370,34842,4072,0.1341,2575,1497,8237,189
-jess3,India and the Contemporary World II,old_ocr,rat2023,5,5,0,39419,44012,1274,0.0323,0,1274,5741,45
-jess4,Democratic Politics II,old_ocr,rat2023,8,5,3,30437,24844,11156,0.3665,9011,2145,5593,309
-kehs1,Themes in World History,old_ocr,rat2023,11,7,4,78499,62777,27022,0.3442,26644,378,11328,3647
+gess1,Our Pasts II,old_ocr,rat2023,10,8,2,35981,23433,12666,0.352,6769,5897,543,204
+gess3,Social and Political Life II,old_ocr,rat2023,9,8,1,28465,27480,4911,0.1725,2255,2656,1499,1296
+iess4,Democratic Politics I,old_ocr,rat2023,5,5,0,37612,37787,1470,0.0391,0,1470,1587,0
+hess3,Social and Political Life III,old_ocr,rat2023,10,8,1,30370,34842,4037,0.1329,2570,1467,8207,206
+jess3,India and the Contemporary World II,old_ocr,rat2023,5,5,0,39419,44012,1246,0.0316,0,1246,5699,45
+jess4,Democratic Politics II,old_ocr,rat2023,8,5,3,30437,24844,11139,0.366,9006,2133,5550,314
+kehs1,Themes in World History,old_ocr,rat2023,11,7,4,78499,62777,26896,0.3426,26560,336,10991,3746

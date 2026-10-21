@@ -1,5 +1,5 @@
 ﻿setting,english_books,old_words,removed_words,share_removed,chapter_files_dropped
-K=5 (headline),51,2845676,622329,0.2187,79
-K=4,51,2845676,579889,0.2038,79
-K=8,51,2845676,645490,0.2268,80
-"K=5, no fuzzy second pass",51,2845676,633804,0.2227,79
+K=5 (headline),51,2845676,608840,0.214,79
+K=4,51,2845676,558265,0.1962,78
+K=8,51,2845676,637925,0.2242,80
+"K=5, no fuzzy second pass",51,2845676,613201,0.2155,79

@@ -1,10 +1,10 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-keph2,Physics Part II,old,rat2023,keph201,0,keph201,keph201,0.8124,0,7585,1245,0.1641,50,6319,108,443,18,5,82
-keph2,Physics Part II,old,rat2023,keph202,0,keph202,keph202,0.7797,0,14968,3013,0.2013,103,11882,161,848,58,4,207
-keph2,Physics Part II,old,rat2023,keph203,0,keph203,keph203,0.9477,0,13158,569,0.0432,2,12691,116,892,33,2,39
-keph2,Physics Part II,old,rat2023,keph204,0,keph204,keph204,0.8759,0,11037,1186,0.1075,13,9747,111,760,40,1,83
-keph2,Physics Part II,old,rat2023,keph205,0,keph205,keph205,0.8277,0,10104,1608,0.1591,23,8515,90,667,27,1,105
-keph2,Physics Part II,old,rat2023,keph206,0,keph206,keph206,0.6584,0,12356,3847,0.3113,128,8182,156,694,65,2,313
-keph2,Physics Part II,old,rat2023,keph207,0,keph207,keph207,0.7687,0,14082,3051,0.2167,37,10998,157,944,47,1,202
-keph2,Physics Part II,old,rat2023,keph2an,1,keph2an,keph2an,0.7595,0,5018,1030,0.2053,56,4009,106,383,25,0,85
-keph2,Physics Part II,old,rat2023,keph2ps,1,keph2ps,keph2ps,0.9044,0,4488,126,0.0281,0,4562,262,287,16,0,11
+keph2,Physics Part II,old,rat2023,keph201,0,keph201,keph201,0.845,0,7585,1124,0.1482,38,6319,8,469,9,1,69
+keph2,Physics Part II,old,rat2023,keph202,0,keph202,keph202,0.8058,0,14968,2749,0.1837,97,11882,10,919,19,0,179
+keph2,Physics Part II,old,rat2023,keph203,0,keph203,keph203,0.964,0,13158,457,0.0347,5,12691,20,929,1,0,36
+keph2,Physics Part II,old,rat2023,keph204,0,keph204,keph204,0.897,0,11037,1084,0.0982,13,9747,10,808,10,0,66
+keph2,Physics Part II,old,rat2023,keph205,0,keph205,keph205,0.846,0,10104,1513,0.1497,29,8515,9,694,2,2,102
+keph2,Physics Part II,old,rat2023,keph206,0,keph206,keph206,0.688,0,12356,3541,0.2866,182,8182,19,769,31,1,273
+keph2,Physics Part II,old,rat2023,keph207,0,keph207,keph207,0.7885,0,14082,2791,0.1982,111,10998,22,997,12,1,184
+keph2,Physics Part II,old,rat2023,keph2an,1,keph2an,keph2an,0.775,0,5018,922,0.1837,76,4009,36,407,12,0,74
+keph2,Physics Part II,old,rat2023,keph2ps,1,keph2ps,keph2ps,0.9508,0,4488,102,0.0227,2,4562,230,295,14,0,5

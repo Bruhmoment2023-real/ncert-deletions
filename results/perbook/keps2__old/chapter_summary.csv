@@ -1,7 +1,7 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
 keps2,Indian Constitution at Work,old,rat2023,keps201,0,keps201,keps201,1.0,0,7230,0,0.0,0,7230,0,514,0,0,0
 keps2,Indian Constitution at Work,old,rat2023,keps202,0,keps202,keps202,1.0,0,6693,0,0.0,0,6834,134,467,0,0,0
-keps2,Indian Constitution at Work,old,rat2023,keps203,0,keps203,keps203,1.0,0,7623,0,0.0,0,7772,149,543,0,0,0
+keps2,Indian Constitution at Work,old,rat2023,keps203,0,keps203,keps203,1.0,0,7623,0,0.0,0,7772,144,543,0,0,0
 keps2,Indian Constitution at Work,old,rat2023,keps204,0,keps204,keps204,1.0,0,6236,0,0.0,0,6414,178,426,0,0,0
 keps2,Indian Constitution at Work,old,rat2023,keps205,0,keps205,keps205,1.0,0,6134,0,0.0,0,6240,106,458,0,0,0
 keps2,Indian Constitution at Work,old,rat2023,keps206,0,keps206,keps206,0.9998,0,6542,1,0.0002,0,6801,250,464,0,0,0
@@ -9,4 +9,4 @@ keps2,Indian Constitution at Work,old,rat2023,keps207,0,keps207,keps207,1.0,0,63
 keps2,Indian Constitution at Work,old,rat2023,keps208,0,keps208,keps208,0.9998,0,5079,0,0.0,0,5371,287,394,0,0,0
 keps2,Indian Constitution at Work,old,rat2023,keps209,0,keps209,keps209,1.0,0,6535,0,0.0,0,6832,287,455,0,0,0
 keps2,Indian Constitution at Work,old,rat2023,keps210,0,keps210,keps210,1.0,0,6496,0,0.0,0,6841,312,460,0,0,0
-keps2,Indian Constitution at Work,old,rat2023,keps2ps,1,keps2ps,keps2ps,0.9901,0,2635,9,0.0034,0,3108,448,232,2,0,2
+keps2,Indian Constitution at Work,old,rat2023,keps2ps,1,keps2ps,keps2ps,0.9905,0,2635,8,0.003,0,3108,446,233,1,0,2

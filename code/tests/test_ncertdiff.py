@@ -104,3 +104,30 @@ def test_parse_pages():
     assert parse_pages("105 113– 117") == [105, 113, 114, 115, 116, 117]
     assert parse_pages("188, 189, 196 and 197") == [188, 189, 196, 197]
     assert parse_pages("") == []
+
+
+def test_renumbered_exercises_and_figures_are_not_removed():
+    # 22 Oct 2026: the hand check found pages whose only "removals" were section, figure and exercise numbers
+    old = units(["7.18 The river rises in the northern hills (Fig. 7.2).", "7.19 Farmers grow rice and wheat in rotation.", "259"])
+    new = units(["6.18 The river rises in the northern hills (Fig. 6.2).", "6.19 Farmers grow rice and wheat in rotation.", "214"])
+    assert removed(old, new) == 0
+    old, new = units(["7.18 The river rises in the northern hills (Fig. 7.2)."]), units(["6.18 The river rises in the northern hills (Fig. 6.2)."])
+    nd.diff_books(old, new, fuzzy=False)
+    assert old[0].retained_book == len(old[0].toks)
+    nd.NUM_WILD = False
+    try:
+        nd.diff_books(old, new, fuzzy=False)
+        assert old[0].retained_book < len(old[0].toks)
+    finally:
+        nd.NUM_WILD = True
+
+
+def test_deleted_table_of_numbers_is_still_removed():
+    old = units(SENTS + ["c : 1.02 1.04 1.05 1.10 1.18"])
+    new = units(SENTS + ["Table 4 gives 3.11 2.07 5.99 8.13 6.02 7.70"])
+    assert removed(old, new) == len(nd.tokens("c : 1.02 1.04 1.05 1.10 1.18"))
+
+
+def test_kept_table_of_numbers_is_kept():
+    row = "c : 1.02 1.04 1.05 1.10 1.18"
+    assert removed(units(SENTS + [row]), units(SENTS + [row])) == 0

@@ -1,13 +1,13 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-fess1,Our Pasts I,old,rat2023,fees101,0,fess101,fess101,0.8867,0,2277,231,0.1014,5,2050,8,175,4,0,17
-fess1,Our Pasts I,old,rat2023,fess1010,0,fess109,fess109,0.8618,0,2699,299,0.1108,12,2362,20,186,12,1,14
-fess1,Our Pasts I,old,rat2023,fess1011,0,fess110,fess110,0.9046,0,3155,223,0.0707,7,2921,37,251,16,0,16
-fess1,Our Pasts I,old,rat2023,fess102,0,fess102,fess102,0.8687,0,2993,307,0.1026,15,2606,22,222,13,0,19
-fess1,Our Pasts I,old,rat2023,fess103,0,fess103,fess103,0.9134,0,2759,190,0.0689,0,2543,17,214,10,0,17
-fess1,Our Pasts I,old,rat2023,fess104,0,fess104,fess104,0.9048,0,2700,211,0.0781,0,2467,19,212,6,0,16
-fess1,Our Pasts I,old,rat2023,fess105,0,fess105,fess105,0.6885,0,2681,776,0.2894,12,1884,29,159,12,0,64
-fess1,Our Pasts I,old,rat2023,fess106,0,fess106,fess106,0.8948,0,2671,215,0.0805,5,2865,24,224,11,0,14
-fess1,Our Pasts I,old,rat2023,fess107,0,fess107,fess107,0.8928,0,2639,199,0.0754,17,2419,28,210,13,0,10
-fess1,Our Pasts I,old,rat2023,fess108,0,fess108,fess108,0.6337,0,3137,1000,0.3188,65,2950,86,174,23,1,80
-fess1,Our Pasts I,old,rat2023,fess109,0,,fess108,0.275,1,3149,1757,0.558,1392,0,0,0,10,85,155
-fess1,Our Pasts I,old,rat2023,fess1ps,1,fess1ps,fess1ps,0.9377,0,2696,92,0.0341,0,2928,322,225,4,0,14
+fess1,Our Pasts I,old,rat2023,fees101,0,fess101,fess101,0.8876,0,2277,230,0.101,5,2050,7,175,4,0,17
+fess1,Our Pasts I,old,rat2023,fess1010,0,fess109,fess109,0.8655,0,2699,292,0.1082,16,2362,16,187,13,0,13
+fess1,Our Pasts I,old,rat2023,fess1011,0,fess110,fess110,0.9122,0,3155,211,0.0669,12,2921,30,251,15,0,17
+fess1,Our Pasts I,old,rat2023,fess102,0,fess102,fess102,0.869,0,2993,306,0.1022,15,2606,21,223,13,0,18
+fess1,Our Pasts I,old,rat2023,fess103,0,fess103,fess103,0.9141,0,2759,188,0.0681,0,2543,15,214,10,0,17
+fess1,Our Pasts I,old,rat2023,fess104,0,fess104,fess104,0.9052,0,2700,206,0.0763,6,2467,17,211,7,0,16
+fess1,Our Pasts I,old,rat2023,fess105,0,fess105,fess105,0.6938,0,2681,747,0.2786,32,1884,26,160,13,0,62
+fess1,Our Pasts I,old,rat2023,fess106,0,fess106,fess106,0.897,0,2671,214,0.0801,9,2865,23,223,11,1,14
+fess1,Our Pasts I,old,rat2023,fess107,0,fess107,fess107,0.8966,0,2639,190,0.072,17,2419,24,210,13,0,10
+fess1,Our Pasts I,old,rat2023,fess108,0,fess108,fess108,0.6398,0,3137,979,0.3121,75,2950,75,174,24,1,79
+fess1,Our Pasts I,old,rat2023,fess109,0,,fess108,0.2785,1,3149,1739,0.5522,1410,0,0,0,11,85,154
+fess1,Our Pasts I,old,rat2023,fess1ps,1,fess1ps,fess1ps,0.9447,0,2696,90,0.0334,0,2928,320,226,4,0,13

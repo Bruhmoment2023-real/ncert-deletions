@@ -1,9 +1,9 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-leec1,Introductory Macroeconomics (file-code order unverified),old,rat2023,leec101,0,leec101,leec101,1.0,0,3448,0,0.0,0,3448,0,195,0,0,0
-leec1,Introductory Macroeconomics (file-code order unverified),old,rat2023,leec102,0,leec102,leec102,0.9967,0,13658,14,0.001,0,13680,26,955,7,0,2
-leec1,Introductory Macroeconomics (file-code order unverified),old,rat2023,leec103,0,leec103,leec103,0.9914,0,7710,63,0.0082,0,7836,189,564,0,0,1
-leec1,Introductory Macroeconomics (file-code order unverified),old,rat2023,leec104,0,leec104,leec104,1.0,0,5224,0,0.0,0,5224,0,430,0,0,0
-leec1,Introductory Macroeconomics (file-code order unverified),old,rat2023,leec105,0,leec105,leec105,0.9948,0,8501,7,0.0008,0,8505,7,642,0,0,0
-leec1,Introductory Macroeconomics (file-code order unverified),old,rat2023,leec106,0,leec106,leec106,0.6902,0,8908,2735,0.307,3,8525,13,454,6,1,117
-leec1,Introductory Macroeconomics (file-code order unverified),old,rat2023,leec1gl,1,leec106,leec106,0.9972,0,2541,5,0.002,0,8525,13,147,0,0,5
-leec1,Introductory Macroeconomics (file-code order unverified),old,rat2023,leec1ps,1,leec1ps,leec1ps,0.958,0,1689,26,0.0154,0,2082,438,108,5,0,2
+leec1,Introductory Macroeconomics,old,rat2023,leec101,0,leec101,leec101,1.0,0,3448,0,0.0,0,3448,0,195,0,0,0
+leec1,Introductory Macroeconomics,old,rat2023,leec102,0,leec102,leec102,0.9981,0,13658,7,0.0005,0,13680,14,960,4,0,0
+leec1,Introductory Macroeconomics,old,rat2023,leec103,0,leec103,leec103,0.9918,0,7710,60,0.0078,0,7836,186,564,0,0,1
+leec1,Introductory Macroeconomics,old,rat2023,leec104,0,leec104,leec104,1.0,0,5224,0,0.0,0,5224,0,430,0,0,0
+leec1,Introductory Macroeconomics,old,rat2023,leec105,0,leec105,leec105,0.998,0,8501,0,0.0,0,8505,0,642,0,0,0
+leec1,Introductory Macroeconomics,old,rat2023,leec106,0,leec106,leec106,0.691,0,8908,2708,0.304,30,8525,12,454,6,1,117
+leec1,Introductory Macroeconomics,old,rat2023,leec1gl,1,leec106,leec106,0.9976,0,2541,0,0.0,0,8525,12,152,0,0,0
+leec1,Introductory Macroeconomics,old,rat2023,leec1ps,1,leec1ps,leec1ps,0.9586,0,1689,25,0.0148,0,2082,435,108,5,0,2

@@ -1,7 +1,7 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-kesy2,Understanding Society,old,rat2023,kesy201,0,kesy201,kesy201,0.8966,0,7620,784,0.1029,0,6812,1,438,0,0,44
-kesy2,Understanding Society,old,rat2023,kesy202,0,kesy202,kesy202,0.9884,0,10214,117,0.0115,0,10110,14,557,0,0,7
+kesy2,Understanding Society,old,rat2023,kesy201,0,kesy201,kesy201,0.8969,0,7620,782,0.1026,0,6812,0,438,0,0,44
+kesy2,Understanding Society,old,rat2023,kesy202,0,kesy202,kesy202,0.9884,0,10214,117,0.0115,0,10110,12,557,0,0,7
 kesy2,Understanding Society,old,rat2023,kesy203,0,kesy203,kesy203,0.9172,0,5374,444,0.0826,0,4935,7,351,0,0,40
 kesy2,Understanding Society,old,rat2023,kesy204,0,kesy204,kesy204,1.0,0,6960,0,0.0,0,6960,0,414,0,0,0
 kesy2,Understanding Society,old,rat2023,kesy205,0,kesy205,kesy205,1.0,0,7964,0,0.0,0,7965,1,553,0,0,0
-kesy2,Understanding Society,old,rat2023,kesy2ps,1,kesy2ps,kesy2ps,0.9625,0,2319,37,0.016,0,2488,226,180,3,0,1
+kesy2,Understanding Society,old,rat2023,kesy2ps,1,kesy2ps,kesy2ps,0.9655,0,2319,37,0.016,0,2488,224,180,3,0,1

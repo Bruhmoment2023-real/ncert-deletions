@@ -1,10 +1,10 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
 jess4,Democratic Politics II,old_alt,rat2023,jess401,0,jess401,jess401,0.9952,0,4199,8,0.0019,0,4194,9,347,2,0,1
 jess4,Democratic Politics II,old_alt,rat2023,jess402,0,jess402,jess402,0.999,0,5248,2,0.0004,0,5281,17,432,0,0,0
-jess4,Democratic Politics II,old_alt,rat2023,jess403,0,,jess403,0.0127,1,3928,3800,0.9674,128,0,0,0,7,0,304
-jess4,Democratic Politics II,old_alt,rat2023,jess404,0,jess403,jess403,0.9903,0,5594,39,0.007,7,5584,11,436,4,1,5
-jess4,Democratic Politics II,old_alt,rat2023,jess405,0,,jess404,0.0283,1,4233,4082,0.9643,151,0,0,0,5,3,341
-jess4,Democratic Politics II,old_alt,rat2023,jess406,0,jess404,jess404,0.9207,0,6344,496,0.0782,5,5877,26,464,5,0,39
-jess4,Democratic Politics II,old_alt,rat2023,jess407,0,jess405,jess405,0.9841,0,3904,40,0.0102,0,3908,24,295,5,0,3
+jess4,Democratic Politics II,old_alt,rat2023,jess403,0,,jess401,0.0145,1,3928,3791,0.9651,137,0,0,0,7,0,304
+jess4,Democratic Politics II,old_alt,rat2023,jess404,0,jess403,jess403,0.9907,0,5594,38,0.0068,7,5584,12,436,5,1,4
+jess4,Democratic Politics II,old_alt,rat2023,jess405,0,,jess404,0.0298,1,4233,4081,0.9641,152,0,0,0,5,3,341
+jess4,Democratic Politics II,old_alt,rat2023,jess406,0,jess404,jess404,0.9217,0,6344,490,0.0772,5,5877,18,466,4,0,38
+jess4,Democratic Politics II,old_alt,rat2023,jess407,0,jess405,jess405,0.9849,0,3904,30,0.0077,0,3908,20,299,3,0,1
 jess4,Democratic Politics II,old_alt,rat2023,jess408,0,,jess404,0.0098,1,3256,3168,0.973,88,0,0,0,5,2,264
-jess4,Democratic Politics II,old_alt,rat2023,jess4ps,1,jess4 ps,jess4 ps,0.9101,0,3105,130,0.0419,0,3224,317,229,14,0,6
+jess4,Democratic Politics II,old_alt,rat2023,jess4ps,1,jess4 ps,jess4 ps,0.9343,0,3105,125,0.0403,0,3224,314,230,12,0,7

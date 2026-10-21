@@ -1,0 +1,101 @@
+id,stratum,book_code,class,subject,old_pdf_page_index,old_printed_page,n_words,pipeline_label,ai_verdict_C_confirmed_N_not_U_uncertain,Sean_agrees_with_pipeline_label_YN,correct_label_if_not_kept_reworded_moved_deleted,note,checked_label
+V001,deleted,fess1,6,History,10,33 (folio),11,deleted,C,Y,,,deleted
+V002,deleted,leph2,12,Science,55,521,73,deleted,C,Y,,,deleted
+V003,deleted,iesc1,9,Science,15,11,12,deleted,C,Y,,,deleted
+V004,moved,keec1,11,Economics,27,205 (folio),25,moved,C,N,kept,glossary entry still in the glossary (separate glossary file in new edition); same place,kept
+V005,deleted,keph1,11,Science,4,186,13,deleted,C,Y,,,deleted
+V006,moved,keec1,11,Economics,21,199 (folio),34,moved,C,N,kept,glossary entry still in the glossary (separate glossary file in new edition); same place,kept
+V007,deleted,leph2,12,Science,34,384,19,deleted,C,Y,,,deleted
+V008,deleted,jesc1,10,Science,7,148,10,deleted,C,Y,,,deleted
+V009,deleted,leph1,12,Science,3,3,36,deleted,C,Y,,,deleted
+V010,reworded,leph1,12,Science,20,,10,reworded,N,N,deleted,worked example not found; best match is unrelated text,deleted
+V011,deleted,leec1,12,Economics,16,100 (anchored),29,deleted,C,Y,,,deleted
+V012,reworded,kech1,11,Science,17,208,6,reworded,C,N,kept,"equation, only equation number changed",kept
+V013,deleted,leph1,12,Science,19,,12,deleted,C,Y,,,deleted
+V014,reworded,keph1,11,Science,20,160,6,reworded,C,N,kept,"equation, only equation number changed",kept
+V015,kept,fess1,6,History,11,77 (folio),9,kept,C,Y,,,kept
+V016,deleted,kech1,11,Science,17,17,5,deleted,U,N,kept,Table identical; new text layer reads the cells column-wise so the row looked absent. False 'deleted'.,kept
+V017,deleted,iesc1,9,Science,11,13,9,deleted,C,Y,,,deleted
+V018,deleted,leph1,12,Science,8,139,10,deleted,C,Y,,,deleted
+V019,reworded,leph2,12,Science,31,381,12,reworded,N,N,deleted,example not found; best match is unrelated text,deleted
+V020,kept,leph1,12,Science,13,,11,kept,C,Y,,,kept
+V021,kept,keph2,11,Science,6,328,10,kept,C,Y,,,kept
+V022,deleted,leph2,12,Science,17,454,19,deleted,C,Y,,,deleted
+V023,moved,keec1,11,Economics,21,199 (folio),33,moved,C,N,kept,glossary entry still in the glossary (separate glossary file in new edition); same place,kept
+V024,deleted,leph1,12,Science,29,,5,deleted,C,Y,,,deleted
+V025,moved,keec1,11,Economics,24,202 (folio),38,moved,C,N,kept,glossary entry still in the glossary (separate glossary file in new edition); same place,kept
+V026,deleted,lesy2,12,Sociology,11,123 (folio),6,deleted,C,Y,,,deleted
+V027,kept,hesc1,8,Science,11,209 (folio),19,kept,C,Y,,,kept
+V028,deleted,lesy2,12,Sociology,14,148 (folio),12,deleted,C,Y,,,deleted
+V029,kept,kech1,11,Science,12,40,22,kept,C,Y,,,kept
+V030,deleted,lebo1,12,Science,10,250 (folio),14,deleted,C,Y,,,deleted
+V031,kept,jesc1,10,Science,15,72 (folio),20,kept,C,Y,,,kept
+V032,deleted,jesc1,10,Science,17,158,26,deleted,C,Y,,,deleted
+V033,deleted,kegy1,11,Geography,19,94,9,deleted,C,Y,,States appendix table dropped; deleted is right.,deleted
+V034,deleted,kegy2,11,Geography,5,5,27,deleted,C,Y,,,deleted
+V035,kept,lech1,12,Science,13,,6,kept,C,Y,,,kept
+V036,kept,gesc1,7,Science,4,,17,kept,C,Y,,,kept
+V037,reworded,keph1,11,Science,35,175,5,reworded,U,N,deleted,Fragment of Example 7.16 in deleted section 7.14; the 'reworded' pair is an unrelated equation in new keph105.,deleted
+V038,deleted,kegy1,11,Geography,9,29,21,deleted,C,Y,,Table (and its west-flowing-rivers passage) gone; deleted is right.,deleted
+V039,reworded,kech2,11,Science,22,394,6,reworded,C,N,kept,"equation, only equation number changed",kept
+V040,reworded,kech1,11,Science,17,208,7,reworded,N,N,kept,"Only the problem number changes because a unit was dropped (renumbering), same position in the corresponding chapter; renumbering-only treated as kept by both checkers.",kept
+V041,kept,leec1,12,Economics,9,44 (anchored),18,kept,C,Y,,,kept
+V042,kept,legy2,12,Geography,7,"65 (contents-anchor estimate, not used by pipeline)",9,kept,C,Y,,,kept
+V043,reworded,keph1,11,Science,6,44,8,reworded,U,N,kept,"equation, formatting differs",kept
+V044,kept,lehs1,12,History,5,86,33,kept,C,Y,,,kept
+V045,reworded,leph1,12,Science,28,,5,reworded,C,N,kept,equation reference renumbered only,kept
+V046,moved,keec1,11,Economics,21,199 (folio),17,moved,C,N,kept,glossary entry still in the glossary (separate glossary file in new edition); same place,kept
+V047,deleted_dropped_chapter,gess3,7,Political Science,8,,6,deleted,C,Y,,,deleted
+V048,reworded,kech1,11,Science,6,165,9,reworded,C,N,kept,"equation, only equation number changed",kept
+V049,kept,iesc1,9,Science,13,"13 (contents-anchor estimate, not used by pipeline)",31,kept,C,Y,,,kept
+V050,deleted,leps2,12,Political Science,10,55,24,deleted,C,Y,,,deleted
+V051,reworded,kech1,11,Science,17,176,12,reworded,U,N,kept,"same sentence, formatting differs",kept
+V052,reworded,kech2,11,Science,6,268,6,reworded,U,N,kept,"same text, formatting differs",kept
+V053,deleted_dropped_chapter,hesc1,8,Science,5,36 (folio),11,deleted,C,Y,,,deleted
+V054,kept,leps2,12,Political Science,5,68,11,kept,C,Y,,,kept
+V055,deleted,fess1,6,History,4,82 (folio),11,deleted,C,Y,,,deleted
+V056,deleted_dropped_chapter,legy1,12,Geography,5,95 (folio),25,deleted,C,Y,,,deleted
+V057,deleted_dropped_chapter,hesc1,8,Science,5,219 (folio),9,deleted,C,Y,,,deleted
+V058,deleted_dropped_chapter,keec1,11,Economics,11,67 (folio),23,deleted,C,Y,,,deleted
+V059,kept,hesc1,8,Science,2,65 (folio),14,kept,C,Y,,,kept
+V060,kept,hesc1,8,Science,4,149 (folio),6,kept,C,Y,,,kept
+V061,deleted,leph2,12,Science,17,454,15,deleted,C,Y,,,deleted
+V062,deleted,kegy1,11,Geography,19,94,9,deleted,C,Y,,Same dropped states appendix; deleted is right.,deleted
+V063,kept,leph1,12,Science,26,,11,kept,C,Y,,,kept
+V064,deleted_dropped_chapter,fesc1,6,Science,9,"163 (contents-anchor estimate, not used by pipeline)",11,deleted,C,Y,,,deleted
+V065,deleted,keph1,11,Science,40,180,9,deleted,C,Y,,,deleted
+V066,reworded,leph1,12,Science,21,152,9,reworded,N,N,deleted,Sentence belongs to the removed toroid derivation; fuzzy pair 62 is a different solenoid exercise.,deleted
+V067,reworded,kebo1,11,Science,4,87,5,reworded,N,N,deleted,Figure and caption removed (complex tissues para dropped per booklet 6.1.2.2); match is a different figure.,deleted
+V068,moved,hesc1,8,Science,13,196 (folio),11,moved,C,N,kept,Heading in the same place in the renumbered chapter (Some Natural Phenomena); old text layer garbles it so it matched hesc101. Not moved.,kept
+V069,deleted_dropped_chapter,kech2,11,Science,16,330,19,deleted,C,Y,,,deleted
+V070,deleted,lesy1,12,Sociology,22,134 (folio),13,deleted,C,Y,,,deleted
+V071,deleted_dropped_chapter,lehs3,12,History,7,322,9,deleted,C,Y,,,deleted
+V072,reworded,jess1,10,Geography,7,7 (folio),8,reworded,U,N,kept,"Sentence verbatim; the 'the' just moved across the page break with reflow. Formatting-only -> kept (first checker right, second's caveat resolved).",kept
+V073,moved,keec1,11,Economics,25,203 (folio),8,moved,C,N,kept,glossary entry still in the glossary (separate glossary file in new edition); same place,kept
+V074,reworded,kech2,11,Science,7,379,34,reworded,U,N,kept,"same text, only equation number changed",kept
+V075,deleted_dropped_chapter,gess3,7,Political Science,4,,13,deleted,C,Y,,,deleted
+V076,deleted,leph1,12,Science,9,140,17,deleted,C,Y,,,deleted
+V077,deleted,keph2,11,Science,19,385,18,deleted,U,Y,,,deleted
+V078,reworded,iesc1,9,Science,11,7,7,reworded,N,N,deleted,section not found; best match is unrelated text,deleted
+V079,reworded,kech2,11,Science,23,356,17,reworded,U,N,kept,"same sentence, near verbatim",kept
+V080,deleted_dropped_chapter,hesc1,8,Science,7,245 (folio),11,deleted,C,Y,,,deleted
+V081,deleted,kegy1,11,Geography,10,66,20,deleted,C,Y,,,deleted
+V082,kept,jess3,10,History,6,6,8,kept,C,Y,,,kept
+V083,deleted,gess1,7,History,13,57,26,deleted,C,Y,,,deleted
+V084,deleted,leph1,12,Science,28,,6,deleted,C,Y,,,deleted
+V085,deleted,keph1,11,Science,27,140,21,deleted,C,Y,,,deleted
+V086,deleted,keph1,11,Science,14,196,7,deleted,C,Y,,,deleted
+V087,kept,iesc1,9,Science,1,"57 (contents-anchor estimate, not used by pipeline)",18,kept,C,Y,,,kept
+V088,deleted,keph1,11,Science,22,37,23,deleted,C,Y,,,deleted
+V089,deleted,kegy1,11,Geography,23,98,5,deleted,C,Y,,Appendix table dropped; deleted is right.,deleted
+V090,moved,fesc1,6,Science,5,"99 (contents-anchor estimate, not used by pipeline)",9,moved,C,N,kept,same chapter renumbered; only figure number changed,kept
+V091,moved,fess1,6,History,14,"38 (folio; this page is one of the 10 duplicated chapter-4 pages now dropped from the corpus, so the PDF path is the untrimmed original)",16,moved,C,N,kept,page belongs to chapter 4 (duplicated page); same text in same chapter,kept
+V092,deleted,keph2,11,Science,9,331,12,deleted,C,Y,,,deleted
+V093,kept,leph1,12,Science,10,,10,kept,C,Y,,,kept
+V094,deleted,lesy2,12,Sociology,2,36 (folio),30,deleted,C,Y,,,deleted
+V095,deleted,leph1,12,Science,15,,13,deleted,C,Y,,,deleted
+V096,deleted,lebo1,12,Science,10,226 (folio),13,deleted,C,Y,,,deleted
+V097,moved,keec1,11,Economics,20,198 (folio),19,moved,C,N,kept,glossary entry still in the glossary (separate glossary file in new edition); same place,kept
+V098,reworded,kech2,11,Science,14,276,6,reworded,U,N,kept,"same equation, formatting differs",kept
+V099,kept,jess2,10,Economics,19,,11,kept,C,Y,,,kept
+V100,reworded,fesc1,6,Science,1,"35 (contents-anchor estimate, not used by pipeline)",16,reworded,C,Y,,,reworded

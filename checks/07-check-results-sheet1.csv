@@ -1,0 +1,31 @@
+id,book_code,class,group,old_edition,old_pdf_page_index,old_printed_page_pipeline,printed_page_source,pipeline_unlisted_words_on_page,Q1_text_really_removed_from_new_edition_YN,Q2_page_really_not_in_official_list_YN,true_printed_page_if_different,note,unlisted_words_after_number_fix,error_cause
+U01,fess1,6,Social science,2020-21,1,103,folio,15,N,Y,,Text still on new p.85; only chapter number and a cross-reference changed (reworded units are trivial edits).,14,text-layer damage (fake-bold doubling) and trivial rewording; not fixed
+U02,fess2,6,Social science,2020-21,1,47,folio,17,Y,Y,,"Partial removal. one place name in the north-south-extent sentence is replaced and the sidebar cross-ref '(figure 6.1)' is dropped; README says answer Y if only part is gone. The other flagged words are chapter/figure renumbering (7->6, Fig 7.2->6.2) and degree-sign formatting, i.e. kept under the both-checkers convention, so only ~1-3 of 17 words are a real removal. Page 47 not named.",15,
+U03,gess1,7,Social science,2021-22,8,37,detected,135,Y,Y,,,135,
+U04,gess1,7,Social science,2021-22,9,53,detected,87,Y,Y,,,87,
+U05,hesc1,8,Science,2022-23,5,131,folio,4,N,Y,,Same text on new p.97; only section/figure numbers changed (11.x to 8.x).,0,renumbering only; fixed by number-tolerant matching
+U06,hesc1,8,Science,2022-23,1,184,folio,36,Y,Y,,Only the opening recap sentences removed; rest of page kept.,35,
+U07,kebo1,11,Science,2022-23,1,29,detected,9,Y,N,,"Q1 Y: the chapter-opening contents line for 3.6 is gone (section 3.6 body also gone). Q2 N: the removed text is word-for-word the title of the listed section 3.6; README says N when the booklet entry clearly covers the passage under a different page number. Contrast U19 (summary points), which the booklet's own convention lists separately and does not list here.",9,page listed under the booklet's section entry (Q2); not a pipeline error in the removal
+U08,kech1,11,Science,2022-23,5,33,detected,45,N,Y,,Table 2.1 and text unchanged on new p.33; flagged fragments are table/line-break extraction artefacts.,45,table extraction artefact (number formatting); not fixed
+U09,kech1,11,Science,2022-23,43,234,detected,9,N,Y,,"Exercises 7.18-7.23 still present on new p.210, renumbered 6.18-6.23.",2,exercise renumbering; mostly fixed (2 words left)
+U10,kech2,11,Science,2022-23,39,372,detected,22,N,Y,,"Exercises 12.21-12.40 still present on new p.294, renumbered 8.21-8.40.",7,exercise renumbering; mostly fixed (7 words left)
+U11,kehs1,11,Social science,2020-21,34,264,detected,75,Y,Y,,Bibliography page; entries for dropped themes removed.,74,
+U12,keph1,11,Science,2022-23,9,97,detected,260,Y,Y,,Isaac Newton biography box removed; not on new p56 or p57. Page 97 not named.,259,
+U13,keph1,11,Science,2022-23,27,140,detected,473,Y,Y,,Appendix 6.1 (power consumption in walking) removed. Booklet names Appendix 3.1 and 8.1 explicitly but not 6.1; p140 not named.,455,
+U14,keph1,11,Science,2022-23,4,144,detected,10,N,Y,,Same text on new p.95; only figure numbers changed (7.6 to 6.6).,0,figure renumbering; fixed
+U15,keph2,11,Science,2022-23,6,255,detected,297,Y,Y,,Archimedes principle box absent from new p.185; rest of page kept.,289,
+U16,keph2,11,Science,2022-23,7,256,detected,103,Y,Y,,Archimedes biography box removed; new p186 has no box. Page 256 not named.,100,
+U17,keph2,11,Science,2022-23,13,315,detected,31,Y,Y,,Only the two Eq.-reference sentences removed.,25,
+U18,keph2,11,Science,2022-23,14,354,detected,342,Y,Y,,Amplitude box removed; flagged equation numbers are only renumbering.,328,
+U19,keph2,11,Science,2022-23,21,361,detected,103,Y,Y,,"Summary points 10-11 (damped/forced oscillations, resonance) are gone; new summary ends at point 9 and Points to Ponder follow. Knock-on of listed 14.9/14.10, but the booklet names summary-point deletions explicitly elsewhere and not here; p361 not named.",100,
+U20,kesy2,11,Social science,2022-23,13,62,detected,223,Y,Y,,Inferred: new p.61 jumps to the farmers box with the water-park story gone; previous new page not shown.,223,
+U21,lebo1,12,Science,2021-22,2,259,folio,2,N,Y,,Same text on new p.217; only the heading number changed (15.1.1 to 13.1.1); 259 is the folio.,0,heading renumbering and stray page number; fixed
+U22,leec1,12,Social science,2021-22,16,100,anchored,421,Y,Y,,Box 6.3 (Indian experience) removed; booklet lists only Box 6.2 (international). p100 not named.,404,
+U23,leph2,12,Science,2022-23,11,319,detected,274,Y,Y,,Box removed; p.319 not listed though 318 and 321 are.,274,
+U24,leph2,12,Science,2022-23,2,387,detected,56,Y,Y,,Work-function table sentences removed; p.387 not listed though 388 is.,51,
+U25,leph2,12,Science,2022-23,15,428,detected,248,Y,Y,,Franck-Hertz box removed.,238,
+U26,leph2,12,Science,2022-23,43,509,detected,413,Y,Y,511,Answers page; new edition answers are short numerical ones only. Folio printed on page is 511.,395,
+U27,leph2,12,Science,2022-23,44,510,detected,458,Y,Y,512,Answers page; long answers removed. Folio printed on page is 512.,449,
+U28,leph2,12,Science,2022-23,47,513,detected,347,Y,Y,515,Answers page; 12.17 and 13.6 answers absent from new answers. Folio printed on page is 515.,341,
+U29,leph2,12,Science,2022-23,54,520,detected,299,Y,Y,522,Whole subject index dropped; booklet never mentions the index. True printed page 522 (pipeline 520). Not named.,294,
+U30,lesy1,12,Social science,2021-22,2,142,folio,3,N,Y,,Text identical on new p.118; only folio and drop-cap rendering differ.,2,stray page number and drop-cap rendering; mostly fixed (2 words left)

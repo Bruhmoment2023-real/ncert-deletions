@@ -1,9 +1,9 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-kegy1,Fundamentals of Physical Geography,old,rat2023,kegy101,0,kegy101,kegy101,1.0,0,1472,0,0.0,0,1472,0,94,0,0,0
-kegy1,Fundamentals of Physical Geography,old,rat2023,kegy102,0,kegy102,kegy102,0.7189,0,5216,1395,0.2674,39,3719,1,244,4,0,92
-kegy1,Fundamentals of Physical Geography,old,rat2023,kegy103,0,kegy103,kegy103,0.8264,0,5874,980,0.1668,27,4836,1,311,3,0,81
-kegy1,Fundamentals of Physical Geography,old,rat2023,kegy104,0,kegy104,kegy104,0.7121,0,7985,2158,0.2703,86,5799,11,343,17,0,125
-kegy1,Fundamentals of Physical Geography,old,rat2023,kegy105,0,kegy105,kegy105,0.786,0,4641,922,0.1987,42,3660,4,240,5,0,55
-kegy1,Fundamentals of Physical Geography,old,rat2023,kegy106,0,,kegy103,0.0217,1,3416,3272,0.9578,144,0,0,0,2,3,244
-kegy1,Fundamentals of Physical Geography,old,rat2023,kegy107,0,kegy106,kegy106,0.814,0,9240,1642,0.1777,0,7559,13,458,3,0,177
-kegy1,Fundamentals of Physical Geography,old,rat2023,kegy1ps,1,kegy1ps,kegy1ps,0.8905,0,1808,91,0.0503,0,1901,208,130,7,0,11
+kegy1,India: Physical Environment,old,rat2023,kegy101,0,kegy101,kegy101,1.0,0,1472,0,0.0,0,1472,0,94,0,0,0
+kegy1,India: Physical Environment,old,rat2023,kegy102,0,kegy102,kegy102,0.723,0,5216,1399,0.2682,44,3719,1,244,1,0,95
+kegy1,India: Physical Environment,old,rat2023,kegy103,0,kegy103,kegy103,0.8299,0,5874,959,0.1633,28,4836,1,312,3,0,80
+kegy1,India: Physical Environment,old,rat2023,kegy104,0,kegy104,kegy104,0.7148,0,7985,2154,0.2698,91,5799,8,344,15,0,126
+kegy1,India: Physical Environment,old,rat2023,kegy105,0,kegy105,kegy105,0.799,0,4641,890,0.1918,36,3660,0,240,1,0,59
+kegy1,India: Physical Environment,old,rat2023,kegy106,0,,kegy103,0.0237,1,3416,3270,0.9573,146,0,0,0,3,3,243
+kegy1,India: Physical Environment,old,rat2023,kegy107,0,kegy106,kegy106,0.8173,0,9240,1596,0.1727,5,7559,3,492,2,0,144
+kegy1,India: Physical Environment,old,rat2023,kegy1ps,1,kegy1ps,kegy1ps,0.9165,0,1808,83,0.0459,0,1901,201,133,7,0,8

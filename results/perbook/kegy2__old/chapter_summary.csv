@@ -1,19 +1,19 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-kegy2,India: Physical Environment,old,rat2023,kegy201,0,kegy201,kegy201,0.8845,0,4338,501,0.1155,0,3833,1,293,0,0,31
-kegy2,India: Physical Environment,old,rat2023,kegy202,0,kegy202,kegy202,0.684,0,3174,973,0.3066,20,2143,6,173,6,0,64
-kegy2,India: Physical Environment,old,rat2023,kegy203,0,kegy203,kegy203,0.9264,0,3981,287,0.0721,0,3683,0,329,1,0,29
-kegy2,India: Physical Environment,old,rat2023,kegy204,0,kegy204,kegy204,1.0,0,3678,0,0.0,0,3678,0,264,0,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy205,0,,kegy205,0.0484,1,1923,1793,0.9324,130,0,0,0,5,5,148
-kegy2,India: Physical Environment,old,rat2023,kegy206,0,kegy205,kegy205,0.9975,0,5117,8,0.0016,0,5158,32,341,2,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy207,0,kegy206,kegy206,0.9939,0,6929,32,0.0046,0,6918,25,464,4,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy208,0,kegy207,kegy207,0.9948,0,1337,0,0.0,0,1337,0,111,0,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy209,0,kegy208,kegy208,0.9973,0,3282,6,0.0018,0,3284,8,246,0,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy210,0,kegy209,kegy209,0.9924,0,3958,10,0.0025,0,3959,11,309,2,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy211,0,kegy210,kegy210,0.9926,0,2303,1,0.0004,5,2303,8,173,0,1,0
-kegy2,India: Physical Environment,old,rat2023,kegy212,0,kegy211,kegy211,0.9982,0,3803,2,0.0005,0,3802,2,311,0,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy213,0,kegy212,kegy212,0.9964,0,3032,6,0.002,0,3032,6,246,0,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy214,0,kegy213,kegy213,0.9969,0,2943,3,0.001,0,2943,3,213,0,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy215,0,,kegy214,0.0197,1,3358,3275,0.9753,83,0,0,0,6,3,314
-kegy2,India: Physical Environment,old,rat2023,kegy216,0,kegy214,kegy214,0.9958,0,2162,2,0.0009,0,2185,24,165,0,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy2gl,1,kegy2gl,kegy2gl,0.9983,0,1812,1,0.0006,0,1814,3,120,1,0,0
-kegy2,India: Physical Environment,old,rat2023,kegy2ps,1,kegy2ps,kegy2ps,0.8707,0,1485,64,0.0431,0,1789,392,132,12,0,7
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy201,0,kegy201,kegy201,0.8845,0,4338,496,0.1143,5,3833,1,293,0,0,31
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy202,0,kegy202,kegy202,0.684,0,3174,973,0.3066,20,2143,4,173,6,0,64
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy203,0,kegy203,kegy203,0.9264,0,3981,287,0.0721,0,3683,0,329,1,0,29
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy204,0,kegy204,kegy204,1.0,0,3678,0,0.0,0,3678,0,264,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy205,0,,kegy203,0.0489,1,1923,1780,0.9256,143,0,0,0,5,7,146
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy206,0,kegy205,kegy205,0.9998,0,5117,1,0.0002,0,5158,20,342,1,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy207,0,kegy206,kegy206,0.9987,0,6929,9,0.0013,0,6918,2,466,2,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy208,0,kegy207,kegy207,0.9993,0,1337,1,0.0007,0,1337,1,111,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy209,0,kegy208,kegy208,1.0,0,3282,0,0.0,0,3284,2,246,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy210,0,kegy209,kegy209,0.9997,0,3958,1,0.0003,0,3959,2,311,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy211,0,kegy210,kegy210,0.9978,0,2303,0,0.0,2,2303,2,173,0,1,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy212,0,kegy211,kegy211,0.9995,0,3803,0,0.0,0,3802,0,311,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy213,0,kegy212,kegy212,0.9997,0,3032,0,0.0,0,3032,0,246,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy214,0,kegy213,kegy213,0.9986,0,2943,1,0.0003,0,2943,1,213,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy215,0,,kegy214,0.0197,1,3358,3275,0.9753,83,0,0,0,6,3,314
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy216,0,kegy214,kegy214,1.0,0,2162,0,0.0,0,2185,22,165,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy2gl,1,kegy2gl,kegy2gl,1.0,0,1812,0,0.0,0,1814,2,121,0,0,0
+kegy2,Fundamentals of Physical Geography,old,rat2023,kegy2ps,1,kegy2ps,kegy2ps,0.9266,0,1485,57,0.0384,0,1789,382,141,5,0,5

@@ -1,5 +1,8 @@
 # Full-corpus results (17 Oct 2026)
 
+> **Superseded figures (22 Oct 2026).** After the second checks, numbers are matched as wildcards (see `docs/CHECKS-2026-10-22.md`) and everything was re-run. Current headline: 608,840 of 2,845,676 words removed (21.4%); science 26.7%, social science 16.8%; 67.1% in 79 dropped chapter files; unlisted 25,196 of 163,592 (15.4%; science 18.8%, social science 10.6%), check-adjusted about 12.0% (95% interval 8.9-14.1%). The tables in `tables/` hold the current figures; numbers below are from before this change.
+
+
 Measurement only: how much text differs between each book's last pre-rationalisation printing and its "Rationalised 2023-24" printing. No claim is made about reasons. Words are words of extracted text (body, boxes, captions, exercises, credits; running heads, page numbers and print stamps removed; front matter excluded), counted by the pilot pack's pipeline unchanged (a word is "removed" if it sits in no run of 5 consecutive words found anywhere in the new edition). Every number below is a sum of `tables\*.csv`, which are sums of `results\perbook\*`; rerun steps are in `README.md`. NCERT's textbooks are copyrighted: they were kept for analysis only and must not be redistributed.
 
 **Who checked what:** the validation figures in section 5 were produced by the AI agent that ran the job, reading text evidence. No person has checked them. The pilot's condition (Sean redoes the check by hand) still applies.

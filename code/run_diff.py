@@ -119,7 +119,9 @@ if __name__ == "__main__":
     ap.add_argument("pairs")
     ap.add_argument("--k", type=int, default=nd.K, help="K-gram length (sensitivity check)")
     ap.add_argument("--no-fuzzy", action="store_true", help="skip the fuzzy second pass")
+    ap.add_argument("--exact-numbers", action="store_true", help="numbers must match exactly (behaviour before 22 Oct 2026)")
     ap.add_argument("--out", default="results", help="output folder under the project root")
     a = ap.parse_args()
     K, FUZZY, OUT = a.k, not a.no_fuzzy, a.out
+    nd.NUM_WILD = not a.exact_numbers
     main(a.pairs)

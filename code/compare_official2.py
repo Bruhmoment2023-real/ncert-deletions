@@ -91,6 +91,7 @@ def main(pairs_file):
                 else: c = "unlisted"
                 agg[c] += rem; agg["total"] += rem
                 if c != "no_page_number": agg["src_" + src] += rem
+                agg[f"lab_{c}_{u['label']}"] += rem     # 22 Oct 2026: which sentence labels the words sit in
                 if c in ("unlisted", "listed_later") and u["label"] in ("deleted", "reworded"):
                     unlisted.append([book, c, u["chapter"], pp, src, u["label"], n, rem, u["text"]])
         fc = full[code].get("wayback202206") or full[code].get("live20261013") or set()
@@ -103,7 +104,9 @@ def main(pairs_file):
                     "words_page_from_anchor": agg["src_anchored"],
                     "anchor_used": int(anchor_ok), "anchor_votes": f"{votes}/{nch}",
                     "official_full_chapter_entries": len(fc), "measured_chapter_files_dropped": dropped,
-                    "class11_live_used_as_first": int(bool(is11))})
+                    "class11_live_used_as_first": int(bool(is11)),
+                    **{f"unlisted_in_{lb}_units": agg[f"lab_unlisted_{lb}"] for lb in ("deleted", "reworded", "kept", "moved")},
+                    **{f"listed_in_{lb}_units": agg[f"lab_listed_2022_{lb}"] + agg[f"lab_listed_later_{lb}"] for lb in ("deleted", "reworded", "kept", "moved")}})
     with open(ROOT / "results/official_vs_measured.csv", "w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=list(out[0])); w.writeheader(); w.writerows(out)
     with open(ROOT / "results/unlisted_units_WORKING.csv", "w", newline="", encoding="utf-8-sig") as f:

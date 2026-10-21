@@ -1,11 +1,11 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-leps2,Politics in India since Independence,old2122,rat2023,leps201,0,leps201,leps201,0.9672,0,7103,159,0.0224,1,6929,5,473,2,0,15
-leps2,Politics in India since Independence,old2122,rat2023,leps202,0,leps202,leps202,0.8611,0,6898,890,0.129,23,5973,3,403,3,0,69
-leps2,Politics in India since Independence,old2122,rat2023,leps203,0,leps203,leps203,0.4999,0,6291,3070,0.488,70,3121,2,208,1,0,196
+leps2,Politics in India since Independence,old2122,rat2023,leps201,0,leps201,leps201,0.9672,0,7103,154,0.0217,6,6929,5,473,2,1,14
+leps2,Politics in India since Independence,old2122,rat2023,leps202,0,leps202,leps202,0.8614,0,6898,886,0.1284,23,5973,2,407,3,0,65
+leps2,Politics in India since Independence,old2122,rat2023,leps203,0,leps203,leps203,0.5001,0,6291,3051,0.485,86,3121,2,211,1,1,192
 leps2,Politics in India since Independence,old2122,rat2023,leps204,0,leps204,leps204,0.9791,0,5841,17,0.0029,0,5799,0,422,0,0,4
 leps2,Politics in India since Independence,old2122,rat2023,leps205,0,leps205,leps205,0.9823,0,6160,8,0.0013,0,6133,0,400,1,0,2
-leps2,Politics in India since Independence,old2122,rat2023,leps206,0,leps206,leps206,0.7423,0,7824,1962,0.2508,41,5770,8,425,6,0,123
-leps2,Politics in India since Independence,old2122,rat2023,leps207,0,,leps208,0.0069,1,7197,7045,0.9789,152,0,0,0,5,1,649
-leps2,Politics in India since Independence,old2122,rat2023,leps208,0,leps207,leps207,0.9854,0,8012,24,0.003,0,8201,207,559,1,0,1
-leps2,Politics in India since Independence,old2122,rat2023,leps209,0,leps208,leps208,0.9055,0,6636,498,0.075,17,6090,19,468,4,1,34
-leps2,Politics in India since Independence,old2122,rat2023,leps2ps,1,leps2ps,leps2ps,0.9541,0,3530,105,0.0297,0,3678,260,276,10,0,9
+leps2,Politics in India since Independence,old2122,rat2023,leps206,0,leps206,leps206,0.7427,0,7824,1959,0.2504,41,5770,7,426,5,0,123
+leps2,Politics in India since Independence,old2122,rat2023,leps207,0,,leps208,0.0078,1,7197,7040,0.9782,157,0,0,0,5,1,649
+leps2,Politics in India since Independence,old2122,rat2023,leps208,0,leps207,leps207,0.9855,0,8012,24,0.003,0,8201,207,559,1,0,1
+leps2,Politics in India since Independence,old2122,rat2023,leps209,0,leps208,leps208,0.907,0,6636,499,0.0752,18,6090,18,467,4,2,34
+leps2,Politics in India since Independence,old2122,rat2023,leps2ps,1,leps2ps,leps2ps,0.9705,0,3530,67,0.019,0,3678,253,281,10,0,4

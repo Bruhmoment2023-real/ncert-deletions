@@ -1,10 +1,10 @@
 ﻿book,title,old_edition,new_edition,old_chapter_file,front_or_back_matter,aligned_new_chapter_file,best_candidate,share_retained_in_best_candidate,chapter_dropped,old_words,removed_words,share_removed,moved_words,new_words_in_aligned,added_words_in_aligned,units_kept,units_reworded,units_moved,units_deleted
-jess4,Democratic Politics II,old_ocr,rat2023,jess401,0,jess401,jess401,0.9552,0,3214,97,0.0302,0,4194,959,375,15,0,30
-jess4,Democratic Politics II,old_ocr,rat2023,jess402,0,jess402,jess402,0.8901,0,4977,440,0.0884,0,5281,722,575,20,0,46
-jess4,Democratic Politics II,old_ocr,rat2023,jess403,0,,jess401,0.0126,1,2928,2849,0.973,79,0,0,0,9,1,399
-jess4,Democratic Politics II,old_ocr,rat2023,jess404,0,jess403,jess403,0.8913,0,4701,415,0.0883,23,5584,1274,644,15,1,77
+jess4,Democratic Politics II,old_ocr,rat2023,jess401,0,jess401,jess401,0.9558,0,3214,95,0.0296,0,4194,955,376,14,0,30
+jess4,Democratic Politics II,old_ocr,rat2023,jess402,0,jess402,jess402,0.8905,0,4977,440,0.0884,0,5281,722,575,20,0,46
+jess4,Democratic Politics II,old_ocr,rat2023,jess403,0,,jess401,0.0143,1,2928,2844,0.9713,84,0,0,0,10,1,398
+jess4,Democratic Politics II,old_ocr,rat2023,jess404,0,jess403,jess403,0.8922,0,4701,411,0.0874,23,5584,1263,646,15,1,75
 jess4,Democratic Politics II,old_ocr,rat2023,jess405,0,,jess404,0.0293,1,3278,3164,0.9652,114,0,0,0,7,3,470
-jess4,Democratic Politics II,old_ocr,rat2023,jess406,0,jess404,jess404,0.7886,0,5838,1088,0.1864,15,5877,1104,591,32,0,95
-jess4,Democratic Politics II,old_ocr,rat2023,jess407,0,jess405,jess405,0.9431,0,2425,105,0.0433,0,3908,1534,267,12,0,14
+jess4,Democratic Politics II,old_ocr,rat2023,jess406,0,jess404,jess404,0.7895,0,5838,1088,0.1864,15,5877,1099,592,33,0,93
+jess4,Democratic Politics II,old_ocr,rat2023,jess407,0,jess405,jess405,0.9489,0,2425,99,0.0408,0,3908,1511,270,10,0,13
 jess4,Democratic Politics II,old_ocr,rat2023,jess408,0,,jess404,0.0088,1,3076,2998,0.9746,78,0,0,0,6,3,370
-jess4,Democratic Politics II,old_ocr,rat2023,jess4ps,1,jess4 ps,jess4 ps,0.8625,0,3302,314,0.0951,5,3224,301,269,17,0,30
+jess4,Democratic Politics II,old_ocr,rat2023,jess4ps,1,jess4 ps,jess4 ps,0.8834,0,3302,292,0.0884,5,3224,299,275,13,0,28

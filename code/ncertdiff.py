@@ -16,6 +16,13 @@ Core idea (reflow-tolerant, order-insensitive, threshold-free at the word level)
    the headline numbers are the word counts of step 3.
 5. A second, fuzzy pass (`rescue`) repairs false removals caused by damaged PDF
    text layers (decorative fonts whose ligatures have no Unicode mapping).
+6. (22 Oct 2026) Numbers are wildcards when K-grams are matched (NUM_WILD): a token made only of
+   ASCII digits matches any other such token, so renumbered sections, figures, equations,
+   exercises and stray page numbers ("7.18 Ethyl acetate ..." -> "6.18 Ethyl acetate ...") no
+   longer count as removed words.  A K-gram with more than two numbers must still match exactly,
+   so tables, answers and numerical data are not matched by their pattern alone.  The hand check of unlisted pages found that 6 of
+   30 sampled pages held only such renumbering.  `--exact-numbers` in run_diff.py restores the
+   earlier behaviour.
 
 Nothing here judges why text changed.
 """
@@ -33,6 +40,9 @@ DEL_T = 0.50              # unit is "deleted" if < 50% of its words are retained
 CHAPTER_ALIGN_MIN = 0.30  # old chapter is "dropped" if no new chapter retains >= 30% of its words
 FUZZY_SAME = 88           # letters-only similarity at/above which two units count as the same sentence
 FUZZY_PAIR = 60           # ... at/above which they count as a reworded pair
+NUM_WILD = True           # digit-only tokens match any digit-only token in K-grams and short units
+NUM_WILD_MAX = 2          # ... but only in grams with at most this many digit-only tokens
+_DIGITS = re.compile(r"[0-9]+")
 
 STAMP_RE = re.compile(r"^\s*(rationalised\s*)?(reprint\s*)?20\d\d\s*[-–]\s*\d\d(\d\d)?\s*$", re.I)
 LIG = {"ﬁ": "fi", "ﬂ": "fl", "ﬀ": "ff", "ﬃ": "ffi", "ﬄ": "ffl", "’": "'", "‘": "'",
@@ -177,8 +187,24 @@ def extract_chapter(pdf_path: str | Path) -> tuple[list[Unit], dict]:
     return units, meta
 
 
+def _num(t: str) -> str:
+    return "#" if NUM_WILD and _DIGITS.fullmatch(t) else t
+
+
 def grams(toks: list[str], k: int = K):
-    return (tuple(toks[i:i + k]) for i in range(len(toks) - k + 1))
+    """K-grams at every position.  With NUM_WILD, digit-only tokens become "#" in a gram that holds at
+    most NUM_WILD_MAX of them (a section, figure or exercise number such as "7.18"); a gram with
+    more numbers keeps its exact digits, so tables, answers and data are retained only if the same
+    figures recur."""
+    if not NUM_WILD:
+        return (tuple(toks[i:i + k]) for i in range(len(toks) - k + 1))
+    m = [_num(t) for t in toks]
+    return (tuple(m[i:i + k]) if m[i:i + k].count("#") <= NUM_WILD_MAX else tuple(toks[i:i + k])
+            for i in range(len(m) - k + 1))
+
+
+def short_key(toks: list[str]) -> str:
+    return " ".join(_num(t) for t in toks)
 
 
 class Index:
@@ -192,7 +218,7 @@ class Index:
         for u in units:                                  # K-grams may run across sentences inside a block
             streams[(u.chapter, u.pdf_page, u.block)].extend(u.toks)
             if len(u.toks) < k:
-                self.short[u.chapter].add(" ".join(u.toks))
+                self.short[u.chapter].add(short_key(u.toks))
         # K-grams are taken over the whole chapter stream (blocks in extraction order), not block by
         # block: some pages store every printed line as its own block, and lines re-break between printings.
         chap_stream: dict[str, list[str]] = defaultdict(list)
@@ -207,7 +233,7 @@ class Index:
 
     def chapter_text(self, ch: str) -> str:
         if ch not in self._text:
-            self._text[ch] = " " + "  ".join(" ".join(tk) for (c, _, _), tk in self._streams.items() if c == ch) + " "
+            self._text[ch] = " " + "  ".join(short_key(tk) for (c, _, _), tk in self._streams.items() if c == ch) + " "
         return self._text[ch]
 
 
@@ -241,7 +267,7 @@ def score_units(units: list[Unit], other: Index, align: dict[str, str | None], k
                 # Very short unit (heading, label, "Fig. 3"): whole-string match, but only inside the
                 # aligned chapter.  Short strings recur all over a book, so a book-wide match would
                 # wrongly "retain" the headings of a chapter that was dropped.
-                s = " ".join(u.toks)
+                s = short_key(u.toks)
                 if tgt and (s in other.short.get(tgt, set()) or (" " + s + " ") in other.chapter_text(tgt)):
                     rs = rb = n
                 else:

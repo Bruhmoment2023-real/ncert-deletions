@@ -1,7 +1,7 @@
-English chapter files: 465; removed words at any threshold: 622,329
-threshold 0.20: 76 dropped chapters holding 409,477 words, of which 395,870 removed (63.6% of all removed words)
-threshold 0.25: 77 dropped chapters holding 418,209 words, of which 402,907 removed (64.7% of all removed words)
-threshold 0.30: 79 dropped chapters holding 430,713 words, of which 411,444 removed (66.1% of all removed words)
-threshold 0.35: 81 dropped chapters holding 446,054 words, of which 421,493 removed (67.7% of all removed words)
-threshold 0.40: 81 dropped chapters holding 446,054 words, of which 421,493 removed (67.7% of all removed words)
-share of a dropped chapter's words counted as removed (30%): median 97.2%, range 55.8% to 100.0%
+English chapter files: 465; removed words at any threshold: 608,840
+threshold 0.20: 76 dropped chapters holding 409,477 words, of which 393,258 removed (64.6% of all removed words)
+threshold 0.25: 77 dropped chapters holding 418,209 words, of which 400,228 removed (65.7% of all removed words)
+threshold 0.30: 79 dropped chapters holding 430,713 words, of which 408,721 removed (67.1% of all removed words)
+threshold 0.35: 81 dropped chapters holding 446,054 words, of which 418,728 removed (68.8% of all removed words)
+threshold 0.40: 81 dropped chapters holding 446,054 words, of which 418,728 removed (68.8% of all removed words)
+share of a dropped chapter's words counted as removed (30%): median 96.4%, range 55.2% to 100.0%
