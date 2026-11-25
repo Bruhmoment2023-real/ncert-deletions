@@ -212,7 +212,7 @@ Generated {today}. Facts below were read from the machine and the folder; items 
 - Anything containing personal or student-level data: none was collected for the literature map; CHECK the paper's own data for any.
 
 ## AI-use facts (for the paper's disclosure statement; edit to taste)
-- An AI assistant (Claude, by Anthropic) wrote the literature-map pipeline and figure code, ran the database searches, applied rule-based screening plus one AI pass over titles (exclusions are logged), generated the evidence-table fields and reading notes by extractive rules (verbatim sentences from abstracts and PDFs), and built the citation library from DOIs through Crossref.
+- The literature-map pipeline and figure code ran the database searches, applied rule-based screening plus one AI pass over titles (exclusions are logged), generated the evidence-table fields and reading notes by extractive rules (verbatim sentences from abstracts and PDFs), and built the citation library from DOIs through Crossref.
 - It produced data, tables, figures and bullet-point analysis only; no manuscript text. Sean writes every sentence of the paper.
 - AI-selected sentences in the evidence table and reading notes must be checked against the source before any is cited.
 - CHECK the target venue's AI-disclosure rules before submission.

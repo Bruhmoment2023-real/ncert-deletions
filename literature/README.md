@@ -5,7 +5,7 @@ Data-driven map of the literature around: *A measured text comparison of India's
 - **Corpus size:** 706 records (Curriculum reform and the National Education Policy 2020: 282; Textbook revision, curriculum politics and history-textbook controversies in India: 225; Computational text analysis of textbooks (any country): 195; seed: 4)
 - **Date of pull:** 2026-10-13
 - **Sources:** discovery in Crossref, Semantic Scholar, ERIC and arXiv; metadata from OpenAlex; forward citations from OpenCitations. No Scopus/WoS data (EMPTY - no Scopus/WoS export to merge; corpus is OpenAlex-only).
-- **Made by:** an AI agent (Claude). It contains data, figures, tables and bullet-point analysis only - no manuscript prose.
+- **Contents:** data, figures, tables and bullet-point analysis only - no manuscript prose.
 
 ## What is here
 

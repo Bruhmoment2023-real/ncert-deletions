@@ -3,7 +3,7 @@
 - Paper question: A measured text comparison of India's NCERT textbooks before and after the 2022-23 rationalisation
 - Date of search and data pull: **2026-10-13**
 - Years covered: 1990-2026; language: English (OpenAlex language field `en` or missing)
-- Built by an AI agent (Claude) with the scripts in `python\` and `R\`; all numbers below are read from the run logs.
+- Built with the scripts in `python\` and `R\`; all numbers below are read from the run logs.
 
 ## 1. Databases
 
